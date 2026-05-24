@@ -2,8 +2,9 @@
 
 AI 网站、资源清单、知识管理、排版工作台、个人工具和资源型内容。
 
-共 12 篇。
+共 13 篇。
 
+- 2026-05-19 - [给大家详细介绍下 weread skills](./%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D%E4%B8%8B%20weread%20skills.md)
 - 2026-05-15 - [Slock.ai 是个啥](./Slock.ai%20%E6%98%AF%E4%B8%AA%E5%95%A5.md)
 - 2026-05-13 - [这个 Github ，算是把白嫖给玩明白了](./%E8%BF%99%E4%B8%AA%20Github%20%EF%BC%8C%E7%AE%97%E6%98%AF%E6%8A%8A%E7%99%BD%E5%AB%96%E7%BB%99%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86.md)
 - 2026-04-27 - [AI 前沿网站推荐：国外为主，国内精选（CDN版）](./AI%20%E5%89%8D%E6%B2%BF%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90%EF%BC%9A%E5%9B%BD%E5%A4%96%E4%B8%BA%E4%B8%BB%EF%BC%8C%E5%9B%BD%E5%86%85%E7%B2%BE%E9%80%89%EF%BC%88CDN%E7%89%88%EF%BC%89.md)

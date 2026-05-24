@@ -2,8 +2,10 @@
 
 Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。
 
-共 23 篇。
+共 25 篇。
 
+- 2026-05-24 - [Codex 把我家网给优化了，我 TM 直接原地起飞了。](./Codex%20%E6%8A%8A%E6%88%91%E5%AE%B6%E7%BD%91%E7%BB%99%E4%BC%98%E5%8C%96%E4%BA%86%EF%BC%8C%E6%88%91%20TM%20%E7%9B%B4%E6%8E%A5%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%E3%80%82.md)
+- 2026-05-21 - [Agent Workflow Kit 接入你的项目](./Agent%20Workflow%20Kit%20%E6%8E%A5%E5%85%A5%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE.md)
 - 2026-05-15 - [Codex 进手机了，这才是 Agent 该有的移动端](./Codex%20%E8%BF%9B%E6%89%8B%E6%9C%BA%E4%BA%86%EF%BC%8C%E8%BF%99%E6%89%8D%E6%98%AF%20Agent%20%E8%AF%A5%E6%9C%89%E7%9A%84%E7%A7%BB%E5%8A%A8%E7%AB%AF.md)
 - 2026-05-14 - [我的一个任务，执行了 75h](./%E6%88%91%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BB%BB%E5%8A%A1%EF%BC%8C%E6%89%A7%E8%A1%8C%E4%BA%86%2075h.md)
 - 2026-05-11 - [我终于把 Codex 的用量扒出来了，原来最贵的不是输出](./%E6%88%91%E7%BB%88%E4%BA%8E%E6%8A%8A%20Codex%20%E7%9A%84%E7%94%A8%E9%87%8F%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C%E5%8E%9F%E6%9D%A5%E6%9C%80%E8%B4%B5%E7%9A%84%E4%B8%8D%E6%98%AF%E8%BE%93%E5%87%BA.md)
