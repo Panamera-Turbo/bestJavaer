@@ -4,7 +4,7 @@
 
 | 分类 | 说明 | 数量 |
 | --- | --- | ---: |
-| [AI Agent 与编程工具](./01-agent-and-coding/README.md) | Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。 | 27 |
+| [AI Agent 与编程工具](./01-agent-and-coding/README.md) | Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。 | 26 |
 | [模型、研究与 Prompt](./02-models-and-research/README.md) | 模型能力、研究论文/报告、Prompt 方法论、评测和 LLM 认知。 | 18 |
 | [工具、资源与工作台](./03-tools-and-resources/README.md) | AI 网站、资源清单、知识管理、排版工作台、个人工具和资源型内容。 | 13 |
 | [产业、公司与商业动态](./04-industry-and-business/README.md) | 公司动态、平台变化、商业化、基础设施、安全事件和行业判断。 | 17 |
@@ -15,7 +15,6 @@
 
 ### AI Agent 与编程工具
 
-- 2026-05-27 - [飞算 Java 智能体](./01-agent-and-coding/%E9%A3%9E%E7%AE%97%20Java%20%E6%99%BA%E8%83%BD%E4%BD%93.md)
 - 2026-05-25 - [Codex 官方：goal 的正确打开方式](./01-agent-and-coding/Codex%20%E5%AE%98%E6%96%B9%EF%BC%9Agoal%20%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F.md)
 - 2026-05-24 - [Codex 把我家网给优化了，我 TM 直接原地起飞了。](./01-agent-and-coding/Codex%20%E6%8A%8A%E6%88%91%E5%AE%B6%E7%BD%91%E7%BB%99%E4%BC%98%E5%8C%96%E4%BA%86%EF%BC%8C%E6%88%91%20TM%20%E7%9B%B4%E6%8E%A5%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%E3%80%82.md)
 - 2026-05-21 - [Agent Workflow Kit 接入你的项目](./01-agent-and-coding/Agent%20Workflow%20Kit%20%E6%8E%A5%E5%85%A5%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE.md)
