@@ -18,53 +18,26 @@
 
 ## 新主线
 
-### AI 文章
+<div class="home-feature-grid">
+  <a class="home-feature-card" href="#/ai-articles/README">
+    <strong>AI 文章</strong>
+    <span>我对 AI 的观察、吐槽和思考。它不一定是教程，也不一定是结论，更像是一个普通开发者在 AI 时代里的真实记录。</span>
+  </a>
+  <a class="home-feature-card" href="#/ai-resources/README">
+    <strong>AI 资源</strong>
+    <span>轻量整理我觉得值得收藏的 AI 项目、工具和资料，不做普通的 awesome 列表。</span>
+  </a>
+  <a class="home-feature-card" href="#/development-guidelines/README">
+    <strong>开发规约</strong>
+    <span>项目维护、AI coding 工作流和开发协作相关的规约，会慢慢沉淀成可复用的实践。</span>
+  </a>
+  <a class="home-feature-card" href="#/archive-bestjavaer/README">
+    <strong>旧内容归档</strong>
+    <span>Java、并发、JVM、操作系统、网络、MySQL、Spring、面试题等旧 bestJavaer 内容继续保留。</span>
+  </a>
+</div>
 
-这里会放我对 AI 的观察、吐槽和思考。它不一定是教程，也不一定是结论，更像是一个普通开发者在 AI 时代里的真实记录。
-
-目前先整理在 [ai-articles](./ai-articles/README.md)。
-
-### AI Playground
-
-这里会放一些好玩、有趣、有意思的 AI 实验。
-
-* 用 AI 做一个奇怪网页
-* 用 AI 生成图片、音乐、视频、Logo
-* 用 Agent 跑一个小任务
-* 用 AI 改造一个老项目
-* 测试不同模型的奇怪能力
-
-反正就是玩。这个板块不追求严肃，也不追求一定有用。好玩本身也是价值。
-
-### AI Resources
-
-这里会放我觉得值得收藏的 AI 资源推荐。
-
-我不太想把它做成普通的 `awesome-ai`，那种东西已经很多了。这里会尽量保持轻一点，只放项目 logo 和一句我自己的推荐语。
-
-目前先放在 [ai-resources](./ai-resources/README.md)。
-
-### AI Trash
-
-这个 AI Trash 一方面来源于行话 --- 今天又用 AI 造出来什么垃圾了。
-
-一方面来源于我看过的一个 Google 的主页 --- [Google 死掉的产品](https://killedbygoogle.com/)
-
-虽然 Google 做出来很多优秀的产品，但其实也有许多产品在各个生命周期内死掉。
-
-这么优秀的公司都会这样，更何况我们普通人做出来的东西。
-
-所以这里会收留一些我自己做出来的“AI 垃圾”。
-
-它们可能是做了一半的小工具，可能是想法很好但实现很烂的 demo，可能是 AI 生成的离谱内容，也可能是没啥用但很好笑的小玩意儿。
-
-垃圾不一定没有价值。有些垃圾是某个想法的化石，有些垃圾能证明一条路暂时走不通，有些垃圾只是单纯让我笑了一下。
-
-### 开发规约
-
-这里会放项目维护、AI coding 工作流和开发协作相关的规约。
-
-目前先放在 [development-guidelines](./development-guidelines/README.md)。
+这里后面还会放一些 AI Playground 和 AI Trash：好玩的实验、做废的小工具、离谱但真实的 AI 生成内容，以及一些能证明某条路暂时走不通的想法化石。
 
 ## 旧内容
 

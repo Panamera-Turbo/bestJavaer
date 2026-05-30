@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+</head>
+<body>
+  <script>
+    (function () {
+      var repoBase = '/bestJavaer/';
+      var path = window.location.pathname;
+      var base = path.indexOf(repoBase) === 0 ? repoBase : '/';
+      var route = path.slice(base.length).replace(/\/$/, '');
+      var query = window.location.search || '';
+      var hash = window.location.hash || '';
+
+      if (route.slice(-3).toLowerCase() === '.md') {
+        route = route.slice(0, -3);
+      }
+
+      window.location.replace(base + '#/' + route + query + hash);
+    }());
+  </script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="bestJavaer: AI playground, articles, resources, and archived Java learning notes.">
+  <title>bestJavaer</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="./assets/docsify.css?v=20260530-taste-14">
+</head>
+<body>
+  <div id="app">Loading...</div>
+  <script>
+    window.$docsify = {
+      name: 'bestJavaer',
+      nameLink: '#/',
+      repo: 'crisxuan/bestJavaer',
+      homepage: 'README.md?v=20260530-home-2',
+      loadNavbar: '_navbar.md',
+      loadSidebar: '_sidebar.md',
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
+      },
+      notFoundPage: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      relativePath: true,
+      mergeNavbar: true,
+      plugins: [
+        function routeCleaner(hook) {
+          hook.init(function () {
+            var cleanHash = normalizeRouteHash(window.location.hash);
+
+            if (cleanHash && cleanHash !== window.location.hash) {
+              window.location.replace(window.location.pathname + window.location.search + cleanHash);
+            }
+          });
+        }
+      ],
+      requestHeaders: {
+        'cache-control': 'no-cache'
+      },
+      search: {
+        depth: 4,
+        noData: '没有找到结果',
+        paths: 'auto',
+        placeholder: '搜索文章'
+      },
+      copyCode: {
+        buttonText: '复制',
+        errorText: '复制失败',
+        successText: '已复制'
+      }
+    };
+
+    function normalizeRouteHash(hash) {
+      if (!hash || hash.indexOf('#/') !== 0) {
+        return hash;
+      }
+
+      var route = hash.slice(2);
+      var queryIndex = route.indexOf('?');
+      var query = queryIndex >= 0 ? route.slice(queryIndex) : '';
+      var path = queryIndex >= 0 ? route.slice(0, queryIndex) : route;
+      var parts = path.split('/').filter(Boolean);
+      var cleaned = [];
+
+      parts.forEach(function (part) {
+        var previous = cleaned[cleaned.length - 1];
+
+        if (part === previous) {
+          return;
+        }
+
+        if (part === 'ai-articles' && cleaned.indexOf('ai-articles') !== -1) {
+          return;
+        }
+
+        cleaned.push(part);
+      });
+
+      return '#/' + cleaned.join('/') + query;
+    }
+  </script>
+  <script src="./assets/article-cards.js?v=20260530-11"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
+</body>
+</html>
