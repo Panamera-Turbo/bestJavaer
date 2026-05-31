@@ -4,7 +4,7 @@
 
 | 分类 | 说明 | 数量 |
 | --- | --- | ---: |
-| [AI Agent 与编程工具](./01-agent-and-coding/README.md) | Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。 | 24 |
+| [AI Agent 与编程工具](./01-agent-and-coding/README.md) | Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。 | 27 |
 | [模型、研究与 Prompt](./02-models-and-research/README.md) | 模型能力、研究论文/报告、Prompt 方法论、评测和 LLM 认知。 | 15 |
 | [工具、资源与工作台](./03-tools-and-resources/README.md) | AI 网站、资源清单、知识管理、排版工作台、个人工具和资源型内容。 | 10 |
 | [产业、公司与商业动态](./04-industry-and-business/README.md) | 公司动态、平台变化、商业化、基础设施、安全事件和行业判断。 | 17 |
@@ -15,6 +15,9 @@
 
 ### AI Agent 与编程工具
 
+- 2026-05-30 - [我花了两天时间，终于把 Codex 额度掉太快的问题整明白了！！](./01-agent-and-coding/%E6%88%91%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%8A%8A%20Codex%20%E9%A2%9D%E5%BA%A6%E6%8E%89%E5%A4%AA%E5%BF%AB%E7%9A%84%E9%97%AE%E9%A2%98%E6%95%B4%E6%98%8E%E7%99%BD%E4%BA%86%EF%BC%81%EF%BC%81.md)
+- 2026-05-30 - [还在用 Codex 开 xhigh 拉满跑？大错特错](./01-agent-and-coding/%E8%BF%98%E5%9C%A8%E7%94%A8%20Codex%20%E5%BC%80%20xhigh%20%E6%8B%89%E6%BB%A1%E8%B7%91%EF%BC%9F%E5%A4%A7%E9%94%99%E7%89%B9%E9%94%99.md)
+- 2026-05-28 - [如何把 Codex 用到极致](./01-agent-and-coding/%E5%A6%82%E4%BD%95%E6%8A%8A%20Codex%20%E7%94%A8%E5%88%B0%E6%9E%81%E8%87%B4.md)
 - 2026-05-25 - [Codex 官方：goal 的正确打开方式](./01-agent-and-coding/Codex%20%E5%AE%98%E6%96%B9%EF%BC%9Agoal%20%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F.md)
 - 2026-05-24 - [Codex 把我家网给优化了，我 TM 直接原地起飞了。](./01-agent-and-coding/Codex%20%E6%8A%8A%E6%88%91%E5%AE%B6%E7%BD%91%E7%BB%99%E4%BC%98%E5%8C%96%E4%BA%86%EF%BC%8C%E6%88%91%20TM%20%E7%9B%B4%E6%8E%A5%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%E3%80%82.md)
 - 2026-05-21 - [Agent Workflow Kit 接入你的项目](./01-agent-and-coding/Agent%20Workflow%20Kit%20%E6%8E%A5%E5%85%A5%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE.md)
