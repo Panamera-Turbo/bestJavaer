@@ -66,13 +66,17 @@
     document.documentElement.classList.toggle('article-index-page', isArticleIndex);
     document.documentElement.classList.toggle('wide-page', isHome || isArticleIndex);
 
-    if (!isArticleIndex) {
-      return;
-    }
-
     var section = document.querySelector('.markdown-section');
 
     if (!section) {
+      return;
+    }
+
+    if (isHome) {
+      decorateHomePage(section);
+    }
+
+    if (!isArticleIndex) {
       return;
     }
 
@@ -90,6 +94,35 @@
       articleItems.forEach(function (item) {
         renderCard(item);
       });
+    });
+  }
+
+  function decorateHomePage(section) {
+    var classes = [
+      'home-reading-grid',
+      'home-feature-grid',
+      'home-update-list',
+      'home-reason-grid'
+    ];
+    var classByHeading = {
+      '先从这几篇开始': 'home-reading-grid',
+      '新主线': 'home-feature-grid',
+      '最近更新': 'home-update-list',
+      '为什么值得关注': 'home-reason-grid'
+    };
+
+    Array.from(section.querySelectorAll('h2')).forEach(function (heading) {
+      var listClass = classByHeading[heading.textContent.trim()];
+      var next = heading.nextElementSibling;
+
+      if (!listClass || !next || next.tagName !== 'UL') {
+        return;
+      }
+
+      classes.forEach(function (className) {
+        next.classList.remove(className);
+      });
+      next.classList.add(listClass);
     });
   }
 
