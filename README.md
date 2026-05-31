@@ -52,7 +52,7 @@
 * 2026-05-25 · [Codex 官方：/goal 的正确打开方式](./ai-articles/01-agent-and-coding/Codex%20%E5%AE%98%E6%96%B9%EF%BC%9Agoal%20%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F.md)
 * 2026-05-24 · [Codex 把我家网给优化了，我 TM 直接原地起飞了。](./ai-articles/01-agent-and-coding/Codex%20%E6%8A%8A%E6%88%91%E5%AE%B6%E7%BD%91%E7%BB%99%E4%BC%98%E5%8C%96%E4%BA%86%EF%BC%8C%E6%88%91%20TM%20%E7%9B%B4%E6%8E%A5%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%E3%80%82.md)
 * 2026-05-21 · [Agent Workflow Kit 接入你的项目](./ai-articles/01-agent-and-coding/Agent%20Workflow%20Kit%20%E6%8E%A5%E5%85%A5%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE.md)
-* 2026-05-21 · [ChatGPT 能验证 AI 生成的图片了](./ai-articles/05-ai-creation-and-media/ChatGPT%20%E8%83%BD%E9%AA%8C%E8%AF%81%20AI%20%E7%94%9F%E6%88%90%E7%9A%84%E5%9B%BE%E7%89%87%E4%BA%86.md)
+* 2026-05-19 · [Deepseek 会泄露其他玩家的对话](./ai-articles/02-models-and-research/Deepseek%20%E4%BC%9A%E6%B3%84%E9%9C%B2%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6%E7%9A%84%E5%AF%B9%E8%AF%9D.md)
 * 2026-05-19 · [给大家详细介绍下 weread skills](./ai-articles/03-tools-and-resources/%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D%E4%B8%8B%20weread%20skills.md)
 
 ## 为什么值得关注

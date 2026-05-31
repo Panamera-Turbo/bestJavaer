@@ -4,12 +4,12 @@
 
 | 分类 | 说明 | 数量 |
 | --- | --- | ---: |
-| [AI Agent 与编程工具](./01-agent-and-coding/README.md) | Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。 | 26 |
-| [模型、研究与 Prompt](./02-models-and-research/README.md) | 模型能力、研究论文/报告、Prompt 方法论、评测和 LLM 认知。 | 18 |
-| [工具、资源与工作台](./03-tools-and-resources/README.md) | AI 网站、资源清单、知识管理、排版工作台、个人工具和资源型内容。 | 13 |
+| [AI Agent 与编程工具](./01-agent-and-coding/README.md) | Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。 | 24 |
+| [模型、研究与 Prompt](./02-models-and-research/README.md) | 模型能力、研究论文/报告、Prompt 方法论、评测和 LLM 认知。 | 15 |
+| [工具、资源与工作台](./03-tools-and-resources/README.md) | AI 网站、资源清单、知识管理、排版工作台、个人工具和资源型内容。 | 10 |
 | [产业、公司与商业动态](./04-industry-and-business/README.md) | 公司动态、平台变化、商业化、基础设施、安全事件和行业判断。 | 17 |
-| [AI 生成与多媒体](./05-ai-creation-and-media/README.md) | 图像、视频、3D、创意生成和 AI 内容实验。 | 5 |
-| [观察、杂谈与事故记录](./06-notes-and-observations/README.md) | 个人观察、杂谈、踩坑、事故复盘和横跨多个主题的真实记录。 | 8 |
+| [AI 生成与多媒体](./05-ai-creation-and-media/README.md) | 图像、视频、3D、创意生成和 AI 内容实验。 | 4 |
+| [观察、杂谈与事故记录](./06-notes-and-observations/README.md) | 个人观察、杂谈、踩坑、事故复盘和横跨多个主题的真实记录。 | 7 |
 
 ## 全部文章
 
@@ -19,7 +19,6 @@
 - 2026-05-24 - [Codex 把我家网给优化了，我 TM 直接原地起飞了。](./01-agent-and-coding/Codex%20%E6%8A%8A%E6%88%91%E5%AE%B6%E7%BD%91%E7%BB%99%E4%BC%98%E5%8C%96%E4%BA%86%EF%BC%8C%E6%88%91%20TM%20%E7%9B%B4%E6%8E%A5%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%E3%80%82.md)
 - 2026-05-21 - [Agent Workflow Kit 接入你的项目](./01-agent-and-coding/Agent%20Workflow%20Kit%20%E6%8E%A5%E5%85%A5%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE.md)
 - 2026-05-15 - [Codex 进手机了，这才是 Agent 该有的移动端](./01-agent-and-coding/Codex%20%E8%BF%9B%E6%89%8B%E6%9C%BA%E4%BA%86%EF%BC%8C%E8%BF%99%E6%89%8D%E6%98%AF%20Agent%20%E8%AF%A5%E6%9C%89%E7%9A%84%E7%A7%BB%E5%8A%A8%E7%AB%AF.md)
-- 2026-05-14 - [我的一个任务，执行了 75h](./01-agent-and-coding/%E6%88%91%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BB%BB%E5%8A%A1%EF%BC%8C%E6%89%A7%E8%A1%8C%E4%BA%86%2075h.md)
 - 2026-05-11 - [我终于把 Codex 的用量扒出来了，原来最贵的不是输出](./01-agent-and-coding/%E6%88%91%E7%BB%88%E4%BA%8E%E6%8A%8A%20Codex%20%E7%9A%84%E7%94%A8%E9%87%8F%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C%E5%8E%9F%E6%9D%A5%E6%9C%80%E8%B4%B5%E7%9A%84%E4%B8%8D%E6%98%AF%E8%BE%93%E5%87%BA.md)
 - 2026-05-08 - [我的 Codex 它把自己改崩了！](./01-agent-and-coding/%E6%88%91%E7%9A%84%20Codex%20%E5%AE%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%94%B9%E5%B4%A9%E4%BA%86%EF%BC%81.md)
 - 2026-05-08 - [Codex 的桌面版宠物比 CC 的好用多了 - 新稿](./01-agent-and-coding/Codex%20%E7%9A%84%E6%A1%8C%E9%9D%A2%E7%89%88%E5%AE%A0%E7%89%A9%E6%AF%94%20CC%20%E7%9A%84%E5%A5%BD%E7%94%A8%E5%A4%9A%E4%BA%86%20-%20%E6%96%B0%E7%A8%BF.md)
@@ -29,7 +28,6 @@
 - 2026-04-16 - [Claude Code 100万上下文：到底是真需求还是营销废话](./01-agent-and-coding/Claude%20Code%20100%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%9A%E5%88%B0%E5%BA%95%E6%98%AF%E7%9C%9F%E9%9C%80%E6%B1%82%E8%BF%98%E6%98%AF%E8%90%A5%E9%94%80%E5%BA%9F%E8%AF%9D.md)
 - 2026-04-16 - [Anthropic 这步棋走得漂亮：Claude 的「策略顾问」模式，正在重新定义 AI Agent 的成本方程式](./01-agent-and-coding/Anthropic%20%E8%BF%99%E6%AD%A5%E6%A3%8B%E8%B5%B0%E5%BE%97%E6%BC%82%E4%BA%AE%EF%BC%9AClaude%20%E7%9A%84%E3%80%8C%E7%AD%96%E7%95%A5%E9%A1%BE%E9%97%AE%E3%80%8D%E6%A8%A1%E5%BC%8F%EF%BC%8C%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%20AI%20Agent%20%E7%9A%84%E6%88%90%E6%9C%AC%E6%96%B9%E7%A8%8B%E5%BC%8F.md)
 - 2026-04-14 - [如何用10个Claude工作流程每月节省45小时](./01-agent-and-coding/%E5%A6%82%E4%BD%95%E7%94%A810%E4%B8%AAClaude%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E6%AF%8F%E6%9C%88%E8%8A%82%E7%9C%8145%E5%B0%8F%E6%97%B6.md)
-- 2026-04-11 - [Hermes 宣布可以接入微信了。](./01-agent-and-coding/Hermes%20%E5%AE%A3%E5%B8%83%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%85%A5%E5%BE%AE%E4%BF%A1%E4%BA%86%E3%80%82.md)
 - 2026-04-09 - [OpenClaw 凉了，Hermes 已至](./01-agent-and-coding/OpenClaw%20%E5%87%89%E4%BA%86%EF%BC%8CHermes%20%E5%B7%B2%E8%87%B3.md)
 - 2026-04-07 - [2026 AI Agent](./01-agent-and-coding/2026%20AI%20Agent.md)
 - 2026-04-04 - [从 IDE 到 CLI，再到 Thread：Codex 所代表的新业态形态](./01-agent-and-coding/%E4%BB%8E%20IDE%20%E5%88%B0%20CLI%EF%BC%8C%E5%86%8D%E5%88%B0%20Thread%EF%BC%9ACodex%20%E6%89%80%E4%BB%A3%E8%A1%A8%E7%9A%84%E6%96%B0%E4%B8%9A%E6%80%81%E5%BD%A2%E6%80%81.md)
@@ -53,11 +51,8 @@
 - 2026-05-06 - [Anthropic 研究解读：当 AI 成为个人决策顾问](./02-models-and-research/Anthropic%20%E7%A0%94%E7%A9%B6%E8%A7%A3%E8%AF%BB%EF%BC%9A%E5%BD%93%20AI%20%E6%88%90%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%86%B3%E7%AD%96%E9%A1%BE%E9%97%AE.md)
 - 2026-05-03 - [我把 openai 的接口扒了，这事儿挺像悬疑故事](./02-models-and-research/%E6%88%91%E6%8A%8A%20openai%20%E7%9A%84%E6%8E%A5%E5%8F%A3%E6%89%92%E4%BA%86%EF%BC%8C%E8%BF%99%E4%BA%8B%E5%84%BF%E6%8C%BA%E5%83%8F%E6%82%AC%E7%96%91%E6%95%85%E4%BA%8B.md)
 - 2026-04-28 - [小米开放100T-token](./02-models-and-research/%E5%B0%8F%E7%B1%B3%E5%BC%80%E6%94%BE100T-token.md)
-- 2026-04-24 - [我做了一个很有意思的测试](./02-models-and-research/%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BE%88%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%B5%8B%E8%AF%95.md)
 - 2026-04-19 - [Karpathy skills 40k star 分析](./02-models-and-research/Karpathy%20skills%2040k%20star%20%E5%88%86%E6%9E%90.md)
-- 2026-04-18 - [Karpathy 的 LLM 方法论](./02-models-and-research/Karpathy%20%E7%9A%84%20LLM%20%E6%96%B9%E6%B3%95%E8%AE%BA.md)
 - 2026-04-09 - [Anthropic 不发布 Mythos 的真正原因](./02-models-and-research/Anthropic%20%E4%B8%8D%E5%8F%91%E5%B8%83%20Mythos%20%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0.md)
-- 2026-04-08 - [GLM 5.1 也来了](./02-models-and-research/GLM%205.1%20%E4%B9%9F%E6%9D%A5%E4%BA%86.md)
 - 2026-04-08 - [DeepSeek_V3_专家模式_vs_快速模式](./02-models-and-research/DeepSeek_V3_%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F_vs_%E5%BF%AB%E9%80%9F%E6%A8%A1%E5%BC%8F.md)
 - 2026-04-07 - [token 与比特币](./02-models-and-research/token%20%E4%B8%8E%E6%AF%94%E7%89%B9%E5%B8%81.md)
 - 2026-03-27 - [Claude 王炸](./02-models-and-research/Claude%20%E7%8E%8B%E7%82%B8.md)
@@ -67,16 +62,13 @@
 
 - 2026-05-19 - [给大家详细介绍下 weread skills](./03-tools-and-resources/%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D%E4%B8%8B%20weread%20skills.md)
 - 2026-05-15 - [Slock.ai 是个啥](./03-tools-and-resources/Slock.ai%20%E6%98%AF%E4%B8%AA%E5%95%A5.md)
-- 2026-05-13 - [这个 Github ，算是把白嫖给玩明白了](./03-tools-and-resources/%E8%BF%99%E4%B8%AA%20Github%20%EF%BC%8C%E7%AE%97%E6%98%AF%E6%8A%8A%E7%99%BD%E5%AB%96%E7%BB%99%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86.md)
 - 2026-04-27 - [AI 前沿网站推荐：国外为主，国内精选（CDN版）](./03-tools-and-resources/AI%20%E5%89%8D%E6%B2%BF%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90%EF%BC%9A%E5%9B%BD%E5%A4%96%E4%B8%BA%E4%B8%BB%EF%BC%8C%E5%9B%BD%E5%86%85%E7%B2%BE%E9%80%89%EF%BC%88CDN%E7%89%88%EF%BC%89.md)
 - 2026-04-23 - [Layweout 公众号排版工作台](./03-tools-and-resources/Layweout%20%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8E%92%E7%89%88%E5%B7%A5%E4%BD%9C%E5%8F%B0.md)
-- 2026-04-21 - [不装了，我上线了一个银河系个人网站](./03-tools-and-resources/%E4%B8%8D%E8%A3%85%E4%BA%86%EF%BC%8C%E6%88%91%E4%B8%8A%E7%BA%BF%E4%BA%86%E4%B8%80%E4%B8%AA%E9%93%B6%E6%B2%B3%E7%B3%BB%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99.md)
 - 2026-04-19 - [吴恩达发布了一个新的课程](./03-tools-and-resources/%E5%90%B4%E6%81%A9%E8%BE%BE%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E8%AF%BE%E7%A8%8B.md)
 - 2026-04-16 - [实测 popx 工坊：打字就上线，这事真的假的](./03-tools-and-resources/%E5%AE%9E%E6%B5%8B%20popx%20%E5%B7%A5%E5%9D%8A%EF%BC%9A%E6%89%93%E5%AD%97%E5%B0%B1%E4%B8%8A%E7%BA%BF%EF%BC%8C%E8%BF%99%E4%BA%8B%E7%9C%9F%E7%9A%84%E5%81%87%E7%9A%84.md)
 - 2026-04-15 - [36 张图彻底解释清楚 AI 圈 136 个造词艺术！！！](./03-tools-and-resources/36%20%E5%BC%A0%E5%9B%BE%E5%BD%BB%E5%BA%95%E8%A7%A3%E9%87%8A%E6%B8%85%E6%A5%9A%20AI%20%E5%9C%88%20136%20%E4%B8%AA%E9%80%A0%E8%AF%8D%E8%89%BA%E6%9C%AF%EF%BC%81%EF%BC%81%EF%BC%81.md)
 - 2026-04-07 - [SearchNews 优化方向（结合 WeWrite 对比分析）](./03-tools-and-resources/SearchNews%20%E4%BC%98%E5%8C%96%E6%96%B9%E5%90%91%EF%BC%88%E7%BB%93%E5%90%88%20WeWrite%20%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90%EF%BC%89.md)
 - 2026-04-03 - [Zread 本地知识库](./03-tools-and-resources/Zread%20%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93.md)
-- 2026-03-11 - [个人品牌设计  程序员cxuan](./03-tools-and-resources/%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1%20%20%E7%A8%8B%E5%BA%8F%E5%91%98cxuan.md)
 - 2026-03-10 - [全球态势监控项目](./03-tools-and-resources/%E5%85%A8%E7%90%83%E6%80%81%E5%8A%BF%E7%9B%91%E6%8E%A7%E9%A1%B9%E7%9B%AE.md)
 
 ### 产业、公司与商业动态
@@ -101,7 +93,6 @@
 
 ### AI 生成与多媒体
 
-- 2026-05-21 - [ChatGPT 能验证 AI 生成的图片了](./05-ai-creation-and-media/ChatGPT%20%E8%83%BD%E9%AA%8C%E8%AF%81%20AI%20%E7%94%9F%E6%88%90%E7%9A%84%E5%9B%BE%E7%89%87%E4%BA%86.md)
 - 2026-04-30 - [不得了了，GPT-image-2 的华人下场了](./05-ai-creation-and-media/%E4%B8%8D%E5%BE%97%E4%BA%86%E4%BA%86%EF%BC%8CGPT-image-2%20%E7%9A%84%E5%8D%8E%E4%BA%BA%E4%B8%8B%E5%9C%BA%E4%BA%86.md)
 - 2026-04-23 - [GPT-image-2 来了，黑暗森林也来了](./05-ai-creation-and-media/GPT-image-2%20%E6%9D%A5%E4%BA%86%EF%BC%8C%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E4%B9%9F%E6%9D%A5%E4%BA%86.md)
 - 2026-04-21 - [我拿GPT-image-2生成了秦朝的朋友圈，这玩意儿也太离谱了](./05-ai-creation-and-media/%E6%88%91%E6%8B%BFGPT-image-2%E7%94%9F%E6%88%90%E4%BA%86%E7%A7%A6%E6%9C%9D%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%EF%BC%8C%E8%BF%99%E7%8E%A9%E6%84%8F%E5%84%BF%E4%B9%9F%E5%A4%AA%E7%A6%BB%E8%B0%B1%E4%BA%86.md)
@@ -116,4 +107,3 @@
 - 2026-03-24 - [说点掏心窝子的话。](./06-notes-and-observations/%E8%AF%B4%E7%82%B9%E6%8E%8F%E5%BF%83%E7%AA%9D%E5%AD%90%E7%9A%84%E8%AF%9D%E3%80%82.md)
 - 2026-03-21 - [大家好，很高兴认识大家。](./06-notes-and-observations/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E5%A4%A7%E5%AE%B6%E3%80%82.md)
 - 2026-03-14 - [学没学过技术，在用 AI 这块，还是不能一概而论](./06-notes-and-observations/%E5%AD%A6%E6%B2%A1%E5%AD%A6%E8%BF%87%E6%8A%80%E6%9C%AF%EF%BC%8C%E5%9C%A8%E7%94%A8%20AI%20%E8%BF%99%E5%9D%97%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%8D%E8%83%BD%E4%B8%80%E6%A6%82%E8%80%8C%E8%AE%BA.md)
-- 2026-03-10 - [服务器被攻击了](./06-notes-and-observations/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%A2%AB%E6%94%BB%E5%87%BB%E4%BA%86.md)
