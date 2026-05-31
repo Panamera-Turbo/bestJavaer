@@ -597,8 +597,19 @@ nav a:hover {
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 }
 
-.markdown-section .home-feature-card,
+.home-page .markdown-section .home-feature-grid {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
 .home-page .markdown-section .home-feature-grid > li,
+.home-page .markdown-section .home-reading-grid > li {
+  list-style: none;
+  margin: 0;
+  min-width: 0;
+  padding: 0;
+}
+
+.markdown-section .home-feature-card,
 .home-page .markdown-section .home-reason-grid > li {
   background: var(--taste-paper);
   border: 1px solid var(--taste-line);
@@ -620,7 +631,6 @@ nav a:hover {
 }
 
 .markdown-section .home-feature-card:hover,
-.home-page .markdown-section .home-feature-grid > li:hover,
 .home-page .markdown-section .home-reason-grid > li:hover {
   border-color: rgba(0, 179, 138, 0.5);
   box-shadow: 0 10px 26px rgba(0, 143, 112, 0.12);
@@ -629,8 +639,42 @@ nav a:hover {
   transform: translateY(-2px);
 }
 
-.home-feature-card strong,
-.home-page .markdown-section .home-feature-grid > li > a:first-child,
+.home-page .markdown-section .home-feature-card {
+  min-height: 298px;
+  overflow: hidden;
+  padding: 0;
+}
+
+.home-page .markdown-section .home-feature-card-media {
+  align-items: center;
+  aspect-ratio: 16 / 9;
+  background:
+    linear-gradient(135deg, rgba(0, 179, 138, 0.14), rgba(255, 255, 255, 0.58)),
+    var(--taste-block);
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+}
+
+.home-page .markdown-section .home-feature-card-media img {
+  border-radius: 0;
+  display: block;
+  height: 100%;
+  margin: 0;
+  max-width: none;
+  object-fit: cover;
+  width: 100%;
+}
+
+.home-page .markdown-section .home-feature-card-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  padding: 16px 18px 18px;
+}
+
+.home-page .markdown-section .home-feature-card-title,
 .home-page .markdown-section .home-reason-grid > li > a:first-child {
   border-bottom: 0;
   color: var(--taste-accent-deep);
@@ -641,12 +685,12 @@ nav a:hover {
   margin-bottom: 10px;
 }
 
-.home-feature-card span {
+.home-page .markdown-section .home-feature-card-summary {
   color: var(--taste-text);
   display: block;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 400;
-  line-height: 1.65;
+  line-height: 1.72;
 }
 
 .home-page .markdown-section .home-feature-grid p,
@@ -655,13 +699,6 @@ nav a:hover {
   font-size: 15px;
   line-height: 1.72;
   margin: 0;
-}
-
-.home-page .markdown-section .home-reading-grid > li {
-  list-style: none;
-  margin: 0;
-  min-width: 0;
-  padding: 0;
 }
 
 .home-page .markdown-section .home-reading-card {

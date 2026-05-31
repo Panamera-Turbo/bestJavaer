@@ -127,6 +127,10 @@
       if (listClass === 'home-reading-grid') {
         renderFeaturedCards(next);
       }
+
+      if (listClass === 'home-feature-grid') {
+        renderFeatureCards(next);
+      }
     });
   }
 
@@ -191,18 +195,60 @@
     getCover(article.markdownPath).then(function (cover) {
       media.classList.remove('is-loading');
 
-      if (!cover) {
-        media.classList.add('is-empty');
-        media.innerHTML = '<span>' + getInitials(article.title) + '</span>';
-        return;
-      }
-
       var image = document.createElement('img');
       image.alt = article.title;
       image.loading = 'lazy';
-      image.src = cover;
+      image.src = cover || createGeneratedCover(article.title);
       media.textContent = '';
       media.appendChild(image);
+    });
+  }
+
+  function renderFeatureCards(list) {
+    Array.from(list.children).forEach(function (item) {
+      if (item.tagName !== 'LI' || item.classList.contains('home-feature-item')) {
+        return;
+      }
+
+      var link = item.querySelector('a[href]');
+
+      if (!link) {
+        return;
+      }
+
+      var summaryNode = Array.from(item.querySelectorAll('p')).find(function (paragraph) {
+        return !paragraph.querySelector('a[href]');
+      });
+      var href = link.getAttribute('href') || '#/';
+      var title = link.textContent.trim();
+      var summary = summaryNode ? summaryNode.textContent.trim() : '';
+      var card = document.createElement('a');
+      var media = document.createElement('span');
+      var image = document.createElement('img');
+      var body = document.createElement('span');
+      var titleNode = document.createElement('span');
+      var summaryNodeNew = document.createElement('span');
+
+      item.className = 'home-feature-item';
+      card.className = 'home-feature-card';
+      card.href = href;
+      media.className = 'home-feature-card-media';
+      image.alt = title;
+      image.loading = 'lazy';
+      image.src = createGeneratedCover(title, summary || 'cxuan-ai-labs');
+      body.className = 'home-feature-card-body';
+      titleNode.className = 'home-feature-card-title';
+      summaryNodeNew.className = 'home-feature-card-summary';
+      titleNode.textContent = title;
+      summaryNodeNew.textContent = summary;
+
+      media.appendChild(image);
+      body.appendChild(titleNode);
+      body.appendChild(summaryNodeNew);
+      card.appendChild(media);
+      card.appendChild(body);
+      item.textContent = '';
+      item.appendChild(card);
     });
   }
 
@@ -266,16 +312,10 @@
     getCover(article.markdownPath).then(function (cover) {
       media.classList.remove('is-loading');
 
-      if (!cover) {
-        media.classList.add('is-empty');
-        media.innerHTML = '<span>' + getInitials(article.title) + '</span>';
-        return;
-      }
-
       var image = document.createElement('img');
       image.alt = article.title;
       image.loading = 'lazy';
-      image.src = cover;
+      image.src = cover || createGeneratedCover(article.title);
       media.textContent = '';
       media.appendChild(image);
     });
@@ -286,7 +326,7 @@
       return coverCache.get(markdownPath);
     }
 
-    var request = fetch(markdownPath + '?v=20260530-card-cover', {
+    var request = fetch(markdownPath + '?v=20260531-card-cover', {
       cache: 'force-cache'
     })
       .then(function (response) {
@@ -316,18 +356,7 @@
       return resolveImageSource(src, markdownPath);
     }
 
-    return extractGitHubRepositoryCover(markdown);
-  }
-
-  function extractGitHubRepositoryCover(markdown) {
-    var repoPattern = /https?:\/\/github\.com\/([A-Za-z0-9_.-]+)\/([A-Za-z0-9_.-]+)/i;
-    var repoMatch = repoPattern.exec(markdown);
-
-    if (!repoMatch) {
-      return '';
-    }
-
-    return 'https://opengraph.githubassets.com/cxuan-ai-labs/' + repoMatch[1] + '/' + repoMatch[2];
+    return '';
   }
 
   function getCurrentRoute() {
@@ -423,7 +452,40 @@
     return path.charAt(path.length - 1) === '/' ? path : path.replace(/[^/]*$/, '');
   }
 
-  function getInitials(title) {
-    return (title || 'AI').replace(/\s+/g, '').slice(0, 2).toUpperCase();
+  function createGeneratedCover(title, caption) {
+    var safeTitle = escapeXml(title || 'AI Article');
+    var safeCaption = escapeXml(caption || 'AI notes · tools · workflow');
+    var svg = [
+      '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">',
+      '<rect width="960" height="540" fill="#effaf6"/>',
+      '<rect x="44" y="44" width="872" height="452" rx="24" fill="#ffffff" stroke="#bfe8dc" stroke-width="2"/>',
+      '<path d="M80 388H880" stroke="#00b38a" stroke-width="8" stroke-linecap="round"/>',
+      '<text x="80" y="148" fill="#008f70" font-family="Arial, sans-serif" font-size="34" font-weight="700">cxuan-ai-labs</text>',
+      '<foreignObject x="80" y="194" width="800" height="150">',
+      '<div xmlns="http://www.w3.org/1999/xhtml" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;font-size:44px;font-weight:800;line-height:1.28;color:#303c39;">',
+      safeTitle,
+      '</div>',
+      '</foreignObject>',
+      '<foreignObject x="80" y="426" width="800" height="52">',
+      '<div xmlns="http://www.w3.org/1999/xhtml" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;font-size:22px;font-weight:600;line-height:1.35;color:#7b8a86;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">',
+      safeCaption,
+      '</div>',
+      '</foreignObject>',
+      '</svg>'
+    ].join('');
+
+    return 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(svg);
+  }
+
+  function escapeXml(text) {
+    return String(text).replace(/[&<>"']/g, function (char) {
+      return {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[char];
+    });
   }
 }());
