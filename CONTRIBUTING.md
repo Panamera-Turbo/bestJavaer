@@ -8,11 +8,18 @@
 - 至少 5 个有效段落；
 - 至少 8 个有效句子；
 - 图片、链接、日期、代码块不能替代正文论述。
+- 图片不能裂：本地图片必须放在仓库内并随文章一起提交，不能引用 `/Users/...`、Typora 临时目录等本机绝对路径；远程图片链接需要能正常访问。
 
 本地提交前会运行：
 
 ```sh
 python3 scripts/check_article_quality.py --staged
+```
+
+首次克隆仓库后，需要启用内置 hook：
+
+```sh
+git config core.hooksPath .githooks
 ```
 
 PR 和 GitHub Pages 部署也会运行同一套检查。若检查失败，请先把文章补成完整内容，再重新提交。
