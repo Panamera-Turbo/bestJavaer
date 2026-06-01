@@ -8,7 +8,7 @@
 
 这里不做新闻搬运，也不做大而全教程。这里记录的是：真实用过的 AI 工具、踩过的坑、值得收藏的开源项目、AI coding 工作流，以及一些看起来不一定精致但确实折腾过的实验。
 
-[在线预览](https://crisxuan.github.io/bestJavaer/) · [AI 文章](./ai-articles/README.md) · [AI 资源](./ai-resources/README.md) · [开发规约](./development-guidelines/README.md) · [旧内容归档](./archive-bestjavaer/README.md)
+[在线预览](https://crisxuan.github.io/bestJavaer/) · [AI 文章](./ai-articles/README.md) · [AI 资源](./ai-resources/README.md) · [我的作品 & 开源项目](./works/README.md) · [开发规约](./development-guidelines/README.md) · [旧内容归档](./archive-bestjavaer/README.md)
 
 ## 先从这几篇开始
 
@@ -27,9 +27,9 @@
 * [Layweout 公众号排版工作台](./ai-articles/03-tools-and-resources/Layweout%20%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8E%92%E7%89%88%E5%B7%A5%E4%BD%9C%E5%8F%B0.md)
 
   看一个面向真实发布流程的小工具如何从痛点长出来。
-* [Node.js 22 ESM 加载 bug 导致 OpenClaw 服务宕机全程复盘](./ai-articles/01-agent-and-coding/Node.js%2022%20ESM%20%E5%8A%A0%E8%BD%BD%20bug%20%E5%AF%BC%E8%87%B4%20OpenClaw%20%E6%9C%8D%E5%8A%A1%E5%AE%95%E6%9C%BA%E5%85%A8%E7%A8%8B%E5%A4%8D%E7%9B%98.md)
+* [如何把 Codex 用到极致](./ai-articles/01-agent-and-coding/%E5%A6%82%E4%BD%95%E6%8A%8A%20Codex%20%E7%94%A8%E5%88%B0%E6%9E%81%E8%87%B4.md)
 
-  一篇事故复盘，适合看 AI 工具、运行时、线上稳定性怎么缠在一起。
+  从持久线程、侧边栏、自动化到 /goal，看 Codex 如何从写代码工具变成工作系统。
 
 ## 新主线
 
@@ -39,6 +39,9 @@
 * [AI 资源](./ai-resources/README.md)
 
   文章里提到过、值得点开收藏或试用的 GitHub 项目。
+* [我的作品 & 开源项目](./works/README.md)
+
+  自己做过、开源过或正在维护的产品、工具和内容项目。
 * [开发规约](./development-guidelines/README.md)
 
   AI coding、项目维护、协作流程和 Agent 工作流的沉淀。

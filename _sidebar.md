@@ -9,6 +9,7 @@
     * <a href="#/ai-articles/05-ai-creation-and-media/README">AI 生成与多媒体</a>
     * <a href="#/ai-articles/06-notes-and-observations/README">观察、杂谈与事故记录</a>
   * <a href="#/ai-resources/README">AI 资源</a>
+  * <a href="#/works/README">我的作品 & 开源项目</a>
   * <a href="#/development-guidelines/README">开发规约</a>
 
 * 旧内容归档
