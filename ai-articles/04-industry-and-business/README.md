@@ -20,4 +20,4 @@
 - 2026-03-10 - [腾讯干了两个大事](./%E8%85%BE%E8%AE%AF%E5%B9%B2%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%A4%A7%E4%BA%8B.md)
 - 2026-03-09 - [央媒说 OpenClaw 不安全？但是央媒没告诉你这个](./%E5%A4%AE%E5%AA%92%E8%AF%B4%20OpenClaw%20%E4%B8%8D%E5%AE%89%E5%85%A8%EF%BC%9F%E4%BD%86%E6%98%AF%E5%A4%AE%E5%AA%92%E6%B2%A1%E5%91%8A%E8%AF%89%E4%BD%A0%E8%BF%99%E4%B8%AA.md)
 
-<p class="branch-back"><a href="#/ai-articles/README">返回 AI 文章</a></p>
+<p class="branch-back"><a href="#/ai-articles/README">返回</a></p>

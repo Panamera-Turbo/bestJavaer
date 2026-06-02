@@ -10,4 +10,4 @@
 - 2026-03-21 - [大家好，很高兴认识大家。](./%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E5%A4%A7%E5%AE%B6%E3%80%82.md)
 - 2026-03-14 - [学没学过技术，在用 AI 这块，还是不能一概而论](./%E5%AD%A6%E6%B2%A1%E5%AD%A6%E8%BF%87%E6%8A%80%E6%9C%AF%EF%BC%8C%E5%9C%A8%E7%94%A8%20AI%20%E8%BF%99%E5%9D%97%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%8D%E8%83%BD%E4%B8%80%E6%A6%82%E8%80%8C%E8%AE%BA.md)
 
-<p class="branch-back"><a href="#/ai-articles/README">返回 AI 文章</a></p>
+<p class="branch-back"><a href="#/ai-articles/README">返回</a></p>

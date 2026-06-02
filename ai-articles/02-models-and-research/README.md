@@ -18,4 +18,4 @@
 - 2026-03-27 - [Claude 王炸](./Claude%20%E7%8E%8B%E7%82%B8.md)
 - 2026-02-04 - [claude-in-action 课程](./claude-in-action%20%E8%AF%BE%E7%A8%8B.md)
 
-<p class="branch-back"><a href="#/ai-articles/README">返回 AI 文章</a></p>
+<p class="branch-back"><a href="#/ai-articles/README">返回</a></p>

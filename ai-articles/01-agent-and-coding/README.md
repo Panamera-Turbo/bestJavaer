@@ -30,4 +30,4 @@ Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体
 - 2026-03-11 - [现在都开始卷 Claw 了](./%E7%8E%B0%E5%9C%A8%E9%83%BD%E5%BC%80%E5%A7%8B%E5%8D%B7%20Claw%20%E4%BA%86.md)
 - 2026-02-07 - [当 Claude Opus 4.6 遇上 GPT-5.3-Codex](./%E5%BD%93%20Claude%20Opus%204.6%20%E9%81%87%E4%B8%8A%20GPT-5.3-Codex.md)
 
-<p class="branch-back"><a href="#/ai-articles/README">返回 AI 文章</a></p>
+<p class="branch-back"><a href="#/ai-articles/README">返回</a></p>
