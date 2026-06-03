@@ -1,16 +1,17 @@
-* <a href="#/">首页</a>
+* <a href="#/">Home</a>
+* <a href="#/README.zh-CN">中文 README</a>
 
-* 新主线
-  * <a href="#/ai-articles/README">AI 文章</a>
-    * <a href="#/ai-articles/01-agent-and-coding/README">AI Agent 与编程工具</a>
-    * <a href="#/ai-articles/02-models-and-research/README">模型、研究与 Prompt</a>
-    * <a href="#/ai-articles/03-tools-and-resources/README">工具、资源与工作台</a>
-    * <a href="#/ai-articles/04-industry-and-business/README">产业、公司与商业动态</a>
-    * <a href="#/ai-articles/05-ai-creation-and-media/README">AI 生成与多媒体</a>
-    * <a href="#/ai-articles/06-notes-and-observations/README">观察、杂谈与事故记录</a>
-  * <a href="#/ai-resources/README">AI 资源</a>
-  * <a href="#/works/README">我的作品 & 开源项目</a>
-  * <a href="#/development-guidelines/README">开发规约</a>
+* Main Track
+  * <a href="#/en/ai-articles/README">AI Articles</a>
+    * <a href="#/en/ai-articles/01-agent-and-coding/README">AI Agent & Coding Tools</a>
+    * <a href="#/en/ai-articles/02-models-and-research/README">Models, Research & Prompt</a>
+    * <a href="#/en/ai-articles/03-tools-and-resources/README">Tools, Resources & Workbench</a>
+    * <a href="#/en/ai-articles/04-industry-and-business/README">Industry, Companies & Business</a>
+    * <a href="#/en/ai-articles/05-ai-creation-and-media/README">AI Creation & Media</a>
+    * <a href="#/en/ai-articles/06-notes-and-observations/README">Notes, Essays & Incidents</a>
+  * <a href="#/en/ai-resources/README">AI Resources</a>
+  * <a href="#/en/works/README">Works & Open Source</a>
+  * <a href="#/en/development-guidelines/README">Development Guidelines</a>
 
-* 旧内容归档
+* Legacy Archive
   * <a href="#/archive-bestjavaer/README">archive-bestjavaer</a>

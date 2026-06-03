@@ -542,14 +542,26 @@ nav a:hover {
   margin-top: auto;
 }
 
-.markdown-section > div:first-child[align="center"] {
+.markdown-section > div[align="center"]:first-of-type {
   display: block;
   margin: 0 auto 34px;
   overflow: visible;
   text-align: center;
 }
 
-.home-page .markdown-section > div:first-child[align="center"] {
+.home-page .markdown-section > p:first-child {
+  color: var(--taste-soft);
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0 auto 12px;
+  text-align: center;
+}
+
+.home-page .markdown-section > p:first-child a {
+  font-weight: 750;
+}
+
+.home-page .markdown-section > div[align="center"]:first-of-type {
   align-items: center;
   display: flex;
   justify-content: center;
@@ -558,7 +570,7 @@ nav a:hover {
   overflow: visible;
 }
 
-.markdown-section > div:first-child[align="center"] img {
+.markdown-section > div[align="center"]:first-of-type img {
   border-radius: 0;
   height: auto;
   margin: 0 auto;
@@ -567,7 +579,7 @@ nav a:hover {
   width: min(100%, 720px) !important;
 }
 
-.home-page .markdown-section > div:first-child[align="center"] img {
+.home-page .markdown-section > div[align="center"]:first-of-type img {
   height: auto;
   max-width: none;
   object-fit: contain;
@@ -631,7 +643,7 @@ nav a:hover {
   color: #fff;
 }
 
-.markdown-section > div:first-child[align="center"] + h2 {
+.markdown-section > div[align="center"]:first-of-type + h2 {
   margin-top: 18px;
 }
 
@@ -972,15 +984,15 @@ nav a:hover {
     text-align: left;
   }
 
-  .markdown-section > div:first-child[align="center"] {
+  .markdown-section > div[align="center"]:first-of-type {
     margin-bottom: 28px;
   }
 
-  .home-page .markdown-section > div:first-child[align="center"] {
+  .home-page .markdown-section > div[align="center"]:first-of-type {
     max-height: none;
   }
 
-  .home-page .markdown-section > div:first-child[align="center"] img {
+  .home-page .markdown-section > div[align="center"]:first-of-type img {
     height: auto;
     width: min(100%, 500px) !important;
   }

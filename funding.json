@@ -6,7 +6,7 @@
     "role": "maintainer",
     "name": "cxuan",
     "email": "crisxuan158@gmail.com",
-    "description": "I am the maintainer of bestJavaer, a long-running open-source Chinese developer education repository. The project originally focused on Java, operating systems, computer networks, concurrency, JVM, MySQL, Spring and developer learning materials. It is now being evolved into cxuan-ai-labs, an open AI lab for Chinese-speaking developers focused on practical AI experiments, curated resources, reproducible workflows, and documented failure cases.",
+    "description": "I am the maintainer of bestJavaer / cxuan-ai-labs, an open-source AI coding workflow and developer education lab for Chinese-speaking developers. The project focuses on practical AI-assisted development workflows, Agent experiments, curated resources, reproducible notes, and documented failure cases. Its older Java learning material is preserved as an archive, but the active project narrative is AI tooling, AI coding workflows, and open developer education.",
     "webpageUrl": {
       "url": "https://github.com/crisxuan"
     }
@@ -15,7 +15,7 @@
     {
       "guid": "bestjavaer",
       "name": "bestJavaer / cxuan-ai-labs",
-      "description": "bestJavaer started as a Chinese open-source learning repository for Java developers, covering Java, operating systems, computer networks, concurrency, JVM, MySQL, Spring and developer career materials. It is now being evolved into cxuan-ai-labs: an open AI lab for Chinese-speaking developers, collecting AI articles, reproducible experiments, curated resources, AI-assisted development workflows and documented failure cases.",
+      "description": "bestJavaer / cxuan-ai-labs is an open-source AI coding workflow and developer education lab for Chinese-speaking developers. It collects AI articles, Agent experiments, curated resources, AI-assisted development workflows, reproducible notes, and documented failure cases. The project preserves older Java learning material as an archive, but its current main line is AI tooling, AI coding workflows, and open developer education.",
       "webpageUrl": {
         "url": "https://github.com/crisxuan/bestJavaer"
       },
@@ -50,7 +50,7 @@
         "guid": "ai-lab-sustainability",
         "status": "active",
         "name": "Sustainability support for bestJavaer / cxuan-ai-labs",
-        "description": "One-time support to sustain the transition of bestJavaer into cxuan-ai-labs, including repository restructuring, open documentation, AI resource curation, reproducible AI experiments, evaluation notes and community maintenance.",
+        "description": "One-time support to sustain bestJavaer / cxuan-ai-labs as an open-source AI coding workflow and developer education lab for Chinese-speaking developers, including open documentation, AI resource curation, reproducible AI experiments, workflow notes, evaluation notes and community maintenance.",
         "amount": 25000,
         "currency": "USD",
         "frequency": "one-time",

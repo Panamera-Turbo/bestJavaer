@@ -1,0 +1,33 @@
+# AI Agent & Coding Tools
+
+Codex, Claude Code, Claw, Agent workflows, AI coding tools, and real usage notes.
+
+- 2026-05-30 - [It took me two days to figure out how fast Codex fell!](./it-took-me-two-days-to-figure-out-how-fast-cordex-fell.md)
+- 2026-05-30 - [Still using Codex to drive x high? Big mistake.](./still-using-codex-to-drive-x-high-big-mistake.md)
+- 2026-05-28 - [How to Get the Most Out of Codex](./how-to-get-the-most-out-of-codex.md)
+- 2026-05-25 - [The Official Codex Guide: How to Use /goal Correctly](./the-official-codex-guide-how-to-use-goal-correctly.md)
+- 2026-05-24 - [After Codex optimized my shitty net, I TM took off in situ.](./after-codex-optimized-my-shitty-net-i-tm-took-off-in-situ.md)
+- 2026-05-21 - [Connecting Agent Workflow Kit to Your Project](./connecting-agent-workflow-kit-to-your-project.md)
+- 2026-05-15 - [Codex's on the phone. That's Agent's supposed to be moving.](./codex-s-on-the-phone-that-s-agent-s-supposed-to-be-moving.md)
+- 2026-05-11 - [I finally pulled out the Codex's volume. It wasn't the output.](./i-finally-pulled-out-the-codex-s-volume-it-wasn-t-the-output.md)
+- 2026-05-08 - [I told Codex to zoom in on the table twice as much, and he took it seriously.](./i-told-codex-to-zoom-in-on-the-table-twice-as-much-and-he-took-it-seriously.md)
+- 2026-05-08 - [Codex's desktop pet is much better than Claude Code's.](./codex-s-desktop-pet-is-much-better-than-claude-code-s.md)
+- 2026-04-29 - [Trae, this wave is really good.](./trae-this-wave-is-really-good.md)
+- 2026-04-21 - [The vibe coding is cold.](./the-vibe-coding-is-cold.md)
+- 2026-04-18 - [Codex Big Update: From a writing tool to an assistant who can operate your computer](./codex-big-update-from-a-writing-tool-to-an-assistant-who-can-operate-your-computer.md)
+- 2026-04-16 - [Claude Code: Real demand or marketing bullshit?](./claude-code-real-demand-or-marketing-bullshit.md)
+- 2026-04-16 - [Anthropic, this is a beautiful move.](./anthropic-this-is-a-beautiful-move.md)
+- 2026-04-14 - [Ten crooked workflows.](./ten-crooked-workflows.md)
+- 2026-04-09 - [OpenClaw is cold, Hermes.](./openclaw-is-cold-hermes.md)
+- 2026-04-07 - [AI Agent 2026: Technology Trends, Enterprise Landing and Developer Core Competitiveness](./ai-agent-2026-technology-trends-enterprise-landing-and-developer-core-competitiven.md)
+- 2026-04-04 - [When programming is no longer just a code: Noodles.](./when-programming-is-no-longer-just-a-code-noodles.md)
+- 2026-03-31 - [As long as it's not particularly extreme, 1MB is enough.](./as-long-as-it-s-not-particularly-extreme-1mb-is-enough.md)
+- 2026-03-28 - [Design of the content retrieval and distribution platform architecture](./design-of-the-content-retrieval-and-distribution-platform-architecture.md)
+- 2026-03-23 - [OpenClaw Access Micro-Intelligence Public](./openclaw-access-micro-intelligence-public.md)
+- 2026-03-22 - [We believe it's finally over.](./we-believe-it-s-finally-over.md)
+- 2026-03-18 - [Now, call cxuan smart!](./now-call-cxuan-smart.md)
+- 2026-03-13 - [Openclaw, why are you so hot?](./openclaw-why-are-you-so-hot.md)
+- 2026-03-11 - [Now it's Claw.](./now-it-s-claw.md)
+- 2026-02-07 - [When Claude Opus 4. 6 encounters GPT-5. 3-Codex](./when-claude-opus-4-6-encounters-gpt-5-3-codex.md)
+
+<p class="branch-back"><a href="#/en/ai-articles/README">Back</a></p>

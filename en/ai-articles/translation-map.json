@@ -1,0 +1,482 @@
+{
+  "ai-articles/01-agent-and-coding/2026 AI Agent.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/ai-agent-2026-technology-trends-enterprise-landing-and-developer-core-competitiven.md",
+    "english_title": "AI Agent 2026: Technology Trends, Enterprise Landing and Developer Core Competitiveness",
+    "source_title": "AI Agent 2026：技术趋势、企业落地与开发者核心竞争力"
+  },
+  "ai-articles/01-agent-and-coding/Agent Workflow Kit 接入你的项目.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/connecting-agent-workflow-kit-to-your-project.md",
+    "english_title": "Connecting Agent Workflow Kit to Your Project",
+    "source_title": "Agent Workflow Kit 接入你的项目"
+  },
+  "ai-articles/01-agent-and-coding/Anthropic 这步棋走得漂亮：Claude 的「策略顾问」模式，正在重新定义 AI Agent 的成本方程式.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/anthropic-this-is-a-beautiful-move.md",
+    "english_title": "Anthropic, this is a beautiful move.",
+    "source_title": "Anthropic 这步棋走得漂亮"
+  },
+  "ai-articles/01-agent-and-coding/Claude Code 100万上下文：到底是真需求还是营销废话.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/claude-code-real-demand-or-marketing-bullshit.md",
+    "english_title": "Claude Code: Real demand or marketing bullshit?",
+    "source_title": "Claude Code 100 万上下文：到底是真需求还是营销废话？"
+  },
+  "ai-articles/01-agent-and-coding/Codex 大更新：从写代码工具变成能操作你电脑的助手.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/codex-big-update-from-a-writing-tool-to-an-assistant-who-can-operate-your-computer.md",
+    "english_title": "Codex Big Update: From a writing tool to an assistant who can operate your computer",
+    "source_title": "Codex 大更新：从写代码工具变成能操作你电脑的助手"
+  },
+  "ai-articles/01-agent-and-coding/Codex 官方：goal 的正确打开方式.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/the-official-codex-guide-how-to-use-goal-correctly.md",
+    "english_title": "The Official Codex Guide: How to Use /goal Correctly",
+    "source_title": "Codex 官方：/goal 的正确打开方式"
+  },
+  "ai-articles/01-agent-and-coding/Codex 把我家网给优化了，我 TM 直接原地起飞了。.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/after-codex-optimized-my-shitty-net-i-tm-took-off-in-situ.md",
+    "english_title": "After Codex optimized my shitty net, I TM took off in situ.",
+    "source_title": "Codex 把我家烂网给优化后，我 TM 直接原地起飞了。"
+  },
+  "ai-articles/01-agent-and-coding/Codex 的桌面版宠物比 CC 的好用多了 - 新稿.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/codex-s-desktop-pet-is-much-better-than-claude-code-s.md",
+    "english_title": "Codex's desktop pet is much better than Claude Code's.",
+    "source_title": "Codex 的桌面宠物，比 Claude Code 的好用多了"
+  },
+  "ai-articles/01-agent-and-coding/Codex 进手机了，这才是 Agent 该有的移动端.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/codex-s-on-the-phone-that-s-agent-s-supposed-to-be-moving.md",
+    "english_title": "Codex's on the phone. That's Agent's supposed to be moving.",
+    "source_title": "Codex 进手机了，这才是 Agent 该有的移动端"
+  },
+  "ai-articles/01-agent-and-coding/Node.js 22 ESM 加载 bug 导致 OpenClaw 服务宕机全程复盘.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/as-long-as-it-s-not-particularly-extreme-1mb-is-enough.md",
+    "english_title": "As long as it's not particularly extreme, 1MB is enough.",
+    "source_title": "只要不是特别极端，1MB 足够了"
+  },
+  "ai-articles/01-agent-and-coding/OpenClaw 凉了，Hermes 已至.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/openclaw-is-cold-hermes.md",
+    "english_title": "OpenClaw is cold, Hermes.",
+    "source_title": "OpenClaw 凉了，Hermes 当立"
+  },
+  "ai-articles/01-agent-and-coding/Openclaw 为啥这么火？.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/openclaw-why-are-you-so-hot.md",
+    "english_title": "Openclaw, why are you so hot?",
+    "source_title": "Openclaw 为啥这么火？"
+  },
+  "ai-articles/01-agent-and-coding/QClaw 实测，这玩意究竟咋样？.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/now-call-cxuan-smart.md",
+    "english_title": "Now, call cxuan smart!",
+    "source_title": "现在，请叫 cxuan 智能体！！"
+  },
+  "ai-articles/01-agent-and-coding/Trae 这波真可以.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/trae-this-wave-is-really-good.md",
+    "english_title": "Trae, this wave is really good.",
+    "source_title": "Trae 这波真可以"
+  },
+  "ai-articles/01-agent-and-coding/vibe coding 凉了，wish coding 来了.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/the-vibe-coding-is-cold.md",
+    "english_title": "The vibe coding is cold.",
+    "source_title": "vibe coding 凉了，wish coding 来了"
+  },
+  "ai-articles/01-agent-and-coding/今天我的目标就是，我要把 QClaw 接入到微信公众号中。.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/openclaw-access-micro-intelligence-public.md",
+    "english_title": "OpenClaw Access Micro-Intelligence Public",
+    "source_title": "OpenClaw 接入微信公众号"
+  },
+  "ai-articles/01-agent-and-coding/从 IDE 到 CLI，再到 Thread：Codex 所代表的新业态形态.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/when-programming-is-no-longer-just-a-code-noodles.md",
+    "english_title": "When programming is no longer just a code: Noodles.",
+    "source_title": "当编程不再只是写代码：Codex 的 Thread，可能是一种新的软件生产界面"
+  },
+  "ai-articles/01-agent-and-coding/如何把 Codex 用到极致.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/how-to-get-the-most-out-of-codex.md",
+    "english_title": "How to Get the Most Out of Codex",
+    "source_title": "如何把 Codex 用到极致"
+  },
+  "ai-articles/01-agent-and-coding/如何用10个Claude工作流程每月节省45小时.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/ten-crooked-workflows.md",
+    "english_title": "Ten crooked workflows.",
+    "source_title": "10 个贼爽的 workflow 工作流"
+  },
+  "ai-articles/01-agent-and-coding/当 Claude Opus 4.6 遇上 GPT-5.3-Codex.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/when-claude-opus-4-6-encounters-gpt-5-3-codex.md",
+    "english_title": "When Claude Opus 4.6 encounters GPT-5.3-Codex",
+    "source_title": "当 Claude Opus 4.6 遇上 GPT-5.3-Codex"
+  },
+  "ai-articles/01-agent-and-coding/微信完全接入 OpenClaw 指南.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/we-believe-it-s-finally-over.md",
+    "english_title": "We believe it's finally over.",
+    "source_title": "微信终于支棱起来了"
+  },
+  "ai-articles/01-agent-and-coding/我现在想做这么一个东西，有四个 agent 。.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/design-of-the-content-retrieval-and-distribution-platform-architecture.md",
+    "english_title": "Design of the content retrieval and distribution platform architecture",
+    "source_title": "内容检索分发平台架构设计"
+  },
+  "ai-articles/01-agent-and-coding/我的 Codex 它把自己改崩了！.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/i-told-codex-to-zoom-in-on-the-table-twice-as-much-and-he-took-it-seriously.md",
+    "english_title": "I told Codex to zoom in on the table twice as much, and he took it seriously.",
+    "source_title": "我让 Codex 把桌宠放大 2 倍，它认真地把自己改崩了"
+  },
+  "ai-articles/01-agent-and-coding/我终于把 Codex 的用量扒出来了，原来最贵的不是输出.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/i-finally-pulled-out-the-codex-s-volume-it-wasn-t-the-output.md",
+    "english_title": "I finally pulled out the Codex's volume. It wasn't the output.",
+    "source_title": "我终于把 Codex 的用量扒出来了，原来最贵的不是输出。"
+  },
+  "ai-articles/01-agent-and-coding/我花了两天时间，终于把 Codex 额度掉太快的问题整明白了！！.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/it-took-me-two-days-to-figure-out-how-fast-cordex-fell.md",
+    "english_title": "It took me two days to figure out how fast Cordex fell!",
+    "source_title": "我花了两天时间，终于把 Codex 额度掉太快的问题整明白了！！"
+  },
+  "ai-articles/01-agent-and-coding/现在都开始卷 Claw 了.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/now-it-s-claw.md",
+    "english_title": "Now it's Claw.",
+    "source_title": "现在都开始卷 Claw 了"
+  },
+  "ai-articles/01-agent-and-coding/还在用 Codex 开 xhigh 拉满跑？大错特错.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/still-using-codex-to-drive-x-high-big-mistake.md",
+    "english_title": "Still using Codex to drive x high? Big mistake.",
+    "source_title": "还在用 Codex 开 xhigh 拉满跑？大错特错"
+  },
+  "ai-articles/02-models-and-research/Anthropic 不发布 Mythos 的真正原因.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/anthropic-does-not-publish-the-real-reason-for-mythos.md",
+    "english_title": "Anthropic does not publish the real reason for Mythos",
+    "source_title": "Anthropic 不发布 Mythos 的真正原因"
+  },
+  "ai-articles/02-models-and-research/Anthropic 研究解读：当 AI 成为个人决策顾问.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/anthropic-research-interpretation-when-ai-became-a-personal-decision-making-advise.md",
+    "english_title": "Anthropic Research Interpretation: When AI became a personal decision-making adviser",
+    "source_title": "Anthropic 研究解读：当 AI 成为个人决策顾问"
+  },
+  "ai-articles/02-models-and-research/Claude 王炸.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/king-claude.md",
+    "english_title": "King Claude.",
+    "source_title": "Claude 王炸"
+  },
+  "ai-articles/02-models-and-research/Claude 终于承认，AI 太会哄人了.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/claude-finally-admitted-ai-was-so-cool.md",
+    "english_title": "Claude finally admitted, AI was so cool.",
+    "source_title": "Claude 终于承认，AI 太会哄人了"
+  },
+  "ai-articles/02-models-and-research/DeepSeek_V3_专家模式_vs_快速模式.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/deepseek-what-s-wrong-with-fast-and-expert-models.md",
+    "english_title": "DeepSeek: What's wrong with fast and expert models?",
+    "source_title": "DeepSeek 上线专家模式：快速模式和专家模式到底差在哪"
+  },
+  "ai-articles/02-models-and-research/Deepseek 会泄露其他玩家的对话.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/deepseek-enter-think-so-you-can-spy-on-people-s-conversations-don-t-rush-to-conclu.md",
+    "english_title": "DeepSeek, enter <think' > , so you can spy on people's conversations? Don't rush to conclusions.",
+    "source_title": "DeepSeek 输入 `<think>` 就能偷看别人对话？这事儿先别急着下结论"
+  },
+  "ai-articles/02-models-and-research/Karpathy skills 40k star 分析.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/karpathy-skills-40k-star.md",
+    "english_title": "Karpathy, skills 40k star",
+    "source_title": "Karpathy 大佬一个 skills 40k star"
+  },
+  "ai-articles/02-models-and-research/claude-in-action 课程.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/claude-in-action.md",
+    "english_title": "Claude-in-action",
+    "source_title": "claude-in-action 课程"
+  },
+  "ai-articles/02-models-and-research/token 与比特币.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/token-and-bitcoin.md",
+    "english_title": "Token and bitcoin",
+    "source_title": "token 与比特币"
+  },
+  "ai-articles/02-models-and-research/吴恩达这门新课，重新定义了 Prompt.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/the-new-class-of-u-n-redefined-prompt.md",
+    "english_title": "The new class of U.N., redefined Prompt.",
+    "source_title": "吴恩达这门新课，重新定义了 Prompt"
+  },
+  "ai-articles/02-models-and-research/对姚顺宇的4小时访谈整理.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/4-hour-interview-with-yao-sun-woo.md",
+    "english_title": "4-hour interview with Yao Sun Woo",
+    "source_title": "对姚顺宇的4小时访谈整理"
+  },
+  "ai-articles/02-models-and-research/小米开放100T-token.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/mi-has-to-support-it.md",
+    "english_title": "Mi has to support it!",
+    "source_title": "小米这波必须支持！"
+  },
+  "ai-articles/02-models-and-research/我把 openai 的接口扒了，这事儿挺像悬疑故事.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/i-took-off-openai-s-interface-it-s-like-a-suspicious-story.md",
+    "english_title": "I took off OpenAI's interface. It's like a suspicious story.",
+    "source_title": "我把 OpenAI 的接口扒了，这事儿挺像悬疑故事"
+  },
+  "ai-articles/02-models-and-research/我说怎么今天用 GPT-5.5 感觉有点弱智 。。。。。。。.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/i-say-how-it-feels-to-be-a-little-retarded-today-with-gpt-5-5.md",
+    "english_title": "I say how it feels to be a little retarded today with GPT-5.5.",
+    "source_title": "我说怎么今天用 GPT-5.5 感觉有点弱智 。。。。。。。"
+  },
+  "ai-articles/02-models-and-research/重磅，OpenAI 发布 Daybreak，硬刚 Mythos.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/heavy-openai-release-daybreak-tough-mythos-who-s-stronger.md",
+    "english_title": "Heavy, OpenAI release Daybreak, tough Mythos, who's stronger?",
+    "source_title": "重磅，OpenAI 发布 Daybreak，硬刚 Mythos，到底谁更强？"
+  },
+  "ai-articles/03-tools-and-resources/36 张图彻底解释清楚 AI 圈 136 个造词艺术！！！.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/36-graphs-completely-explain-the-ai-circle-136-synonyms.md",
+    "english_title": "36 graphs completely explain the AI Circle 136 synonyms!",
+    "source_title": "36 张图彻底解释清楚 AI 圈 136 个造词艺术！！！"
+  },
+  "ai-articles/03-tools-and-resources/AI 前沿网站推荐：国外为主，国内精选（CDN版）.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/25-high-quality-websites-to-address-your-99-ai-anxiety.md",
+    "english_title": "25 high-quality websites to address your 99% AI anxiety",
+    "source_title": "25 个高质量网站，解决你 99% 的 AI 焦虑"
+  },
+  "ai-articles/03-tools-and-resources/Layweout 公众号排版工作台.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/why-did-i-create-another-public-domain.md",
+    "english_title": "Why did I create another public domain?",
+    "source_title": "我为什么又造了一个公众号排版工具"
+  },
+  "ai-articles/03-tools-and-resources/SearchNews 优化方向（结合 WeWrite 对比分析）.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/searchnews-optimizing-direction-with-wewrite-comparative-analysis.md",
+    "english_title": "SearchNews Optimizing Direction (with WeWrite Comparative Analysis)",
+    "source_title": "SearchNews 优化方向（结合 WeWrite 对比分析）"
+  },
+  "ai-articles/03-tools-and-resources/Slock.ai 是个啥.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/what-s-that.md",
+    "english_title": "What's that?",
+    "source_title": "Slock 是个啥"
+  },
+  "ai-articles/03-tools-and-resources/Zread 本地知识库.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/zread-local-knowledge-library.md",
+    "english_title": "Zread Local Knowledge Library",
+    "source_title": "Zread 本地知识库"
+  },
+  "ai-articles/03-tools-and-resources/全球态势监控项目.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/global-situation-watch-project.md",
+    "english_title": "Global Situation Watch project",
+    "source_title": "全球态势监控项目"
+  },
+  "ai-articles/03-tools-and-resources/吴恩达发布了一个新的课程.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/u-nanda-has-launched-a-new-course-on-standard-drive-development.md",
+    "english_title": "U Nanda has launched a new course on \"Standard Drive Development.\"",
+    "source_title": "吴恩达发布了一个新课程，这次教的是「规范驱动开发」"
+  },
+  "ai-articles/03-tools-and-resources/实测 popx 工坊：打字就上线，这事真的假的.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/prognosis-popx-workshop-type-on-the-line-this-is-a-fake.md",
+    "english_title": "Prognosis popx workshop: Type on the line. This is a fake.",
+    "source_title": "实测 popx 工坊：打字就上线，这事真的假的"
+  },
+  "ai-articles/03-tools-and-resources/给大家详细介绍下 weread skills.md": {
+    "category": "03-tools-and-resources",
+    "english_path": "en/ai-articles/03-tools-and-resources/we-re-officially-sending-skills-giving-me-shit.md",
+    "english_title": "We're officially sending Skills, giving me shit.",
+    "source_title": "微信读书官方发了 skills，把我给秀麻了。"
+  },
+  "ai-articles/04-industry-and-business/Linux 开始接受 AI 写的代码了.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/linux-started-accepting-documents-written-by-ai-it-s-not-ai.md",
+    "english_title": "Linux started accepting documents written by AI? It's not AI.",
+    "source_title": "Linux 开始接受 AI 写的文档了吗？真正被“招安”的，其实不是 AI"
+  },
+  "ai-articles/04-industry-and-business/OpenAI 给了我六个月的 Pro 20x 权益，但是我领不了。。。.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/openai-gave-me-six-months-of-pro-20x-rights-but-i-can-t.md",
+    "english_title": "OpenAI gave me six months of Pro 20x rights, but I can't.",
+    "source_title": "OpenAI 给了我六个月的 Pro 20x 权益，但是我领不了。。。"
+  },
+  "ai-articles/04-industry-and-business/SpaceX 把 Cursor 收购了？这事还没定，但信号已经很明显了.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/mask-took-cursor.md",
+    "english_title": "Mask took Cursor.",
+    "source_title": "马斯克把 Cursor 给收了"
+  },
+  "ai-articles/04-industry-and-business/Vercel 被黑了，这次是从一个 AI 工具突破的.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/vercel-was-hacked-this-time-from-an-ai-tool.md",
+    "english_title": "Vercel was hacked, this time from an AI tool.",
+    "source_title": "Vercel 被黑了，这次是从一个 AI 工具突破的"
+  },
+  "ai-articles/04-industry-and-business/XChat 上线：X 的独立私信 App 来了.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/xchat-online-this-private-letter-app-solves-the-legacy-of-twitter.md",
+    "english_title": "XChat online: This private letter, App, solves the legacy of Twitter.",
+    "source_title": "XChat 上线：这款私信 App 解决了 Twitter 时代遗留的体验问题"
+  },
+  "ai-articles/04-industry-and-business/为什么 Claude 要求实名认证.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/why-does-claude-require-real-name-authentication.md",
+    "english_title": "Why does Claude require real name authentication?",
+    "source_title": "为什么 Claude 要求实名认证？"
+  },
+  "ai-articles/04-industry-and-business/央媒说 OpenClaw 不安全？但是央媒没告诉你这个.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/openclaw-is-not-safe-but-you-didn-t-know-that.md",
+    "english_title": "OpenClaw is not safe? But you didn't know that.",
+    "source_title": "央媒说 OpenClaw 不安全？但是央媒没告诉你这个"
+  },
+  "ai-articles/04-industry-and-business/如何看待老黄的 AI 五层蛋糕？.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/what-do-you-think-of-the-yellow-ai-five-story-cake.md",
+    "english_title": "What do you think of the yellow Ai five-story cake?",
+    "source_title": "如何看待老黄的 AI 五层蛋糕？"
+  },
+  "ai-articles/04-industry-and-business/当 00 后开始用 token 给学校送礼.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/and-then-when-it-s-00-it-starts-to-give-it-to-school.md",
+    "english_title": "And then when it's 00, it starts to give it to school.",
+    "source_title": "当 00 后开始用 token 给学校送礼"
+  },
+  "ai-articles/04-industry-and-business/我最近接触了一个大佬，他跟我透露了一些行业的潜规则。.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/i-recently-contacted-a-big-guy-who-told-me-some-of-the-industry-s-rules.md",
+    "english_title": "I recently contacted a big guy who told me some of the industry's rules.",
+    "source_title": "我最近接触了一个大佬，他跟我透露了一些行业的潜规则。"
+  },
+  "ai-articles/04-industry-and-business/有许多大事即将发生.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/there-are-a-lot-of-big-things-going-on.md",
+    "english_title": "There are a lot of big things going on.",
+    "source_title": "有许多大事即将发生"
+  },
+  "ai-articles/04-industry-and-business/未来 5 - 10 年的风口是什么.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/what-s-the-wind-in-the-next-5-10-years.md",
+    "english_title": "What's the wind in the next 5-10 years?",
+    "source_title": "未来 5 - 10 年的风口是什么"
+  },
+  "ai-articles/04-industry-and-business/特朗普儿子也来搞 AI 中转了，但重点不是中转.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/trump-s-son-is-in-the-middle-of-it.md",
+    "english_title": "Trump's son is in the middle of it.",
+    "source_title": "特朗普儿子也来搞 AI 中转了，但重点不是中转"
+  },
+  "ai-articles/04-industry-and-business/离谱，OpenAI 把我的开源赞助账号封了.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/openai-blocked-my-open-source-sponsorship-account.md",
+    "english_title": "OpenAI Blocked My Open-Source Sponsorship Account",
+    "source_title": "离谱，OpenAI 把我的开源赞助账号封了"
+  },
+  "ai-articles/04-industry-and-business/腾讯干了两个大事.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/it-s-starting-to-blow-up.md",
+    "english_title": "It's starting to blow up.",
+    "source_title": "腾讯开始开大了"
+  },
+  "ai-articles/04-industry-and-business/这两天受组委会邀请，去北京中关村听了一个会。.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/at-the-invitation-of-the-organizing-committee-a-meeting-was-held-in-katsumura-beij.md",
+    "english_title": "At the invitation of the organizing committee, a meeting was held in Katsumura, Beijing.",
+    "source_title": "这两天受组委会邀请，去北京中关村听了一个会。"
+  },
+  "ai-articles/04-industry-and-business/这波云服务器厂商被遛麻了.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/the-boeun-server-was-lost.md",
+    "english_title": "The Boeun server was lost.",
+    "source_title": "这波云服务器厂商被遛麻了"
+  },
+  "ai-articles/05-ai-creation-and-media/GPT-image-2 来了，黑暗森林也来了.md": {
+    "category": "05-ai-creation-and-media",
+    "english_path": "en/ai-articles/05-ai-creation-and-media/gpt-image-2-is-here-and-the-dark-forest-is-here.md",
+    "english_title": "GPT-image-2 is here, and the Dark Forest is here.",
+    "source_title": "GPT-image-2 来了，黑暗森林也来了"
+  },
+  "ai-articles/05-ai-creation-and-media/不得了了，GPT-image-2 的华人下场了.md": {
+    "category": "05-ai-creation-and-media",
+    "english_path": "en/ai-articles/05-ai-creation-and-media/oh-my-god-the-chinese-of-gpt-image-2-are-dead.md",
+    "english_title": "Oh, my God. The Chinese of GPT-image-2 are dead.",
+    "source_title": "不得了了，GPT-image-2 的华人下场了"
+  },
+  "ai-articles/05-ai-creation-and-media/女娲skill们的一小步，伦理退步的一大步.md": {
+    "category": "05-ai-creation-and-media",
+    "english_path": "en/ai-articles/05-ai-creation-and-media/a-small-step-for-the-women-skillers-a-big-step-for-ethical-retreat.md",
+    "english_title": "A small step for the women skillers, a big step for ethical retreat.",
+    "source_title": "女娲 skill 们的一小步，伦理退步的一大步"
+  },
+  "ai-articles/05-ai-creation-and-media/我拿GPT-image-2生成了秦朝的朋友圈，这玩意儿也太离谱了.md": {
+    "category": "05-ai-creation-and-media",
+    "english_path": "en/ai-articles/05-ai-creation-and-media/i-made-friends-of-the-qin-dynasty-with-gpt-image-2.md",
+    "english_title": "I made friends of the Qin dynasty with GPT-image-2.",
+    "source_title": "我拿GPT-image-2生成了秦朝的朋友圈，这玩意儿也太离谱了..."
+  },
+  "ai-articles/06-notes-and-observations/你这个问题是不是 AI 写的？.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/did-you-write-that-question-by-ai.md",
+    "english_title": "Did you write that question by AI?",
+    "source_title": "你这个问题是不是 AI 写的？"
+  },
+  "ai-articles/06-notes-and-observations/其实我之前也拒绝 AI.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/i-ve-actually-refused-ai.md",
+    "english_title": "I've actually refused, AI.",
+    "source_title": "其实我之前也拒绝 AI"
+  },
+  "ai-articles/06-notes-and-observations/大家好，很高兴认识大家。.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/hello-nice-to-meet-you.md",
+    "english_title": "Hello. Nice to meet you.",
+    "source_title": "大家好，很高兴认识大家。"
+  },
+  "ai-articles/06-notes-and-observations/学没学过技术，在用 AI 这块，还是不能一概而论.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/i-don-t-know-i-m-using-ai.md",
+    "english_title": "I don't know. I'm using AI.",
+    "source_title": "学没学过技术，在用 AI 这块，还是不能一概而论"
+  },
+  "ai-articles/06-notes-and-observations/文章被删了.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/the-article-was-deleted.md",
+    "english_title": "The article was deleted.",
+    "source_title": "文章被删了"
+  },
+  "ai-articles/06-notes-and-observations/说点掏心窝子的话。.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/tell-me-something.md",
+    "english_title": "Tell me something.",
+    "source_title": "说点掏心窝子的话"
+  },
+  "ai-articles/06-notes-and-observations/谁把我 ssh 给杀了.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/who-s-done-with-me.md",
+    "english_title": "Who's done with me?",
+    "source_title": "人麻了，谁把我 ssh 干没了"
+  }
+}

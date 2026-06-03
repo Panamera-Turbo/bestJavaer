@@ -1,5 +1,5 @@
 (function () {
-  var articleIndexCache = null;
+  var articleIndexCache = {};
   var coverCache = new Map();
   var renderTimer = 0;
 
@@ -110,7 +110,10 @@
       return;
     }
 
-    getArticleIndex().then(function (articles) {
+    var articleRoot = currentMarkdownPath.indexOf('en/ai-articles/') === 0 ? 'en/ai-articles' : 'ai-articles';
+    var isEnglishArticle = articleRoot === 'en/ai-articles';
+
+    getArticleIndex(articleRoot).then(function (articles) {
       var activePath = getCurrentMarkdownPath(getCurrentRoute());
       var index = articles.findIndex(function (article) {
         return normalizeMarkdownPath(article.markdownPath) === normalizeMarkdownPath(currentMarkdownPath);
@@ -130,10 +133,10 @@
       var nav = document.createElement('div');
 
       nav.className = 'article-series-nav';
-      nav.setAttribute('aria-label', '文章连载导航');
+      nav.setAttribute('aria-label', isEnglishArticle ? 'Article series navigation' : '文章连载导航');
       nav.setAttribute('role', 'navigation');
-      nav.appendChild(createSeriesCard(previous, '上一篇', '已经是第一篇', 'previous'));
-      nav.appendChild(createSeriesCard(next, '下一篇', '已经是最后一篇', 'next'));
+      nav.appendChild(createSeriesCard(previous, isEnglishArticle ? 'Previous' : '上一篇', isEnglishArticle ? 'This is the first article' : '已经是第一篇', 'previous'));
+      nav.appendChild(createSeriesCard(next, isEnglishArticle ? 'Next' : '下一篇', isEnglishArticle ? 'This is the last article' : '已经是最后一篇', 'next'));
       section.appendChild(nav);
     });
   }
@@ -164,12 +167,14 @@
     return card;
   }
 
-  function getArticleIndex() {
-    if (articleIndexCache) {
-      return articleIndexCache;
+  function getArticleIndex(articleRoot) {
+    articleRoot = articleRoot || 'ai-articles';
+
+    if (articleIndexCache[articleRoot]) {
+      return articleIndexCache[articleRoot];
     }
 
-    articleIndexCache = fetch('ai-articles/README.md?v=20260602-branch-back', {
+    articleIndexCache[articleRoot] = fetch(articleRoot + '/README.md?v=20260604-bilingual-readme', {
       cache: 'force-cache'
     })
       .then(function (response) {
@@ -179,21 +184,23 @@
 
         return response.text();
       })
-      .then(extractArticleIndex)
+      .then(function (markdown) {
+        return extractArticleIndex(markdown, articleRoot);
+      })
       .catch(function () {
         return [];
       });
 
-    return articleIndexCache;
+    return articleIndexCache[articleRoot];
   }
 
-  function extractArticleIndex(markdown) {
+  function extractArticleIndex(markdown, articleRoot) {
     var articles = [];
     var pattern = /^\s*-\s*(\d{4}-\d{2}-\d{2})\s*-\s*\[([^\]]+)\]\(([^)]+)\)/gm;
     var match;
 
     while ((match = pattern.exec(markdown))) {
-      var markdownPath = resolveIndexMarkdownPath(match[3]);
+      var markdownPath = resolveIndexMarkdownPath(match[3], articleRoot);
 
       if (!isArticleMarkdown(markdownPath)) {
         continue;
@@ -210,7 +217,9 @@
     return articles;
   }
 
-  function resolveIndexMarkdownPath(href) {
+  function resolveIndexMarkdownPath(href, articleRoot) {
+    articleRoot = articleRoot || 'ai-articles';
+
     var cleanHref = (href || '').split('?')[0].split('#')[0].trim();
 
     if (!cleanHref || /^(https?:|mailto:)/i.test(cleanHref)) {
@@ -222,9 +231,9 @@
     }
 
     if (cleanHref.indexOf('./') === 0) {
-      cleanHref = 'ai-articles/' + cleanHref.slice(2);
-    } else if (cleanHref.indexOf('ai-articles/') !== 0) {
-      cleanHref = 'ai-articles/' + cleanHref.replace(/^\/+/, '');
+      cleanHref = articleRoot + '/' + cleanHref.slice(2);
+    } else if (cleanHref.indexOf(articleRoot + '/') !== 0) {
+      cleanHref = articleRoot + '/' + cleanHref.replace(/^\/+/, '');
     }
 
     if (!/\.md$/i.test(cleanHref)) {
@@ -243,9 +252,13 @@
     ];
     var classByHeading = {
       '先从这几篇开始': 'home-reading-grid',
+      'Start Here': 'home-reading-grid',
       '新主线': 'home-feature-grid',
+      'Main Sections': 'home-feature-grid',
       '最近更新': 'home-update-list',
-      '为什么值得关注': 'home-reason-grid'
+      'Recent Updates': 'home-update-list',
+      '为什么值得关注': 'home-reason-grid',
+      'Why Follow': 'home-reason-grid'
     };
 
     Array.from(section.querySelectorAll('h2')).forEach(function (heading) {
@@ -519,17 +532,24 @@
       route === 'ai-articles' ||
       route === 'ai-articles/' ||
       route === 'ai-articles/README' ||
-      /^ai-articles\/[^/]+\/README$/.test(route)
+      /^ai-articles\/[^/]+\/README$/.test(route) ||
+      route === 'en/ai-articles' ||
+      route === 'en/ai-articles/' ||
+      route === 'en/ai-articles/README' ||
+      /^en\/ai-articles\/[^/]+\/README$/.test(route)
     );
   }
 
   function isHomeRoute(route) {
-    return route === '' || route === '/' || route === 'README';
+    return route === '' || route === '/' || route === 'README' || route === 'README.zh-CN';
   }
 
   function isArticleMarkdown(path) {
     return (
-      /^ai-articles\/[^/]+\/.+\.md$/.test(path) &&
+      (
+        /^ai-articles\/[^/]+\/.+\.md$/.test(path) ||
+        /^en\/ai-articles\/[^/]+\/.+\.md$/.test(path)
+      ) &&
       !/\/README\.md$/.test(path)
     );
   }
