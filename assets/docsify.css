@@ -128,6 +128,65 @@ body {
   font-weight: 700;
 }
 
+.sidebar-nav > ul > li > ul {
+  margin: 6px 0 4px 18px;
+  padding-left: 0;
+}
+
+.sidebar-nav > ul > li > ul > li {
+  margin: 6px 0;
+}
+
+.sidebar-nav > ul > li > ul > li > a,
+.sidebar-nav > ul > li > ul > li.active > a,
+.sidebar-nav > ul > li > ul > li > a:hover {
+  background: transparent !important;
+  background-image: none !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  color: #465752;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.45;
+  padding: 6px 8px;
+}
+
+.sidebar-nav > ul > li > ul > li > a::before,
+.sidebar-nav > ul > li > ul > li > a::after {
+  display: none !important;
+}
+
+.sidebar-nav > ul > li > ul > li.active > a,
+.sidebar-nav > ul > li > ul > li > a:hover {
+  color: var(--taste-accent-deep);
+}
+
+.sidebar-nav a[href*="?id="],
+.sidebar-nav li.active > a[href*="?id="],
+.sidebar-nav a[href*="?id="]:hover {
+  background: transparent !important;
+  background-image: none !important;
+  border: 0 !important;
+  border-radius: 8px;
+  box-shadow: none !important;
+  color: #465752;
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.45;
+  padding: 6px 8px;
+}
+
+.sidebar-nav a[href*="?id="]::before,
+.sidebar-nav a[href*="?id="]::after {
+  display: none !important;
+}
+
+.sidebar-nav li.active > a[href*="?id="],
+.sidebar-nav a[href*="?id="]:hover {
+  color: var(--taste-accent-deep);
+}
+
 .sidebar-toggle {
   background: rgba(242, 251, 248, 0.94);
   border-radius: 0 0 8px 0;

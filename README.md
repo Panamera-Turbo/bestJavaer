@@ -53,12 +53,12 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Recent Updates
 
-* 2026-05-27 · [OpenAI blocked my open-source sponsorship account](./en/ai-articles/04-industry-and-business/openai-blocked-my-open-source-sponsorship-account.md)
-* 2026-05-25 · [The official Codex guide: how to use /goal correctly](./en/ai-articles/01-agent-and-coding/the-official-codex-guide-how-to-use-goal-correctly.md)
-* 2026-05-24 · [Codex optimized my home network, and the result was absurdly good](./en/ai-articles/01-agent-and-coding/after-codex-optimized-my-shitty-net-i-tm-took-off-in-situ.md)
-* 2026-05-21 · [Connecting Agent Workflow Kit to your project](./en/ai-articles/01-agent-and-coding/connecting-agent-workflow-kit-to-your-project.md)
-* 2026-05-19 · [DeepSeek can leak other players' conversations](./en/ai-articles/02-models-and-research/deepseek-enter-think-so-you-can-spy-on-people-s-conversations-don-t-rush-to-conclu.md)
-* 2026-05-19 · [A detailed introduction to weread skills](./en/ai-articles/03-tools-and-resources/we-re-officially-sending-skills-giving-me-shit.md)
+* 2026-06-10 · [Luckin Released a CLI. Is This a Step Toward AGI?](./en/ai-articles/04-industry-and-business/luckin-released-a-cli-is-this-a-step-toward-agi.md)
+* 2026-06-10 · [Claude Fable 5 Is Here](./en/ai-articles/02-models-and-research/claude-fable-5-is-here.md)
+* 2026-06-09 · [What Is AGENTS.md?](./en/ai-articles/01-agent-and-coding/what-is-agents-md.md)
+* 2026-06-09 · [The 10 Codex Tips I Use Most Often](./en/ai-articles/01-agent-and-coding/the-10-codex-tips-i-use-most-often.md)
+* 2026-06-08 · [How to Get Ahead in the AI Era](./en/ai-articles/06-notes-and-observations/how-to-get-ahead-in-the-ai-era.md)
+* 2026-06-07 · [Yao Shunyu's Interview Explained Tencent's Second Half of AI](./en/ai-articles/04-industry-and-business/yao-shunyu-interview-explained-tencent-second-half-of-ai.md)
 
 ## Why Follow
 

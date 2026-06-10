@@ -54,6 +54,19 @@ SELECTED_TITLE_OVERRIDES = {
     "离谱，OpenAI 把我的开源赞助账号封了": "OpenAI Blocked My Open-Source Sponsorship Account",
     "Deepseek 会泄露其他玩家的对话": "DeepSeek Can Leak Other Players' Conversations",
     "给大家详细介绍下 weread skills": "A Detailed Introduction to weread skills",
+    "Codex 一直 Reconnecting？我最后发现，常见就两个坑": "Codex Keeps Reconnecting? The Two Common Causes I Found",
+    "我读完 105 页《置身钉内》，最扎心的不是 ONE 失败了": "After Reading 105 Pages of Inside DingTalk, ONE's Failure Was Not the Most Painful Part",
+    "为每个任务配一套 harness：Claude Code 里的动态工作流": "A Harness for Every Task: Dynamic Workflows in Claude Code",
+    "太顶了，ChatGPT 要和 Codex 搞一起了。": "ChatGPT and Codex Are Becoming One Workflow",
+    "MiniMax M3 发布，据说接近 Opus 4.7？真的假的": "MiniMax M3 Is Here: How Close Is It to Opus 4.7?",
+    "这个 6.6 k star 的仓库，我差点删库了。": "I Almost Deleted My 6.6k-Star Repository",
+    "瑞幸出 CLI 了，这会是迈向 AGI 的第一步吗？": "Luckin Released a CLI. Is This a Step Toward AGI?",
+    "Claude Fable 5 来了": "Claude Fable 5 Is Here",
+    "Agents.md 是什么": "What Is AGENTS.md?",
+    "我最近最常用的 10 个 Codex 技巧": "The 10 Codex Tips I Use Most Often",
+    "AI 时代，如何超过大多数人": "How to Get Ahead in the AI Era",
+    "姚顺雨这次访谈，腾讯终于把 AI 下半场讲明白了": "Yao Shunyu's Interview Explained Tencent's Second Half of AI",
+    "说个暴论，OpenAI 或许会成为下一个 A 社。": "Hot Take: OpenAI May Become the Next Anthropic",
 }
 
 PROTECT_PATTERNS = [
@@ -178,7 +191,7 @@ def translate_markdown(source: str, title_en: str, chinese_href: str, english_hr
             out.append(line)
             continue
 
-        if line.lstrip().startswith("![") or re.match(r"^\s*(-{3,}|\*{3,}|_{3,})\s*$", line):
+        if line.lstrip().startswith("![") or line.lstrip().startswith("<img ") or re.match(r"^\s*(-{3,}|\*{3,}|_{3,})\s*$", line):
             flush_block()
             out.append(line)
             continue
@@ -213,7 +226,7 @@ def translate_line(line: str) -> str:
         return line
     if re.match(r"^\s*(-{3,}|\*{3,}|_{3,})\s*$", line):
         return line
-    if line.lstrip().startswith("!["):
+    if line.lstrip().startswith("![") or line.lstrip().startswith("<img "):
         return line
     if re.match(r"^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$", line):
         return line
@@ -273,17 +286,17 @@ def main() -> None:
             file_name = slugify(title_en, used, source_path)
             target_path = TARGET_ROOT / category / file_name
             english_rel = target_path.relative_to(ROOT).as_posix()
-            chinese_href = "../../../" + relative_source
+            chinese_href = "../../../" + encode_markdown_link(relative_source)
             english_href = "./" + file_name
-            target_path.write_text(
-                translate_markdown(
-                    source_path.read_text(encoding="utf-8"),
-                    title_en,
-                    chinese_href,
-                    english_href,
-                ),
-                encoding="utf-8",
+            translated_markdown = translate_markdown(
+                source_path.read_text(encoding="utf-8"),
+                title_en,
+                chinese_href,
+                english_href,
             )
+            translated_markdown = translated_markdown.replace("(../../assets/", "(../../../assets/")
+            translated_markdown = translated_markdown.replace('src="../../assets/', 'src="../../../assets/')
+            target_path.write_text(translated_markdown, encoding="utf-8")
             article_map[relative_source] = {
                 "category": category,
                 "english_path": english_rel,

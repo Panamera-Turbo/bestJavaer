@@ -2,6 +2,10 @@
 
 Company updates, platform changes, commercialization, infrastructure, security incidents, and industry judgment.
 
+- 2026-06-10 - [Luckin Released a CLI. Is This a Step Toward AGI?](./luckin-released-a-cli-is-this-a-step-toward-agi.md)
+- 2026-06-07 - [Yao Shunyu's Interview Explained Tencent's Second Half of AI](./yao-shunyu-interview-explained-tencent-second-half-of-ai.md)
+- 2026-06-06 - [Hot Take: OpenAI May Become the Next Anthropic](./hot-take-openai-may-become-the-next-anthropic.md)
+- 2026-06-05 - [After Reading 105 Pages of Inside DingTalk, ONE's Failure Was Not the Most Painful Part](./inside-dingtalk-one-failure-was-not-the-most-painful-part.md)
 - 2026-05-27 - [OpenAI Blocked My Open-Source Sponsorship Account](./openai-blocked-my-open-source-sponsorship-account.md)
 - 2026-05-23 - [At the invitation of the organizing committee, a meeting was held in Katsumura, Beijing.](./at-the-invitation-of-the-organizing-committee-a-meeting-was-held-in-katsumura-beij.md)
 - 2026-05-18 - [And then when it's 00, it starts to give it to school.](./and-then-when-it-s-00-it-starts-to-give-it-to-school.md)

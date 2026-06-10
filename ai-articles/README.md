@@ -15,6 +15,11 @@
 
 ### AI Agent 与编程工具
 
+- 2026-06-09 - [Agents.md 是什么](./01-agent-and-coding/Agents.md%20%E6%98%AF%E4%BB%80%E4%B9%88.md)
+- 2026-06-09 - [我最近最常用的 10 个 Codex 技巧](./01-agent-and-coding/%E6%88%91%E6%9C%80%E8%BF%91%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%2010%20%E4%B8%AA%20Codex%20%E6%8A%80%E5%B7%A7.md)
+- 2026-06-05 - [Codex 一直 Reconnecting？我最后发现，常见就两个坑](./01-agent-and-coding/Codex%20%E4%B8%80%E7%9B%B4%20Reconnecting%EF%BC%9F%E6%88%91%E6%9C%80%E5%90%8E%E5%8F%91%E7%8E%B0%EF%BC%8C%E5%B8%B8%E8%A7%81%E5%B0%B1%E4%B8%A4%E4%B8%AA%E5%9D%91.md)
+- 2026-06-05 - [为每个任务配一套 harness：Claude Code 里的动态工作流](./01-agent-and-coding/%E4%B8%BA%E6%AF%8F%E4%B8%AA%E4%BB%BB%E5%8A%A1%E9%85%8D%E4%B8%80%E5%A5%97%20harness%EF%BC%9AClaude%20Code%20%E9%87%8C%E7%9A%84%E5%8A%A8%E6%80%81%E5%B7%A5%E4%BD%9C%E6%B5%81.md)
+- 2026-06-03 - [太顶了，ChatGPT 要和 Codex 搞一起了。](./01-agent-and-coding/%E5%A4%AA%E9%A1%B6%E4%BA%86%EF%BC%8CChatGPT%20%E8%A6%81%E5%92%8C%20Codex%20%E6%90%9E%E4%B8%80%E8%B5%B7%E4%BA%86%E3%80%82.md)
 - 2026-05-30 - [我花了两天时间，终于把 Codex 额度掉太快的问题整明白了！！](./01-agent-and-coding/%E6%88%91%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%8A%8A%20Codex%20%E9%A2%9D%E5%BA%A6%E6%8E%89%E5%A4%AA%E5%BF%AB%E7%9A%84%E9%97%AE%E9%A2%98%E6%95%B4%E6%98%8E%E7%99%BD%E4%BA%86%EF%BC%81%EF%BC%81.md)
 - 2026-05-30 - [还在用 Codex 开 xhigh 拉满跑？大错特错](./01-agent-and-coding/%E8%BF%98%E5%9C%A8%E7%94%A8%20Codex%20%E5%BC%80%20xhigh%20%E6%8B%89%E6%BB%A1%E8%B7%91%EF%BC%9F%E5%A4%A7%E9%94%99%E7%89%B9%E9%94%99.md)
 - 2026-05-28 - [如何把 Codex 用到极致](./01-agent-and-coding/%E5%A6%82%E4%BD%95%E6%8A%8A%20Codex%20%E7%94%A8%E5%88%B0%E6%9E%81%E8%87%B4.md)
@@ -45,6 +50,8 @@
 
 ### 模型、研究与 Prompt
 
+- 2026-06-10 - [Claude Fable 5 来了](./02-models-and-research/Claude%20Fable%205%20%E6%9D%A5%E4%BA%86.md)
+- 2026-06-02 - [MiniMax M3 发布，据说接近 Opus 4.7？真的假的](./02-models-and-research/MiniMax%20M3%20%E5%8F%91%E5%B8%83%EF%BC%8C%E6%8D%AE%E8%AF%B4%E6%8E%A5%E8%BF%91%20Opus%204.7%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%81%87%E7%9A%84.md)
 - 2026-05-19 - [Deepseek 会泄露其他玩家的对话](./02-models-and-research/Deepseek%20%E4%BC%9A%E6%B3%84%E9%9C%B2%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6%E7%9A%84%E5%AF%B9%E8%AF%9D.md)
 - 2026-05-17 - [我说怎么今天用 GPT-5.5 感觉有点弱智 。。。。。。。](./02-models-and-research/%E6%88%91%E8%AF%B4%E6%80%8E%E4%B9%88%E4%BB%8A%E5%A4%A9%E7%94%A8%20GPT-5.5%20%E6%84%9F%E8%A7%89%E6%9C%89%E7%82%B9%E5%BC%B1%E6%99%BA%20%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82.md)
 - 2026-05-15 - [吴恩达这门新课，重新定义了 Prompt](./02-models-and-research/%E5%90%B4%E6%81%A9%E8%BE%BE%E8%BF%99%E9%97%A8%E6%96%B0%E8%AF%BE%EF%BC%8C%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E4%BA%86%20Prompt.md)
@@ -76,6 +83,10 @@
 
 ### 产业、公司与商业动态
 
+- 2026-06-10 - [瑞幸出 CLI 了，这会是迈向 AGI 的第一步吗？](./04-industry-and-business/%E7%91%9E%E5%B9%B8%E5%87%BA%20CLI%20%E4%BA%86%EF%BC%8C%E8%BF%99%E4%BC%9A%E6%98%AF%E8%BF%88%E5%90%91%20AGI%20%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%90%97%EF%BC%9F.md)
+- 2026-06-07 - [姚顺雨这次访谈，腾讯终于把 AI 下半场讲明白了](./04-industry-and-business/%E5%A7%9A%E9%A1%BA%E9%9B%A8%E8%BF%99%E6%AC%A1%E8%AE%BF%E8%B0%88%EF%BC%8C%E8%85%BE%E8%AE%AF%E7%BB%88%E4%BA%8E%E6%8A%8A%20AI%20%E4%B8%8B%E5%8D%8A%E5%9C%BA%E8%AE%B2%E6%98%8E%E7%99%BD%E4%BA%86.md)
+- 2026-06-06 - [说个暴论，OpenAI 或许会成为下一个 A 社。](./04-industry-and-business/%E8%AF%B4%E4%B8%AA%E6%9A%B4%E8%AE%BA%EF%BC%8COpenAI%20%E6%88%96%E8%AE%B8%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%20A%20%E7%A4%BE%E3%80%82.md)
+- 2026-06-05 - [我读完 105 页《置身钉内》，最扎心的不是 ONE 失败了](./04-industry-and-business/%E6%88%91%E8%AF%BB%E5%AE%8C%20105%20%E9%A1%B5%E3%80%8A%E7%BD%AE%E8%BA%AB%E9%92%89%E5%86%85%E3%80%8B%EF%BC%8C%E6%9C%80%E6%89%8E%E5%BF%83%E7%9A%84%E4%B8%8D%E6%98%AF%20ONE%20%E5%A4%B1%E8%B4%A5%E4%BA%86.md)
 - 2026-05-27 - [离谱，OpenAI 把我的开源赞助账号封了](./04-industry-and-business/%E7%A6%BB%E8%B0%B1%EF%BC%8COpenAI%20%E6%8A%8A%E6%88%91%E7%9A%84%E5%BC%80%E6%BA%90%E8%B5%9E%E5%8A%A9%E8%B4%A6%E5%8F%B7%E5%B0%81%E4%BA%86.md)
 - 2026-05-23 - [这两天受组委会邀请，去北京中关村听了一个会。](./04-industry-and-business/%E8%BF%99%E4%B8%A4%E5%A4%A9%E5%8F%97%E7%BB%84%E5%A7%94%E4%BC%9A%E9%82%80%E8%AF%B7%EF%BC%8C%E5%8E%BB%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%85%B3%E6%9D%91%E5%90%AC%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BC%9A%E3%80%82.md)
 - 2026-05-18 - [当 00 后开始用 token 给学校送礼](./04-industry-and-business/%E5%BD%93%2000%20%E5%90%8E%E5%BC%80%E5%A7%8B%E7%94%A8%20token%20%E7%BB%99%E5%AD%A6%E6%A0%A1%E9%80%81%E7%A4%BC.md)
@@ -103,6 +114,8 @@
 
 ### 观察、杂谈与事故记录
 
+- 2026-06-08 - [AI 时代，如何超过大多数人](./06-notes-and-observations/AI%20%E6%97%B6%E4%BB%A3%EF%BC%8C%E5%A6%82%E4%BD%95%E8%B6%85%E8%BF%87%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA.md)
+- 2026-06-02 - [这个 6.6 k star 的仓库，我差点删库了。](./06-notes-and-observations/%E8%BF%99%E4%B8%AA%206.6%20k%20star%20%E7%9A%84%E4%BB%93%E5%BA%93%EF%BC%8C%E6%88%91%E5%B7%AE%E7%82%B9%E5%88%A0%E5%BA%93%E4%BA%86%E3%80%82.md)
 - 2026-04-20 - [其实我之前也拒绝 AI](./06-notes-and-observations/%E5%85%B6%E5%AE%9E%E6%88%91%E4%B9%8B%E5%89%8D%E4%B9%9F%E6%8B%92%E7%BB%9D%20AI.md)
 - 2026-04-20 - [你这个问题是不是 AI 写的？](./06-notes-and-observations/%E4%BD%A0%E8%BF%99%E4%B8%AA%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%8D%E6%98%AF%20AI%20%E5%86%99%E7%9A%84%EF%BC%9F.md)
 - 2026-03-26 - [谁把我 ssh 给杀了](./06-notes-and-observations/%E8%B0%81%E6%8A%8A%E6%88%91%20ssh%20%E7%BB%99%E6%9D%80%E4%BA%86.md)

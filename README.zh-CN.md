@@ -53,12 +53,12 @@
 
 ## 最近更新
 
-* 2026-05-27 · [离谱，OpenAI 把我的开源赞助账号封了](./ai-articles/04-industry-and-business/%E7%A6%BB%E8%B0%B1%EF%BC%8COpenAI%20%E6%8A%8A%E6%88%91%E7%9A%84%E5%BC%80%E6%BA%90%E8%B5%9E%E5%8A%A9%E8%B4%A6%E5%8F%B7%E5%B0%81%E4%BA%86.md)
-* 2026-05-25 · [Codex 官方：/goal 的正确打开方式](./ai-articles/01-agent-and-coding/Codex%20%E5%AE%98%E6%96%B9%EF%BC%9Agoal%20%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F.md)
-* 2026-05-24 · [Codex 把我家网给优化了，我 TM 直接原地起飞了。](./ai-articles/01-agent-and-coding/Codex%20%E6%8A%8A%E6%88%91%E5%AE%B6%E7%BD%91%E7%BB%99%E4%BC%98%E5%8C%96%E4%BA%86%EF%BC%8C%E6%88%91%20TM%20%E7%9B%B4%E6%8E%A5%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%E3%80%82.md)
-* 2026-05-21 · [Agent Workflow Kit 接入你的项目](./ai-articles/01-agent-and-coding/Agent%20Workflow%20Kit%20%E6%8E%A5%E5%85%A5%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE.md)
-* 2026-05-19 · [Deepseek 会泄露其他玩家的对话](./ai-articles/02-models-and-research/Deepseek%20%E4%BC%9A%E6%B3%84%E9%9C%B2%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6%E7%9A%84%E5%AF%B9%E8%AF%9D.md)
-* 2026-05-19 · [给大家详细介绍下 weread skills](./ai-articles/03-tools-and-resources/%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D%E4%B8%8B%20weread%20skills.md)
+* 2026-06-10 · [瑞幸出 CLI 了，这会是迈向 AGI 的第一步吗？](./ai-articles/04-industry-and-business/%E7%91%9E%E5%B9%B8%E5%87%BA%20CLI%20%E4%BA%86%EF%BC%8C%E8%BF%99%E4%BC%9A%E6%98%AF%E8%BF%88%E5%90%91%20AGI%20%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%90%97%EF%BC%9F.md)
+* 2026-06-10 · [Claude Fable 5 来了](./ai-articles/02-models-and-research/Claude%20Fable%205%20%E6%9D%A5%E4%BA%86.md)
+* 2026-06-09 · [Agents.md 是什么](./ai-articles/01-agent-and-coding/Agents.md%20%E6%98%AF%E4%BB%80%E4%B9%88.md)
+* 2026-06-09 · [我最近最常用的 10 个 Codex 技巧](./ai-articles/01-agent-and-coding/%E6%88%91%E6%9C%80%E8%BF%91%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%2010%20%E4%B8%AA%20Codex%20%E6%8A%80%E5%B7%A7.md)
+* 2026-06-08 · [AI 时代，如何超过大多数人](./ai-articles/06-notes-and-observations/AI%20%E6%97%B6%E4%BB%A3%EF%BC%8C%E5%A6%82%E4%BD%95%E8%B6%85%E8%BF%87%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA.md)
+* 2026-06-07 · [姚顺雨这次访谈，腾讯终于把 AI 下半场讲明白了](./ai-articles/04-industry-and-business/%E5%A7%9A%E9%A1%BA%E9%9B%A8%E8%BF%99%E6%AC%A1%E8%AE%BF%E8%B0%88%EF%BC%8C%E8%85%BE%E8%AE%AF%E7%BB%88%E4%BA%8E%E6%8A%8A%20AI%20%E4%B8%8B%E5%8D%8A%E5%9C%BA%E8%AE%B2%E6%98%8E%E7%99%BD%E4%BA%86.md)
 
 ## 为什么值得关注
 

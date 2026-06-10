@@ -1,5 +1,5 @@
 * <a href="#/">Home</a>
-* <a href="#/README.zh-CN">中文 README</a>
+* <a href="#/README.zh-CN">Chinese README</a>
 
 * Main Track
   * <a href="#/en/ai-articles/README">AI Articles</a>

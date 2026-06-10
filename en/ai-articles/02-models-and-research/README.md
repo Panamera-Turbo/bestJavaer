@@ -2,6 +2,8 @@
 
 Model capabilities, papers and reports, prompt methods, evaluations, and LLM observations.
 
+- 2026-06-10 - [Claude Fable 5 Is Here](./claude-fable-5-is-here.md)
+- 2026-06-02 - [MiniMax M3 Is Here: How Close Is It to Opus 4.7?](./minimax-m3-is-here-how-close-is-it-to-opus-4-7.md)
 - 2026-05-19 - [DeepSeek, enter <think' >, so you can spy on people's conversations? Don't rush to conclusions.](./deepseek-enter-think-so-you-can-spy-on-people-s-conversations-don-t-rush-to-conclu.md)
 - 2026-05-17 - [I say how it feels to be a little retarded today with GPT-5. 5.](./i-say-how-it-feels-to-be-a-little-retarded-today-with-gpt-5-5.md)
 - 2026-05-15 - [The new class of U. N., redefined Prompt.](./the-new-class-of-u-n-redefined-prompt.md)

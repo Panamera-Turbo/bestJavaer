@@ -2,6 +2,11 @@
 
 Codex, Claude Code, Claw, Agent workflows, AI coding tools, and real usage notes.
 
+- 2026-06-09 - [What Is AGENTS.md?](./what-is-agents-md.md)
+- 2026-06-09 - [The 10 Codex Tips I Use Most Often](./the-10-codex-tips-i-use-most-often.md)
+- 2026-06-05 - [Codex Keeps Reconnecting? The Two Common Causes I Found](./codex-keeps-reconnecting-the-two-common-causes-i-found.md)
+- 2026-06-05 - [A Harness for Every Task: Dynamic Workflows in Claude Code](./a-harness-for-every-task-dynamic-workflows-in-claude-code.md)
+- 2026-06-03 - [ChatGPT and Codex Are Becoming One Workflow](./chatgpt-and-codex-are-becoming-one-workflow.md)
 - 2026-05-30 - [It took me two days to figure out how fast Codex fell!](./it-took-me-two-days-to-figure-out-how-fast-cordex-fell.md)
 - 2026-05-30 - [Still using Codex to drive x high? Big mistake.](./still-using-codex-to-drive-x-high-big-mistake.md)
 - 2026-05-28 - [How to Get the Most Out of Codex](./how-to-get-the-most-out-of-codex.md)

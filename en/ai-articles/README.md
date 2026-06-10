@@ -15,6 +15,11 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 
 ### AI Agent & Coding Tools
 
+- 2026-06-09 - [What Is AGENTS.md?](./01-agent-and-coding/what-is-agents-md.md)
+- 2026-06-09 - [The 10 Codex Tips I Use Most Often](./01-agent-and-coding/the-10-codex-tips-i-use-most-often.md)
+- 2026-06-05 - [Codex Keeps Reconnecting? The Two Common Causes I Found](./01-agent-and-coding/codex-keeps-reconnecting-the-two-common-causes-i-found.md)
+- 2026-06-05 - [A Harness for Every Task: Dynamic Workflows in Claude Code](./01-agent-and-coding/a-harness-for-every-task-dynamic-workflows-in-claude-code.md)
+- 2026-06-03 - [ChatGPT and Codex Are Becoming One Workflow](./01-agent-and-coding/chatgpt-and-codex-are-becoming-one-workflow.md)
 - 2026-05-30 - [It took me two days to figure out how fast Cordex fell!](./01-agent-and-coding/it-took-me-two-days-to-figure-out-how-fast-cordex-fell.md)
 - 2026-05-30 - [Still using Codex to drive x high? Big mistake.](./01-agent-and-coding/still-using-codex-to-drive-x-high-big-mistake.md)
 - 2026-05-28 - [How to Get the Most Out of Codex](./01-agent-and-coding/how-to-get-the-most-out-of-codex.md)
@@ -45,6 +50,8 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 
 ### Models, Research & Prompt
 
+- 2026-06-10 - [Claude Fable 5 Is Here](./02-models-and-research/claude-fable-5-is-here.md)
+- 2026-06-02 - [MiniMax M3 Is Here: How Close Is It to Opus 4.7?](./02-models-and-research/minimax-m3-is-here-how-close-is-it-to-opus-4-7.md)
 - 2026-05-19 - [DeepSeek, enter <think' >, so you can spy on people's conversations? Don't rush to conclusions.](./02-models-and-research/deepseek-enter-think-so-you-can-spy-on-people-s-conversations-don-t-rush-to-conclu.md)
 - 2026-05-17 - [I say how it feels to be a little retarded today with GPT-5. 5.](./02-models-and-research/i-say-how-it-feels-to-be-a-little-retarded-today-with-gpt-5-5.md)
 - 2026-05-15 - [The new class of U. N., redefined Prompt.](./02-models-and-research/the-new-class-of-u-n-redefined-prompt.md)
@@ -76,6 +83,10 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 
 ### Industry, Companies & Business
 
+- 2026-06-10 - [Luckin Released a CLI. Is This a Step Toward AGI?](./04-industry-and-business/luckin-released-a-cli-is-this-a-step-toward-agi.md)
+- 2026-06-07 - [Yao Shunyu's Interview Explained Tencent's Second Half of AI](./04-industry-and-business/yao-shunyu-interview-explained-tencent-second-half-of-ai.md)
+- 2026-06-06 - [Hot Take: OpenAI May Become the Next Anthropic](./04-industry-and-business/hot-take-openai-may-become-the-next-anthropic.md)
+- 2026-06-05 - [After Reading 105 Pages of Inside DingTalk, ONE's Failure Was Not the Most Painful Part](./04-industry-and-business/inside-dingtalk-one-failure-was-not-the-most-painful-part.md)
 - 2026-05-27 - [OpenAI Blocked My Open-Source Sponsorship Account](./04-industry-and-business/openai-blocked-my-open-source-sponsorship-account.md)
 - 2026-05-23 - [At the invitation of the organizing committee, a meeting was held in Katsumura, Beijing.](./04-industry-and-business/at-the-invitation-of-the-organizing-committee-a-meeting-was-held-in-katsumura-beij.md)
 - 2026-05-18 - [And then when it's 00, it starts to give it to school.](./04-industry-and-business/and-then-when-it-s-00-it-starts-to-give-it-to-school.md)
@@ -103,6 +114,8 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 
 ### Notes, Essays & Incidents
 
+- 2026-06-08 - [How to Get Ahead in the AI Era](./06-notes-and-observations/how-to-get-ahead-in-the-ai-era.md)
+- 2026-06-02 - [I Almost Deleted My 6.6k-Star Repository](./06-notes-and-observations/i-almost-deleted-my-6-6k-star-repository.md)
 - 2026-04-20 - [I've actually refused, AI.](./06-notes-and-observations/i-ve-actually-refused-ai.md)
 - 2026-04-20 - [Did you write that question by AI?](./06-notes-and-observations/did-you-write-that-question-by-ai.md)
 - 2026-03-26 - [Who's done with me?](./06-notes-and-observations/who-s-done-with-me.md)

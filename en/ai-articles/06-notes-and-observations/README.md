@@ -2,6 +2,8 @@
 
 Personal observations, essays, pitfalls, incidents, and cross-topic records.
 
+- 2026-06-08 - [How to Get Ahead in the AI Era](./how-to-get-ahead-in-the-ai-era.md)
+- 2026-06-02 - [I Almost Deleted My 6.6k-Star Repository](./i-almost-deleted-my-6-6k-star-repository.md)
 - 2026-04-20 - [I've actually refused, AI.](./i-ve-actually-refused-ai.md)
 - 2026-04-20 - [Did you write that question by AI?](./did-you-write-that-question-by-ai.md)
 - 2026-03-26 - [Who's done with me?](./who-s-done-with-me.md)
