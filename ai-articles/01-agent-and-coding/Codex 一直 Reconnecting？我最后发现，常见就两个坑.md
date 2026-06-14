@@ -5,15 +5,7 @@
 
 我估计大家在用 Codex 的时`候，一定对这个场景并不陌生。
 
-当你打算让 Codex 开始干活的时候。
-
-<img src="https://cdn.jsdelivr.net/gh/doggaifan/picbed/image-20260602220945257.png" alt="image-20260602220945257" style="zoom:50%;" />
-
-当你想让 Codex 给出有效指导的时候。
-
-<img src="https://cdn.jsdelivr.net/gh/doggaifan/picbed/image-20260602220945257.png" alt="image-20260602220945257" style="zoom:50%;" />
-
-当你想用 Codex 跑任务的时候。
+当你打算让 Codex 开始干活的时候，当你想让 Codex 给出有效指导的时候，当你想用 Codex 跑任务的时候。
 
 <img src="https://cdn.jsdelivr.net/gh/doggaifan/picbed/image-20260602220945257.png" alt="image-20260602220945257" style="zoom:50%;" />
 

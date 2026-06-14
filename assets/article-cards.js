@@ -542,6 +542,7 @@
   }
 
   function decorateHomePage(section) {
+    var latestArticles = collectHomeUpdateArticles(section).slice(0, 6);
     var classes = [
       'home-reading-grid',
       'home-feature-grid',
@@ -573,7 +574,7 @@
       next.classList.add(listClass);
 
       if (listClass === 'home-reading-grid') {
-        renderFeaturedCards(next);
+        renderFeaturedCards(next, latestArticles);
       }
 
       if (listClass === 'home-feature-grid') {
@@ -582,7 +583,58 @@
     });
   }
 
-  function renderFeaturedCards(list) {
+  function collectHomeUpdateArticles(section) {
+    var updateHeadings = ['最近更新', 'Recent Updates'];
+    var updateList = Array.from(section.querySelectorAll('h2')).reduce(function (found, heading) {
+      if (found || updateHeadings.indexOf(heading.textContent.trim()) === -1) {
+        return found;
+      }
+
+      return heading.nextElementSibling && heading.nextElementSibling.tagName === 'UL' ? heading.nextElementSibling : null;
+    }, null);
+
+    if (!updateList) {
+      return [];
+    }
+
+    return Array.from(updateList.children).map(toHomeUpdateItem).filter(Boolean);
+  }
+
+  function toHomeUpdateItem(listItem) {
+    if (!listItem || listItem.tagName !== 'LI') {
+      return null;
+    }
+
+    var link = listItem.querySelector('a[href]');
+
+    if (!link) {
+      return null;
+    }
+
+    var markdownPath = toMarkdownPath(link.getAttribute('href') || '');
+
+    if (!markdownPath || !isArticleMarkdown(markdownPath)) {
+      return null;
+    }
+
+    var rawText = listItem.textContent.replace(/\s+/g, ' ').trim();
+    var dateMatch = rawText.match(/^(\d{4}-\d{2}-\d{2})\s*(?:[·-])\s*/);
+
+    return {
+      date: dateMatch ? dateMatch[1] : '',
+      href: toRouteHref(markdownPath),
+      markdownPath: markdownPath,
+      summary: dateMatch ? dateMatch[1] : '',
+      title: link.textContent.trim()
+    };
+  }
+
+  function renderFeaturedCards(list, latestArticles) {
+    if (latestArticles && latestArticles.length) {
+      renderLatestFeaturedCards(list, latestArticles);
+      return;
+    }
+
     Array.from(list.children).forEach(function (item) {
       if (item.tagName !== 'LI' || item.classList.contains('home-reading-item')) {
         return;
@@ -610,6 +662,33 @@
         markdownPath: markdownPath,
         summary: summaryNode ? summaryNode.textContent.trim() : '',
         title: link.textContent.trim()
+      });
+    });
+  }
+
+  function renderLatestFeaturedCards(list, articles) {
+    var key = articles.map(function (article) {
+      return article.date + ':' + article.markdownPath;
+    }).join('|');
+
+    if (list.getAttribute('data-home-latest-key') === key) {
+      return;
+    }
+
+    list.setAttribute('data-home-latest-key', key);
+    list.textContent = '';
+
+    articles.forEach(function (article) {
+      var item = document.createElement('li');
+
+      list.appendChild(item);
+      renderFeaturedCard({
+        date: article.date,
+        href: article.href,
+        item: item,
+        markdownPath: article.markdownPath,
+        summary: article.summary,
+        title: article.title
       });
     });
   }

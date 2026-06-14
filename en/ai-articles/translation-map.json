@@ -556,5 +556,23 @@
     "english_path": "en/ai-articles/04-industry-and-business/hot-take-openai-may-become-the-next-anthropic.md",
     "english_title": "Hot Take: OpenAI May Become the Next Anthropic",
     "source_title": "说个暴论，OpenAI 或许会成为下一个 A 社。"
+  },
+  "ai-articles/02-models-and-research/太突然了，Fable 5 被禁了。.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/fable-5-was-suddenly-banned.md",
+    "english_title": "Fable 5 Was Suddenly Banned",
+    "source_title": "太突然了，Fable 5 被禁了。"
+  },
+  "ai-articles/02-models-and-research/Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/fable-5-120k-character-system-prompt-leaked.md",
+    "english_title": "Fable 5's 120k-Character System Prompt Leaked",
+    "source_title": "Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。"
+  },
+  "ai-articles/04-industry-and-business/OpenAI 邀请一个人直接重置额度，以一己之力把价格打下来了。.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/one-openai-invite-reset-the-quota-and-pulled-prices-down.md",
+    "english_title": "One OpenAI Invite Reset the Quota and Pulled Prices Down",
+    "source_title": "OpenAI 邀请一个人直接重置额度，以一己之力把价格打下来了。"
   }
 }

@@ -50,6 +50,8 @@
 
 ### 模型、研究与 Prompt
 
+- 2026-06-13 - [太突然了，Fable 5 被禁了。](./02-models-and-research/%E5%A4%AA%E7%AA%81%E7%84%B6%E4%BA%86%EF%BC%8CFable%205%20%E8%A2%AB%E7%A6%81%E4%BA%86%E3%80%82.md)
+- 2026-06-12 - [Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。](./02-models-and-research/Fable%205%20%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E4%BA%BA%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C%E7%B2%BE%E5%BD%A9%EF%BC%8C%E5%A4%AA%E7%B2%BE%E5%BD%A9%E4%BA%86%E3%80%82.md)
 - 2026-06-10 - [Claude Fable 5 来了](./02-models-and-research/Claude%20Fable%205%20%E6%9D%A5%E4%BA%86.md)
 - 2026-06-02 - [MiniMax M3 发布，据说接近 Opus 4.7？真的假的](./02-models-and-research/MiniMax%20M3%20%E5%8F%91%E5%B8%83%EF%BC%8C%E6%8D%AE%E8%AF%B4%E6%8E%A5%E8%BF%91%20Opus%204.7%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%81%87%E7%9A%84.md)
 - 2026-05-19 - [Deepseek 会泄露其他玩家的对话](./02-models-and-research/Deepseek%20%E4%BC%9A%E6%B3%84%E9%9C%B2%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6%E7%9A%84%E5%AF%B9%E8%AF%9D.md)
@@ -83,6 +85,7 @@
 
 ### 产业、公司与商业动态
 
+- 2026-06-12 - [OpenAI 邀请一个人直接重置额度，以一己之力把价格打下来了。](./04-industry-and-business/OpenAI%20%E9%82%80%E8%AF%B7%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9B%B4%E6%8E%A5%E9%87%8D%E7%BD%AE%E9%A2%9D%E5%BA%A6%EF%BC%8C%E4%BB%A5%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E6%8A%8A%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86%E3%80%82.md)
 - 2026-06-10 - [瑞幸出 CLI 了，这会是迈向 AGI 的第一步吗？](./04-industry-and-business/%E7%91%9E%E5%B9%B8%E5%87%BA%20CLI%20%E4%BA%86%EF%BC%8C%E8%BF%99%E4%BC%9A%E6%98%AF%E8%BF%88%E5%90%91%20AGI%20%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%90%97%EF%BC%9F.md)
 - 2026-06-07 - [姚顺雨这次访谈，腾讯终于把 AI 下半场讲明白了](./04-industry-and-business/%E5%A7%9A%E9%A1%BA%E9%9B%A8%E8%BF%99%E6%AC%A1%E8%AE%BF%E8%B0%88%EF%BC%8C%E8%85%BE%E8%AE%AF%E7%BB%88%E4%BA%8E%E6%8A%8A%20AI%20%E4%B8%8B%E5%8D%8A%E5%9C%BA%E8%AE%B2%E6%98%8E%E7%99%BD%E4%BA%86.md)
 - 2026-06-06 - [说个暴论，OpenAI 或许会成为下一个 A 社。](./04-industry-and-business/%E8%AF%B4%E4%B8%AA%E6%9A%B4%E8%AE%BA%EF%BC%8COpenAI%20%E6%88%96%E8%AE%B8%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%20A%20%E7%A4%BE%E3%80%82.md)

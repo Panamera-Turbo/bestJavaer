@@ -14,24 +14,24 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Start Here
 
-* [The official Codex guide: how to use /goal correctly](./en/ai-articles/01-agent-and-coding/the-official-codex-guide-how-to-use-goal-correctly.md)
+* [Fable 5 Was Suddenly Banned](./en/ai-articles/02-models-and-research/fable-5-was-suddenly-banned.md)
 
-  A practical entry point for setting goals, validating progress, and keeping long-running AI coding tasks from drifting.
-* [Codex optimized my home network, and the result was absurdly good](./en/ai-articles/01-agent-and-coding/after-codex-optimized-my-shitty-net-i-tm-took-off-in-situ.md)
+  2026-06-13
+* [Fable 5's 120k-Character System Prompt Leaked](./en/ai-articles/02-models-and-research/fable-5-120k-character-system-prompt-leaked.md)
 
-  A real troubleshooting story that shows the boundary between AI diagnosis, command execution, and human review.
-* [Connecting Agent Workflow Kit to your project](./en/ai-articles/01-agent-and-coding/connecting-agent-workflow-kit-to-your-project.md)
+  2026-06-12
+* [One OpenAI Invite Reset the Quota and Pulled Prices Down](./en/ai-articles/04-industry-and-business/one-openai-invite-reset-the-quota-and-pulled-prices-down.md)
 
-  A useful starting point if you are thinking about adding Agent workflows to an existing project.
-* [I finally figured out Codex usage: output is not the most expensive part](./en/ai-articles/01-agent-and-coding/i-finally-pulled-out-the-codex-s-volume-it-wasn-t-the-output.md)
+  2026-06-12
+* [Luckin Released a CLI. Is This a Step Toward AGI?](./en/ai-articles/04-industry-and-business/luckin-released-a-cli-is-this-a-step-toward-agi.md)
 
-  For readers who care about tokens, caching, cost, subscription limits, and practical usage accounting.
-* [Layweout: a WeChat article formatting workbench](./en/ai-articles/03-tools-and-resources/why-did-i-create-another-public-domain.md)
+  2026-06-10
+* [Claude Fable 5 Is Here](./en/ai-articles/02-models-and-research/claude-fable-5-is-here.md)
 
-  A small tool that grew from a real publishing workflow problem.
-* [How to get the most out of Codex](./en/ai-articles/01-agent-and-coding/how-to-get-the-most-out-of-codex.md)
+  2026-06-10
+* [What Is AGENTS.md?](./en/ai-articles/01-agent-and-coding/what-is-agents-md.md)
 
-  A look at persistent threads, sidebars, automations, /goal, and how Codex can become a working system instead of only a coding assistant.
+  2026-06-09
 
 ## Main Sections
 
@@ -53,12 +53,12 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Recent Updates
 
+* 2026-06-13 · [Fable 5 Was Suddenly Banned](./en/ai-articles/02-models-and-research/fable-5-was-suddenly-banned.md)
+* 2026-06-12 · [Fable 5's 120k-Character System Prompt Leaked](./en/ai-articles/02-models-and-research/fable-5-120k-character-system-prompt-leaked.md)
+* 2026-06-12 · [One OpenAI Invite Reset the Quota and Pulled Prices Down](./en/ai-articles/04-industry-and-business/one-openai-invite-reset-the-quota-and-pulled-prices-down.md)
 * 2026-06-10 · [Luckin Released a CLI. Is This a Step Toward AGI?](./en/ai-articles/04-industry-and-business/luckin-released-a-cli-is-this-a-step-toward-agi.md)
 * 2026-06-10 · [Claude Fable 5 Is Here](./en/ai-articles/02-models-and-research/claude-fable-5-is-here.md)
 * 2026-06-09 · [What Is AGENTS.md?](./en/ai-articles/01-agent-and-coding/what-is-agents-md.md)
-* 2026-06-09 · [The 10 Codex Tips I Use Most Often](./en/ai-articles/01-agent-and-coding/the-10-codex-tips-i-use-most-often.md)
-* 2026-06-08 · [How to Get Ahead in the AI Era](./en/ai-articles/06-notes-and-observations/how-to-get-ahead-in-the-ai-era.md)
-* 2026-06-07 · [Yao Shunyu's Interview Explained Tencent's Second Half of AI](./en/ai-articles/04-industry-and-business/yao-shunyu-interview-explained-tencent-second-half-of-ai.md)
 
 ## Why Follow
 

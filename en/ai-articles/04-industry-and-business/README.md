@@ -2,6 +2,7 @@
 
 Company updates, platform changes, commercialization, infrastructure, security incidents, and industry judgment.
 
+- 2026-06-12 - [One OpenAI Invite Reset the Quota and Pulled Prices Down](./one-openai-invite-reset-the-quota-and-pulled-prices-down.md)
 - 2026-06-10 - [Luckin Released a CLI. Is This a Step Toward AGI?](./luckin-released-a-cli-is-this-a-step-toward-agi.md)
 - 2026-06-07 - [Yao Shunyu's Interview Explained Tencent's Second Half of AI](./yao-shunyu-interview-explained-tencent-second-half-of-ai.md)
 - 2026-06-06 - [Hot Take: OpenAI May Become the Next Anthropic](./hot-take-openai-may-become-the-next-anthropic.md)

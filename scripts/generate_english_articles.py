@@ -67,6 +67,9 @@ SELECTED_TITLE_OVERRIDES = {
     "AI 时代，如何超过大多数人": "How to Get Ahead in the AI Era",
     "姚顺雨这次访谈，腾讯终于把 AI 下半场讲明白了": "Yao Shunyu's Interview Explained Tencent's Second Half of AI",
     "说个暴论，OpenAI 或许会成为下一个 A 社。": "Hot Take: OpenAI May Become the Next Anthropic",
+    "太突然了，Fable 5 被禁了。": "Fable 5 Was Suddenly Banned",
+    "Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。": "Fable 5's 120k-Character System Prompt Leaked",
+    "OpenAI 邀请一个人直接重置额度，以一己之力把价格打下来了。": "One OpenAI Invite Reset the Quota and Pulled Prices Down",
 }
 
 PROTECT_PATTERNS = [

@@ -2,6 +2,8 @@
 
 Model capabilities, papers and reports, prompt methods, evaluations, and LLM observations.
 
+- 2026-06-13 - [Fable 5 Was Suddenly Banned](./fable-5-was-suddenly-banned.md)
+- 2026-06-12 - [Fable 5's 120k-Character System Prompt Leaked](./fable-5-120k-character-system-prompt-leaked.md)
 - 2026-06-10 - [Claude Fable 5 Is Here](./claude-fable-5-is-here.md)
 - 2026-06-02 - [MiniMax M3 Is Here: How Close Is It to Opus 4.7?](./minimax-m3-is-here-how-close-is-it-to-opus-4-7.md)
 - 2026-05-19 - [DeepSeek, enter <think' >, so you can spy on people's conversations? Don't rush to conclusions.](./deepseek-enter-think-so-you-can-spy-on-people-s-conversations-don-t-rush-to-conclu.md)

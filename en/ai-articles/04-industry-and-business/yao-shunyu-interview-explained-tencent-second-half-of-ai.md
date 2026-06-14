@@ -8,23 +8,23 @@
 > Date: 2026-06-07
 
 
-This two days to consult AI is a little big.
+It's been a while since I've been hearing from AI.
 
 On the 5th of June, a public conversation was held between Tung Dosheng and Yao Sun Yu at the conference on the application of the AI industry.
 
-On 6 June, Thomason gave another round of media interviews, continuing to spread many outside concerns.
+On 6 June, Thomason gave another round of media interviews, continuing to spread the questions he had been asking.
 
-The feeling after I read it was that this time I finally made myself clear about AI.
+After I read it, it was like, this time, I finally made myself clear about AI.
 
-As for the phrase, "at last there is more to be done", it is less important. That's not funny.
+As for the phrase "at last" it was not so important. That's what they write at every big meeting. It's so boring to read.
 
-** It's really simple to say this time: the model is just a piece. Yuanbao, WorldBuddy, CodeBuddy, documents, meetings, these products and tools have to be in the same task process so that AI can get the context, move the tools, and finally do it. **
+The real thing to say this time is that the model is just one piece. The products and tools, such as Yuanbao, WorldBuddy, CodeBuddy, documents, conferences, are subject to the same task process. AI has to get the context, get the tools to move, and finally get it done.
 
 ![Todo-sheng and Yao-soon-sun.](https://cdn.jsdelivr.net/gh/crisxuan/searchnews-assets/7d811d80c19d177b2c24abe211dae96474a93077.png)
 
 * Source: Information on the Official Congress. ♪ I'm sorry ♪
 
-This could be the right way to get the message.
+This may be the right path to take.
 
 I think that's the best thing to do.
 
@@ -42,47 +42,45 @@ The two names are only one word short, but the route is completely different.
 
 * Two Shunyu Yao photo contrasts. ♪ I'm sorry ♪
 
-Let's get this straight or it's all over the back.
+Let's get this clear, or we'll have a whole line back there.
 
 ---
 
 The first question to be asked is:
 
-** Did the call slow down on AI? **
+Isn't that slow on AI?
 
 When ChatGPT came out, OpenAI, Anthropic, Google, DeepSeek, KIMI, GLM, byte, Ali had models or products to remember. By contrast, it is true that the period of arraignment was not the most spectacular.
 
-Yao Sun-rain didn't turn away this time.
+Yao Sun-un didn't hide hard this time.
 
 He didn't say it wasn't slow.
 
-He just threw a question out for everyone:
+He just dropped a question:
 
-**AI is a short-term game or a long-term game? **
+Is AI a short-term game or a long-term game?
 
-If AI is a run-off in two years, it's a slow move, a slow model release, a slow market reaction, as everyone thinks.
+If AI is a run-off in two years, the product is slow, modeling slow, markets slow, of course.
 
-But if AI is more like the '70s when the PC first appeared, there are still a lot of products that are not filled.
+But if AI is more like the '70s when the PC first appeared, there are still a lot of products that are not stereotyped.
 
-The easiest thing to remember now is ChatGPT and Claude Code. Chat and writing codes are only two of these product forms. Multi-modular, intelligent, office collaboration, business processes, and so on, have not yet been shaped and new product patterns will emerge in the coming years.
+The easiest thing to remember now is ChatGPT and Claude Code. Chat and writing codes are just two product forms. Multimorphism, intelligence, office collaboration, business processes, etc., will continue to change in the coming years.
 
-There is indeed an explanation for the rhythm of the past.
+Of course there are elements in that that explain the rhythm of the past.
 
-But it also talks about the conditions in which its products are being communicated.
+But it also speaks of the conditions under which it is to be questioned.
 
 At the end of the day, such companies are not very good at a global model release every three months.
 
-It's better at putting AI capabilities in real products, allowing a large number of users to use them on a daily basis, with a round of feedback.
+It's better at putting AI in the real product, allowing a lot of users to use it on a daily basis, and changing it on the basis of feedback.
 
-If AI looks more at the product in the second half, there's still a chance.
+If AI looks more at the product in the second half of the game, there's still a chance.
 
-If AI ends up looking only at models, it's really hard to get out. To put it straight, it's not appropriate to spell out the rhythm.
+If you look at the model at the end of the day, it'll be hard. Put it straight, it's not the right thing to do.
 
-So I think that this talk about "long-term games" is about making my thoughts clear.
+So I think it's not just about looking for steps for myself to talk about a long-term game. It's making trade-offs clear.
 
-It is indeed more appropriate to continue the iterative process in the product. The next model release will attract attention, which will not be appropriate for it.
-
-In other words, this is the trade-off that is now faced with.
+It's more appropriate to keep changing in products. The next model release will attract attention, which will not be appropriate for it.
 
 ---
 
@@ -94,13 +92,13 @@ Used to be AlphaGo, it's a design for chess.
 
 Translation is the design of a model for translation.
 
-Methods and problems are basically tied.
+Methods and problems are largely tied together.
 
-However, the situation changed with pre-training, post-training, large models. So the team had to answer a question:
+However, the situation changed with pre-training, post-training, large models. The model has become stronger and the product team has to answer a question:
 
 Which specific issue should be addressed first?
 
-What can be taken out of the message is first and foremost specific needs and context.
+What can be done is first and foremost specific needs and context.
 
 It has a lot of real products, and it has a lot of real problems.
 
@@ -116,9 +114,9 @@ That's why Yao Sun has repeatedly raised contact.
 
 To put it simply, it's the "precedent summaries" that the models get before they work.
 
-As the models became stronger, the product gap began to fall on specific materials. The information in the hands of the user, the minutes of the meeting, the history of document modification, the code repository, the rights of the enterprise, whether it can be used by AI, becomes important.
+As models become stronger, product gaps fall on specific materials. User information, minutes of meetings, document modification history, code repository, business privileges, whether or not these are used by AI, will directly affect the usefulness of the product.
 
-In the second half of the game, who knows what the user wants to solve. ** This will have a direct impact on whether the product will help the user to finish.
+To be honest, the second half of AI, who knows what the user wants to solve.
 
 ---
 
@@ -126,11 +124,11 @@ Co-Design is more important than a list
 
 This interview also included a keyword: Co-Design.
 
-This is the design of models and products.
+It's about models and product design.
 
-As you can see, model teams don't just want to draw up their charts, and the product teams don't want to wait until the model's done.
+And you can understand that the model team should not just look at the chart, and the product team should not wait until the model is finished before it is put into the product process.
 
-They have to set goals together, look at data together, and change experiences together.
+They have to set goals, read data and change experiences.
 
 ![How's the model and product?](https://cdn.jsdelivr.net/gh/crisxuan/searchnews-assets/feaba127420c67d9a24a05064fe91b19f3fe45a4.png)
 
@@ -140,39 +138,39 @@ It was easy to stare at benchmark.
 
 Math scores, code scores, long text token, number one.
 
-Of course these are useful, but the problem is that real users don't ask questions like benchmark.
+These certainly work. But real users do not ask questions like benchmark.
 
 Real users often do this:
 
-One sentence, followed by a chat, will be asked, changed, supplemented and mixed with search, documentation, meetings, codes, forms.
+First, a word is asked, then there is talk about asking, changing, supplementing and mixing search, documentation, meetings, codes, forms.
 
-At this point, if the model is able to match the context, if the tools can be adapted, it is closer to user experience than a single question and answer score.
+At this point, if the model is able to catch the context, if the tools can be adjusted, it is closer to real experience than a single question and answer score.
 
 So, in an interview on June 6th, Yudosheng said that after Yao Haun came, he pushed the hybrids away from being benchmark in the accident department, to use product user experience as the main measure.
 
-I think that's more important than "how much is on a list."
+This is more important than "how much has been added to a list".
 
-This represents a shift in the team of models from assessment cross-fertilization to accountability for product experience.
+It indicates that the modelling team has begun to move from a cross-fertilization exercise to a responsible product experience.
 
-Yudosheng added that before the training of Hy3, Yao Hao had done a great deal of data quality work and cut down many of the data that appeared to be capable of stacking, but were not actually helpful or even harmful to model training.
+Thomason added that before the training, Hy3, Yao Hao had done a great deal of data quality work, cutting down many of the data that seemed capable of stacking data, which did not actually help or even harmful to training.
 
-This move shows one thing.
+That's a pretty good move.
 
 A lot of people talk about modeling, and as much data as possible.
 
-But the truth may be that** some of the data are not assets but sources of pollution. **
+But the truth may be that some data are not assets and are sources of pollution.
 
 Cutting data is harder than stacking data.
 
-This decision is really tough and very decisive.
+This decision is hard and decisive.
 
-I think it's even more problematic than "a few points up a list of the mixer."
+I think it's a lot more telling than "a few points up a list of hybrids."
 
 Because the list is up a few points, ordinary users may not feel it at all.
 
-But if Yuanbao, the WorkBuddy answer is more stable, the mission runs faster, and the user is willing to use more than a few times, this change will attract sustained use.
+But if the answers in Yuanbao, WorldBuddy are more stable, the task is faster and the user is willing to use it more often, the change will remain in the product.
 
-So far, Hy3 has been connected to all these products.
+So far, Hy3 has been connected to these products.
 
 According to official sources, the speed of the first response increased by 54 per cent and the average time taken to complete the mission decreased by 47 per cent after the WorldBuddy access to Hy3 Preview. Thomason also said that about 80% of the dollar users are already using Hy3, and retention rates have increased significantly.
 
@@ -184,9 +182,9 @@ According to official sources, the speed of the first response increased by 54 p
 
 *Text source: Community of telecommunication cloud developers. ♪ I'm sorry ♪
 
-These figures do not mean that the call has won, and it is too early to draw conclusions.
+These figures do not mean that the call has won. The conclusion is too early.
 
-At least, however, it can be argued that product feedback is beginning to enter model training, assessment and product overlay.
+At least it can be seen, however, that product feedback has begun to enter model training, assessment and product overlay.
 
 ---
 
@@ -202,9 +200,9 @@ On the side of the enterprise are the WorkBuddy Enterprise, ClawPro, the Informa
 
 Look at the name.
 
-But I don't think that's to be understood as the sudden announcement of a bunch of Agent.
+But don't understand it as a sudden announcement of a bunch of Agent.
 
-More precisely, the question is how to turn the capacity of past sedimentation into a tool that Agent can call.
+More precisely, it's the ability to intelulate the past in various products, and it's the tools that Agent can call.
 
 Query document to become WorkBuddy-able Skill.
 
@@ -212,7 +210,7 @@ Following the conference, Agent understood, called, generated minutes and refine
 
 Enterprise Wisdom continues to host connections between people, people and services.
 
-WorkBuddy is more like an AI working table.
+WorkBuddy is more like a workstation for people and AI.
 
 ![Director of the Quest Efficiency Smart Tool Figure](https://cdn.jsdelivr.net/gh/crisxuan/searchnews-assets/aa86baf4203897983b7f5da8f32852ccb9175d13.jpg)
 
@@ -234,9 +232,9 @@ With this, it'll have a chance to work. Otherwise, only a seemingly correct answ
 
 I think a lot of Agent's products are right here.
 
-When you talk, it looks good. Once you're on mission, you can see the gaps.
+It looks good when you talk. Once you get to the task, the gap comes.
 
-If that is the case, it should be here at the "hand-on". It doesn't make much sense to be a more chatable portal.
+If there is an advantage in making a call, it should also be a "hand-on link". It doesn't make much sense to be a more chatable portal.
 
 ---
 
@@ -252,11 +250,11 @@ Product manager writes PRD, interactive designer design process, visual designer
 
 After AI started generating a lot of codes, the line was no longer so good to go down.
 
-Many engineers are less knocking on keyboards and spend more time on defining results, architecture design, evaluation and testing.
+Many engineers will make less of a keyboard and spend more time defining results, architecture design, evaluation and testing.
 
-An engineer can even do a demand, code, running test with a few Coding Agents, like the team leader. This is no longer a simple "aided code."
+An engineer can even do a demand, code, running test with a few Coding Agents, like the team leader. This is no longer a simple " assistive code."
 
-This is very similar to my recent experience with Codex, Claude Code.
+It's a lot like my recent experience with Codex, Claude Code.
 
 When AI really wrote a lot of codes, the most important ability of a person went from "Can I write this paragraph" to "Do I know if it should be written?"
 
@@ -276,11 +274,11 @@ It was also mentioned that CodeBuddy had covered over 95 per cent of the enginee
 
 This figure may not be directly extrapolated to all companies.
 
-But at least the direction is clear.
+But the direction is clear.
 
-** Programmer will not disappear immediately. The bigger change is from the person who writes the code to the person who drives the AI who writes the code and is responsible for the results. **
+The programmer will not disappear immediately. And the bigger change is that a lot of people are going to change from the person who writes the code to the person who drives the AI who writes the code and is responsible for the results.
 
-This is an opportunity for ordinary engineers, and it means pressure.
+This is both an opportunity and a pressure for ordinary engineers.
 
 ---
 
@@ -290,15 +288,15 @@ Smarts like WorkBuddy are still in the strategic input stage, and the call does 
 
 Because the biggest problem with the AI product has changed.
 
-Users want to use it only as a first step, and the more cost it takes is the real pressure.
+Users want to use only the first step. The more you use it, the higher the cost, the real stress.
 
 In the age of mobile Internet, marginal costs are low, and advertising, trading and carrying have the opportunity to cover costs.
 
-But AI, unlike, the cost of reasoning is real money and silver.
+Unlike AI, the cost of reasoning is real money and silver.
 
 Each complex mission consumes token, computing, tools and storage. The more complex the task, the greater the cost.
 
-So Thomason says that it's hard for AI's primary services to cover the cost of reasoning simply by advertising, and it's better to use it first in high-value, well-calculated scenarios.
+So Thomason says that it's hard for AI's native services to cover the cost of reasoning by advertising alone, and it's better to use it first in a high-value, well-calculated scenario.
 
 And that's the problem that all Agent products have to face now.
 
@@ -322,7 +320,7 @@ A lot of AI products now have needs.
 
 The trouble is, demand comes up, costs come up.
 
-The more active the users, the more painful the company is. It wasn't as obvious as it used to be on the mobile Internet, but the AI era was a real problem.
+The more active the users, the more painful the company is. It's not so obvious on the mobile Internet, but the AI era is a real problem.
 
 ---
 
@@ -332,9 +330,9 @@ But the news finally made it clear what it wanted to do.
 
 A simple follow-up to the model list is not a viable path.
 
-Just one chat robot, not to mention.
+Just one chat robot, not enough.
 
-It's not enough to put all the hopes on a certain explosive.
+It's not enough to put hope on some bad money, either.
 
 The presentation was on the integration of models, products, context, tools, data feedback and internal collaborative approaches.
 
@@ -344,17 +342,17 @@ The advantages of telecommunication are the variety of scenes, products, users a
 
 The trouble with communicators happens to be too many, too complex and too difficult to coordinate.
 
-So I don't think it's easy to get this way.
+So I don't think it'll be easy to talk about it.
 
 Its strengths and difficulties are the same: too many products, too many scenes and too many organizations.
 
-So there's no need to stare at the next model release.
+It doesn't have to be just about the next model release.
 
-At the end of the day, we'll have to look at the products of Yuanbao, WorldBuddy, CodeBuddy, QClaw, if you can use the context, pull up the tools, run the task and let the users want to continue.
+At the end of the day, it depends on whether or not the products of Yuanbao, WorldBuddy, CodeBuddy, QClaw can be used in the context, pull up tools, run the mission and allow users to continue using it.
 
 AI can't just watch the model release in the second half.
 
-** AI in the second half, depending on who can put the model in real business so that it can do its job in a stable and permanent manner. **
+It depends on who can put the model in the real business and let it do the job steadily.
 
 That's why I thought this interview was valuable. At least on this occasion, the products, context, tools and costs were told, and not only slogans were given.
 

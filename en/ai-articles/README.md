@@ -50,6 +50,8 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 
 ### Models, Research & Prompt
 
+- 2026-06-13 - [Fable 5 Was Suddenly Banned](./02-models-and-research/fable-5-was-suddenly-banned.md)
+- 2026-06-12 - [Fable 5's 120k-Character System Prompt Leaked](./02-models-and-research/fable-5-120k-character-system-prompt-leaked.md)
 - 2026-06-10 - [Claude Fable 5 Is Here](./02-models-and-research/claude-fable-5-is-here.md)
 - 2026-06-02 - [MiniMax M3 Is Here: How Close Is It to Opus 4.7?](./02-models-and-research/minimax-m3-is-here-how-close-is-it-to-opus-4-7.md)
 - 2026-05-19 - [DeepSeek, enter <think' >, so you can spy on people's conversations? Don't rush to conclusions.](./02-models-and-research/deepseek-enter-think-so-you-can-spy-on-people-s-conversations-don-t-rush-to-conclu.md)
@@ -83,6 +85,7 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 
 ### Industry, Companies & Business
 
+- 2026-06-12 - [One OpenAI Invite Reset the Quota and Pulled Prices Down](./04-industry-and-business/one-openai-invite-reset-the-quota-and-pulled-prices-down.md)
 - 2026-06-10 - [Luckin Released a CLI. Is This a Step Toward AGI?](./04-industry-and-business/luckin-released-a-cli-is-this-a-step-toward-agi.md)
 - 2026-06-07 - [Yao Shunyu's Interview Explained Tencent's Second Half of AI](./04-industry-and-business/yao-shunyu-interview-explained-tencent-second-half-of-ai.md)
 - 2026-06-06 - [Hot Take: OpenAI May Become the Next Anthropic](./04-industry-and-business/hot-take-openai-may-become-the-next-anthropic.md)

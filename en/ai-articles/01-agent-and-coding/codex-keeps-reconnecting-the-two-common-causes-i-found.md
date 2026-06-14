@@ -8,17 +8,9 @@
 > Date: 2026-06-05
 
 
-I'm sure you're all familiar with this scene when you're using Codex.
+I'm sure you're all familiar with this scene when you're using Cordex.
 
-When you're going to get Codex to work.
-
-<img src="https://cdn.jsdelivr.net/gh/doggaifan/picbed/image-20260602220945257.png" alt="image-20260602220945257" style="zoom:50%;" />
-
-When you want Codex to give effective guidance.
-
-<img src="https://cdn.jsdelivr.net/gh/doggaifan/picbed/image-20260602220945257.png" alt="image-20260602220945257" style="zoom:50%;" />
-
-When you want to run a mission with Codex.
+When you're going to get Codex to work, when you're going to get Codex to give you a good guide, when you're going to run a mission with Codex.
 
 <img src="https://cdn.jsdelivr.net/gh/doggaifan/picbed/image-20260602220945257.png" alt="image-20260602220945257" style="zoom:50%;" />
 
@@ -28,7 +20,7 @@ Take it easy, this Reconnecting, there's a story.
 
 ---
 
-In general, the emergence of this Reconnecting is in two ways:
+In general, the emergence of this Rennecting is in two ways:
 
 Codex did not leave the agency.
 2. Accessed to server but rejected by server

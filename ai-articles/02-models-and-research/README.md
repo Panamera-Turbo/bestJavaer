@@ -2,6 +2,8 @@
 
 模型能力、研究论文/报告、Prompt 方法论、评测和 LLM 认知。
 
+- 2026-06-13 - [太突然了，Fable 5 被禁了。](./%E5%A4%AA%E7%AA%81%E7%84%B6%E4%BA%86%EF%BC%8CFable%205%20%E8%A2%AB%E7%A6%81%E4%BA%86%E3%80%82.md)
+- 2026-06-12 - [Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。](./Fable%205%20%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E4%BA%BA%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C%E7%B2%BE%E5%BD%A9%EF%BC%8C%E5%A4%AA%E7%B2%BE%E5%BD%A9%E4%BA%86%E3%80%82.md)
 - 2026-06-10 - [Claude Fable 5 来了](./Claude%20Fable%205%20%E6%9D%A5%E4%BA%86.md)
 - 2026-06-02 - [MiniMax M3 发布，据说接近 Opus 4.7？真的假的](./MiniMax%20M3%20%E5%8F%91%E5%B8%83%EF%BC%8C%E6%8D%AE%E8%AF%B4%E6%8E%A5%E8%BF%91%20Opus%204.7%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%81%87%E7%9A%84.md)
 - 2026-05-19 - [Deepseek 会泄露其他玩家的对话](./Deepseek%20%E4%BC%9A%E6%B3%84%E9%9C%B2%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6%E7%9A%84%E5%AF%B9%E8%AF%9D.md)
