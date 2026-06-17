@@ -10,7 +10,27 @@
 
 这里不做新闻搬运，也不做大而全教程。这里记录的是：真实用过的 AI 工具、踩过的坑、值得收藏的开源项目、AI coding 工作流，以及一些看起来不一定精致但确实折腾过的实验。
 
-[在线预览](https://crisxuan.github.io/bestJavaer/) · [AI 文章](./ai-articles/README.md) · [AI 资源](./ai-resources/README.md) · [我的作品 & 开源项目](./works/README.md) · [开发规约](./development-guidelines/README.md) · [旧内容归档](./archive-bestjavaer/README.md) · [开源影响力说明](./OPEN_SOURCE_IMPACT.md)
+<div class="home-sponsor-badge" align="center">
+  <a href="https://vercel.com/open-source-program">
+    <img alt="Vercel OSS Program" src="./assets/vercel-oss-program-badge.svg" width="220">
+  </a>
+</div>
+
+<div class="home-primary-links">
+  <a href="https://crisxuan.github.io/bestJavaer/">在线预览</a>
+  <span>·</span>
+  <a href="./ai-articles/README.md">AI 文章</a>
+  <span>·</span>
+  <a href="./ai-resources/README.md">AI 资源</a>
+  <span>·</span>
+  <a href="./works/README.md">我的作品 & 开源项目</a>
+  <span>·</span>
+  <a href="./development-guidelines/README.md">开发规约</a>
+  <span>·</span>
+  <a href="./archive-bestjavaer/README.md">旧内容归档</a>
+  <span>·</span>
+  <a href="./OPEN_SOURCE_IMPACT.md">开源影响力说明</a>
+</div>
 
 ## 先从这几篇开始
 
@@ -72,12 +92,6 @@
 以前，这里是写给 Java 程序员的系统学习仓库：Java、并发、JVM、操作系统、计算机网络、MySQL、Spring、面试题，能写的都写过一点。
 
 现在，这个仓库的新主线会慢慢转向 AI。旧内容已经整体归档到 [archive-bestjavaer](./archive-bestjavaer/README.md)，仍然可以继续阅读。
-
-<p align="center">
-  <a href="https://vercel.com/open-source-program">
-    <img alt="Vercel OSS Program" src="./assets/vercel-oss-program-badge.svg" width="260">
-  </a>
-</p>
 
 ## 开源协议
 

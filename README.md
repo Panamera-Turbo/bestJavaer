@@ -6,11 +6,31 @@
 
 # cxuan-ai-labs
 
-An open-source AI coding workflow and developer education lab for Chinese-speaking developers.
+An open-source lab for AI coding workflows, Agent experiments, and developer education.
 
 This repository documents practical AI-assisted development workflows, Agent experiments, tool evaluations, curated resources, reproducible notes, and real failure cases. It is not a news mirror and it is not a giant tutorial collection. The focus is on what was actually tried, what broke, what worked, and what can help developers build better workflows with AI.
 
-[Live Preview](https://crisxuan.github.io/bestJavaer/) · [AI Articles](./en/ai-articles/README.md) · [AI Resources](./en/ai-resources/README.md) · [Works & Open Source](./en/works/README.md) · [Development Guidelines](./en/development-guidelines/README.md) · [Legacy Archive](./archive-bestjavaer/README.md) · [Open Source Impact](./OPEN_SOURCE_IMPACT.md)
+<div class="home-sponsor-badge" align="center">
+  <a href="https://vercel.com/open-source-program">
+    <img alt="Vercel OSS Program" src="./assets/vercel-oss-program-badge.svg" width="220">
+  </a>
+</div>
+
+<div class="home-primary-links">
+  <a href="https://crisxuan.github.io/bestJavaer/">Live Preview</a>
+  <span>·</span>
+  <a href="./en/ai-articles/README.md">AI Articles</a>
+  <span>·</span>
+  <a href="./en/ai-resources/README.md">AI Resources</a>
+  <span>·</span>
+  <a href="./en/works/README.md">Works & Open Source</a>
+  <span>·</span>
+  <a href="./en/development-guidelines/README.md">Development Guidelines</a>
+  <span>·</span>
+  <a href="./archive-bestjavaer/README.md">Legacy Archive</a>
+  <span>·</span>
+  <a href="./OPEN_SOURCE_IMPACT.md">Open Source Impact</a>
+</div>
 
 ## Start Here
 
@@ -71,13 +91,7 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 bestJavaer used to be a Chinese learning repository for Java developers, covering Java, concurrency, JVM, operating systems, computer networks, MySQL, Spring, interview topics, and related developer education material.
 
-That material is not removed. It has been preserved in [archive-bestjavaer](./archive-bestjavaer/README.md). The current main line is now cxuan-ai-labs: AI coding workflows, Agent experiments, open-source resources, and practical developer education for Chinese-speaking developers.
-
-<p align="center">
-  <a href="https://vercel.com/open-source-program">
-    <img alt="Vercel OSS Program" src="./assets/vercel-oss-program-badge.svg" width="260">
-  </a>
-</p>
+That material is not removed. It has been preserved in [archive-bestjavaer](./archive-bestjavaer/README.md). The current main line is now cxuan-ai-labs: AI coding workflows, Agent experiments, open-source resources, and practical developer education.
 
 ## License
 
