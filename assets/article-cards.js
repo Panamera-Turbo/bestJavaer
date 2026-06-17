@@ -3,6 +3,7 @@
   var coverCache = new Map();
   var renderTimer = 0;
   var sidebarTimer = 0;
+  var algoliaAttributionTimer = 0;
   var activeSidebarLocale = 'en';
   var sidebarLinks = [
     {
@@ -100,6 +101,7 @@
     hook.doneEach(function () {
       scheduleRender();
       scheduleSidebarLocalization();
+      scheduleAlgoliaAttribution();
     });
   });
 
@@ -110,22 +112,27 @@
       document.addEventListener('DOMContentLoaded', function () {
         scheduleRender();
         scheduleSidebarLocalization();
+        scheduleAlgoliaAttribution();
       });
     } else {
       scheduleRender();
       scheduleSidebarLocalization();
+      scheduleAlgoliaAttribution();
     }
 
     [250, 750, 1500, 3000].forEach(function (delay) {
       window.setTimeout(scheduleRender, delay);
       window.setTimeout(scheduleSidebarLocalization, delay);
+      window.setTimeout(scheduleAlgoliaAttribution, delay);
     });
 
     window.addEventListener('hashchange', function () {
       scheduleRender();
       scheduleSidebarLocalization();
+      scheduleAlgoliaAttribution();
       window.setTimeout(scheduleRender, 250);
       window.setTimeout(scheduleSidebarLocalization, 250);
+      window.setTimeout(scheduleAlgoliaAttribution, 250);
     });
 
     var observer = new MutationObserver(function (mutations) {
@@ -153,6 +160,17 @@
           )
         );
       });
+      var shouldRenderAlgoliaAttribution = mutations.some(function (mutation) {
+        var target = mutation.target;
+
+        return (
+          target.nodeType === 1 &&
+          (
+            target.classList.contains('search') ||
+            target.querySelector && target.querySelector('.search')
+          )
+        );
+      });
 
       if (shouldRender) {
         scheduleRender();
@@ -160,6 +178,10 @@
 
       if (shouldLocalizeSidebar) {
         scheduleSidebarLocalization();
+      }
+
+      if (shouldRenderAlgoliaAttribution) {
+        scheduleAlgoliaAttribution();
       }
     });
 
@@ -177,6 +199,35 @@
   function scheduleSidebarLocalization() {
     window.clearTimeout(sidebarTimer);
     sidebarTimer = window.setTimeout(localizeSidebar, 50);
+  }
+
+  function scheduleAlgoliaAttribution() {
+    window.clearTimeout(algoliaAttributionTimer);
+    algoliaAttributionTimer = window.setTimeout(renderAlgoliaAttribution, 50);
+  }
+
+  function renderAlgoliaAttribution() {
+    var search = document.querySelector('.search');
+
+    if (!search || search.querySelector('.algolia-search-attribution')) {
+      return;
+    }
+
+    var attribution = document.createElement('a');
+    var image = document.createElement('img');
+
+    attribution.className = 'algolia-search-attribution';
+    attribution.href = 'https://www.algolia.com/?utm_medium=AOS-referral';
+    attribution.target = '_blank';
+    attribution.rel = 'noopener noreferrer';
+    attribution.setAttribute('aria-label', 'Search by Algolia');
+
+    image.alt = 'Search by Algolia';
+    image.loading = 'lazy';
+    image.src = './assets/search-by-algolia.svg';
+
+    attribution.appendChild(image);
+    search.appendChild(attribution);
   }
 
   function localizeSidebar() {

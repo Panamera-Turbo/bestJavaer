@@ -73,6 +73,12 @@ bestJavaer used to be a Chinese learning repository for Java developers, coverin
 
 That material is not removed. It has been preserved in [archive-bestjavaer](./archive-bestjavaer/README.md). The current main line is now cxuan-ai-labs: AI coding workflows, Agent experiments, open-source resources, and practical developer education for Chinese-speaking developers.
 
+<p align="center">
+  <a href="https://vercel.com/open-source-program">
+    <img alt="Vercel OSS Program" src="./assets/vercel-oss-program-badge.svg" width="260">
+  </a>
+</p>
+
 ## License
 
 This repository uses a dual-license model:

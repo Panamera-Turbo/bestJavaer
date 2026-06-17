@@ -73,6 +73,12 @@
 
 现在，这个仓库的新主线会慢慢转向 AI。旧内容已经整体归档到 [archive-bestjavaer](./archive-bestjavaer/README.md)，仍然可以继续阅读。
 
+<p align="center">
+  <a href="https://vercel.com/open-source-program">
+    <img alt="Vercel OSS Program" src="./assets/vercel-oss-program-badge.svg" width="260">
+  </a>
+</p>
+
 ## 开源协议
 
 本仓库采用双协议声明：

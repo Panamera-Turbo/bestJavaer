@@ -97,6 +97,28 @@ body {
   box-shadow: 0 0 0 3px var(--taste-accent-soft);
 }
 
+.algolia-search-attribution {
+  align-items: center;
+  border-bottom: 0;
+  display: inline-flex;
+  margin: 10px 0 0 2px;
+  text-decoration: none;
+}
+
+.algolia-search-attribution:hover {
+  border-bottom: 0;
+  opacity: 0.82;
+  text-decoration: none;
+}
+
+.algolia-search-attribution img {
+  display: block;
+  height: 22px;
+  margin: 0;
+  max-width: 148px;
+  width: 148px;
+}
+
 .sidebar-nav {
   padding: 22px 18px 36px;
 }

@@ -1,0 +1,9 @@
+<svg width="296" height="44" viewBox="0 0 296 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Search by Algolia</title>
+  <desc id="desc">Search by Algolia attribution logo.</desc>
+  <text x="0" y="28" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="500">Search by</text>
+  <g transform="translate(92 4)">
+    <path d="M18 0C8.059 0 0 8.059 0 18s8.059 18 18 18c4.388 0 8.411-1.57 11.538-4.179l-4.452-4.014A11.91 11.91 0 0 1 18 30C11.373 30 6 24.627 6 18S11.373 6 18 6s12 5.373 12 12v8.14l-7.427-6.704a4.5 4.5 0 1 0-3.982 4.02l11.197 10.11A3.667 3.667 0 0 0 36 30.846V18C36 8.059 27.941 0 18 0Z" fill="#003DFF"/>
+    <text x="48" y="27" fill="#003DFF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">algolia</text>
+  </g>
+</svg>
