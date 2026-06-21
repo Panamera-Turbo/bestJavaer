@@ -50,6 +50,9 @@
 
 ### 模型、研究与 Prompt
 
+- 2026-06-20 - [实测千问大模型](./02-models-and-research/%E5%AE%9E%E6%B5%8B%20Qwen3.7-Max%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
+- 2026-06-19 - [DeepSeek 杀入多模态，识图功能正式上线！](./02-models-and-research/DeepSeek%20%E5%BC%80%E5%A4%A9%E7%9C%BC%E4%BA%86%EF%BC%8C%E8%AF%86%E5%9B%BE%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF%EF%BC%81.md)
+- 2026-06-16 - [AI 真能预测世界杯了？而且最准的竟然是文心一言？](./02-models-and-research/AI%E7%9C%9F%E7%9A%84%E8%83%BD%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9F%E6%96%87%E5%BF%83%E8%BF%99%E6%AC%A1%E6%8A%8A%E6%AF%94%E5%88%86%E9%83%BD%E7%8C%9C%E4%B8%AD%E4%BA%86.md)
 - 2026-06-13 - [太突然了，Fable 5 被禁了。](./02-models-and-research/%E5%A4%AA%E7%AA%81%E7%84%B6%E4%BA%86%EF%BC%8CFable%205%20%E8%A2%AB%E7%A6%81%E4%BA%86%E3%80%82.md)
 - 2026-06-12 - [Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。](./02-models-and-research/Fable%205%20%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E4%BA%BA%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C%E7%B2%BE%E5%BD%A9%EF%BC%8C%E5%A4%AA%E7%B2%BE%E5%BD%A9%E4%BA%86%E3%80%82.md)
 - 2026-06-10 - [Claude Fable 5 来了](./02-models-and-research/Claude%20Fable%205%20%E6%9D%A5%E4%BA%86.md)
@@ -110,6 +113,7 @@
 
 ### AI 生成与多媒体
 
+- 2026-06-15 - [OiiOii升级2.0，我终于认真做了一次 AI 视频](./05-ai-creation-and-media/OiiOii%202.0%20%E5%8D%87%E7%BA%A7-%E8%A1%A5%E5%85%A8%E7%89%88.md)
 - 2026-04-30 - [不得了了，GPT-image-2 的华人下场了](./05-ai-creation-and-media/%E4%B8%8D%E5%BE%97%E4%BA%86%E4%BA%86%EF%BC%8CGPT-image-2%20%E7%9A%84%E5%8D%8E%E4%BA%BA%E4%B8%8B%E5%9C%BA%E4%BA%86.md)
 - 2026-04-23 - [GPT-image-2 来了，黑暗森林也来了](./05-ai-creation-and-media/GPT-image-2%20%E6%9D%A5%E4%BA%86%EF%BC%8C%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E4%B9%9F%E6%9D%A5%E4%BA%86.md)
 - 2026-04-21 - [我拿GPT-image-2生成了秦朝的朋友圈，这玩意儿也太离谱了](./05-ai-creation-and-media/%E6%88%91%E6%8B%BFGPT-image-2%E7%94%9F%E6%88%90%E4%BA%86%E7%A7%A6%E6%9C%9D%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%EF%BC%8C%E8%BF%99%E7%8E%A9%E6%84%8F%E5%84%BF%E4%B9%9F%E5%A4%AA%E7%A6%BB%E8%B0%B1%E4%BA%86.md)

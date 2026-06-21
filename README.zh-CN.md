@@ -17,7 +17,7 @@
 </div>
 
 <div class="home-primary-links">
-  <a href="https://crisxuan.github.io/bestJavaer/">在线预览</a>
+  <a href="https://bestjavaer-nine.vercel.app/">在线预览</a>
   <span>·</span>
   <a href="./ai-articles/README.md">AI 文章</a>
   <span>·</span>
@@ -34,24 +34,24 @@
 
 ## 先从这几篇开始
 
+* [实测千问大模型](./ai-articles/02-models-and-research/%E5%AE%9E%E6%B5%8B%20Qwen3.7-Max%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
+
+  2026-06-20
+* [DeepSeek 杀入多模态，识图功能正式上线！](./ai-articles/02-models-and-research/DeepSeek%20%E5%BC%80%E5%A4%A9%E7%9C%BC%E4%BA%86%EF%BC%8C%E8%AF%86%E5%9B%BE%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF%EF%BC%81.md)
+
+  2026-06-19
+* [AI 真能预测世界杯了？而且最准的竟然是文心一言？](./ai-articles/02-models-and-research/AI%E7%9C%9F%E7%9A%84%E8%83%BD%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9F%E6%96%87%E5%BF%83%E8%BF%99%E6%AC%A1%E6%8A%8A%E6%AF%94%E5%88%86%E9%83%BD%E7%8C%9C%E4%B8%AD%E4%BA%86.md)
+
+  2026-06-16
+* [OiiOii升级2.0，我终于认真做了一次 AI 视频](./ai-articles/05-ai-creation-and-media/OiiOii%202.0%20%E5%8D%87%E7%BA%A7-%E8%A1%A5%E5%85%A8%E7%89%88.md)
+
+  2026-06-15
 * [太突然了，Fable 5 被禁了。](./ai-articles/02-models-and-research/%E5%A4%AA%E7%AA%81%E7%84%B6%E4%BA%86%EF%BC%8CFable%205%20%E8%A2%AB%E7%A6%81%E4%BA%86%E3%80%82.md)
 
   2026-06-13
 * [Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。](./ai-articles/02-models-and-research/Fable%205%20%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E4%BA%BA%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C%E7%B2%BE%E5%BD%A9%EF%BC%8C%E5%A4%AA%E7%B2%BE%E5%BD%A9%E4%BA%86%E3%80%82.md)
 
   2026-06-12
-* [OpenAI 邀请一个人直接重置额度，以一己之力把价格打下来了。](./ai-articles/04-industry-and-business/OpenAI%20%E9%82%80%E8%AF%B7%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9B%B4%E6%8E%A5%E9%87%8D%E7%BD%AE%E9%A2%9D%E5%BA%A6%EF%BC%8C%E4%BB%A5%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E6%8A%8A%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86%E3%80%82.md)
-
-  2026-06-12
-* [瑞幸出 CLI 了，这会是迈向 AGI 的第一步吗？](./ai-articles/04-industry-and-business/%E7%91%9E%E5%B9%B8%E5%87%BA%20CLI%20%E4%BA%86%EF%BC%8C%E8%BF%99%E4%BC%9A%E6%98%AF%E8%BF%88%E5%90%91%20AGI%20%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%90%97%EF%BC%9F.md)
-
-  2026-06-10
-* [Claude Fable 5 来了](./ai-articles/02-models-and-research/Claude%20Fable%205%20%E6%9D%A5%E4%BA%86.md)
-
-  2026-06-10
-* [Agents.md 是什么](./ai-articles/01-agent-and-coding/Agents.md%20%E6%98%AF%E4%BB%80%E4%B9%88.md)
-
-  2026-06-09
 
 ## 新主线
 
@@ -73,12 +73,12 @@
 
 ## 最近更新
 
+* 2026-06-20 · [实测千问大模型](./ai-articles/02-models-and-research/%E5%AE%9E%E6%B5%8B%20Qwen3.7-Max%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
+* 2026-06-19 · [DeepSeek 杀入多模态，识图功能正式上线！](./ai-articles/02-models-and-research/DeepSeek%20%E5%BC%80%E5%A4%A9%E7%9C%BC%E4%BA%86%EF%BC%8C%E8%AF%86%E5%9B%BE%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF%EF%BC%81.md)
+* 2026-06-16 · [AI 真能预测世界杯了？而且最准的竟然是文心一言？](./ai-articles/02-models-and-research/AI%E7%9C%9F%E7%9A%84%E8%83%BD%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9F%E6%96%87%E5%BF%83%E8%BF%99%E6%AC%A1%E6%8A%8A%E6%AF%94%E5%88%86%E9%83%BD%E7%8C%9C%E4%B8%AD%E4%BA%86.md)
+* 2026-06-15 · [OiiOii升级2.0，我终于认真做了一次 AI 视频](./ai-articles/05-ai-creation-and-media/OiiOii%202.0%20%E5%8D%87%E7%BA%A7-%E8%A1%A5%E5%85%A8%E7%89%88.md)
 * 2026-06-13 · [太突然了，Fable 5 被禁了。](./ai-articles/02-models-and-research/%E5%A4%AA%E7%AA%81%E7%84%B6%E4%BA%86%EF%BC%8CFable%205%20%E8%A2%AB%E7%A6%81%E4%BA%86%E3%80%82.md)
 * 2026-06-12 · [Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。](./ai-articles/02-models-and-research/Fable%205%20%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E4%BA%BA%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C%E7%B2%BE%E5%BD%A9%EF%BC%8C%E5%A4%AA%E7%B2%BE%E5%BD%A9%E4%BA%86%E3%80%82.md)
-* 2026-06-12 · [OpenAI 邀请一个人直接重置额度，以一己之力把价格打下来了。](./ai-articles/04-industry-and-business/OpenAI%20%E9%82%80%E8%AF%B7%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9B%B4%E6%8E%A5%E9%87%8D%E7%BD%AE%E9%A2%9D%E5%BA%A6%EF%BC%8C%E4%BB%A5%E4%B8%80%E5%B7%B1%E4%B9%8B%E5%8A%9B%E6%8A%8A%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86%E3%80%82.md)
-* 2026-06-10 · [瑞幸出 CLI 了，这会是迈向 AGI 的第一步吗？](./ai-articles/04-industry-and-business/%E7%91%9E%E5%B9%B8%E5%87%BA%20CLI%20%E4%BA%86%EF%BC%8C%E8%BF%99%E4%BC%9A%E6%98%AF%E8%BF%88%E5%90%91%20AGI%20%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%90%97%EF%BC%9F.md)
-* 2026-06-10 · [Claude Fable 5 来了](./ai-articles/02-models-and-research/Claude%20Fable%205%20%E6%9D%A5%E4%BA%86.md)
-* 2026-06-09 · [Agents.md 是什么](./ai-articles/01-agent-and-coding/Agents.md%20%E6%98%AF%E4%BB%80%E4%B9%88.md)
 
 ## 为什么值得关注
 

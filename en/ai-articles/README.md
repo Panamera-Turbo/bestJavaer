@@ -20,7 +20,7 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 - 2026-06-05 - [Codex Keeps Reconnecting? The Two Common Causes I Found](./01-agent-and-coding/codex-keeps-reconnecting-the-two-common-causes-i-found.md)
 - 2026-06-05 - [A Harness for Every Task: Dynamic Workflows in Claude Code](./01-agent-and-coding/a-harness-for-every-task-dynamic-workflows-in-claude-code.md)
 - 2026-06-03 - [ChatGPT and Codex Are Becoming One Workflow](./01-agent-and-coding/chatgpt-and-codex-are-becoming-one-workflow.md)
-- 2026-05-30 - [It took me two days to figure out how fast Cordex fell!](./01-agent-and-coding/it-took-me-two-days-to-figure-out-how-fast-cordex-fell.md)
+- 2026-05-30 - [It took me two days to figure out how fast Codex fell!](./01-agent-and-coding/it-took-me-two-days-to-figure-out-how-fast-cordex-fell.md)
 - 2026-05-30 - [Still using Codex to drive x high? Big mistake.](./01-agent-and-coding/still-using-codex-to-drive-x-high-big-mistake.md)
 - 2026-05-28 - [How to Get the Most Out of Codex](./01-agent-and-coding/how-to-get-the-most-out-of-codex.md)
 - 2026-05-25 - [The Official Codex Guide: How to Use /goal Correctly](./01-agent-and-coding/the-official-codex-guide-how-to-use-goal-correctly.md)
@@ -50,6 +50,9 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 
 ### Models, Research & Prompt
 
+- 2026-06-20 - [Testing Qwen3.7-Max in a Real Agent Workflow](./02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md)
+- 2026-06-19 - [DeepSeek Enters Multimodal: Image Understanding Is Now Live](./02-models-and-research/deepseek-enters-multimodal-image-understanding-is-now-live.md)
+- 2026-06-16 - [Can AI Really Predict the World Cup? Wenxin Was the Most Accurate](./02-models-and-research/can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md)
 - 2026-06-13 - [Fable 5 Was Suddenly Banned](./02-models-and-research/fable-5-was-suddenly-banned.md)
 - 2026-06-12 - [Fable 5's 120k-Character System Prompt Leaked](./02-models-and-research/fable-5-120k-character-system-prompt-leaked.md)
 - 2026-06-10 - [Claude Fable 5 Is Here](./02-models-and-research/claude-fable-5-is-here.md)
@@ -110,6 +113,7 @@ English mirror of the Chinese AI article collection. The Chinese originals remai
 
 ### AI Creation & Media
 
+- 2026-06-15 - [OiiOii 2.0: I Finally Took AI Video Creation Seriously](./05-ai-creation-and-media/oiioii-2-0-i-finally-took-ai-video-creation-seriously.md)
 - 2026-04-30 - [Oh, my God. The Chinese of GPT-image-2 are dead.](./05-ai-creation-and-media/oh-my-god-the-chinese-of-gpt-image-2-are-dead.md)
 - 2026-04-23 - [GPT-image-2 is here, and the Dark Forest is here.](./05-ai-creation-and-media/gpt-image-2-is-here-and-the-dark-forest-is-here.md)
 - 2026-04-21 - [I made friends of the Qin dynasty with GPT-image-2.](./05-ai-creation-and-media/i-made-friends-of-the-qin-dynasty-with-gpt-image-2.md)

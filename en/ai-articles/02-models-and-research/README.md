@@ -2,6 +2,9 @@
 
 Model capabilities, papers and reports, prompt methods, evaluations, and LLM observations.
 
+- 2026-06-20 - [Testing Qwen3.7-Max in a Real Agent Workflow](./testing-qwen3-7-max-in-a-real-agent-workflow.md)
+- 2026-06-19 - [DeepSeek Enters Multimodal: Image Understanding Is Now Live](./deepseek-enters-multimodal-image-understanding-is-now-live.md)
+- 2026-06-16 - [Can AI Really Predict the World Cup? Wenxin Was the Most Accurate](./can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md)
 - 2026-06-13 - [Fable 5 Was Suddenly Banned](./fable-5-was-suddenly-banned.md)
 - 2026-06-12 - [Fable 5's 120k-Character System Prompt Leaked](./fable-5-120k-character-system-prompt-leaked.md)
 - 2026-06-10 - [Claude Fable 5 Is Here](./claude-fable-5-is-here.md)

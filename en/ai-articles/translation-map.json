@@ -574,5 +574,29 @@
     "english_path": "en/ai-articles/04-industry-and-business/one-openai-invite-reset-the-quota-and-pulled-prices-down.md",
     "english_title": "One OpenAI Invite Reset the Quota and Pulled Prices Down",
     "source_title": "OpenAI 邀请一个人直接重置额度，以一己之力把价格打下来了。"
+  },
+  "ai-articles/02-models-and-research/实测 Qwen3.7-Max大模型.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md",
+    "english_title": "Testing Qwen3.7-Max in a Real Agent Workflow",
+    "source_title": "实测千问大模型"
+  },
+  "ai-articles/02-models-and-research/DeepSeek 开天眼了，识图功能上线！.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/deepseek-enters-multimodal-image-understanding-is-now-live.md",
+    "english_title": "DeepSeek Enters Multimodal: Image Understanding Is Now Live",
+    "source_title": "DeepSeek 杀入多模态，识图功能正式上线！"
+  },
+  "ai-articles/02-models-and-research/AI真的能预测世界杯？文心这次把比分都猜中了.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md",
+    "english_title": "Can AI Really Predict the World Cup? Wenxin Was the Most Accurate",
+    "source_title": "AI 真能预测世界杯了？而且最准的竟然是文心一言？"
+  },
+  "ai-articles/05-ai-creation-and-media/OiiOii 2.0 升级-补全版.md": {
+    "category": "05-ai-creation-and-media",
+    "english_path": "en/ai-articles/05-ai-creation-and-media/oiioii-2-0-i-finally-took-ai-video-creation-seriously.md",
+    "english_title": "OiiOii 2.0: I Finally Took AI Video Creation Seriously",
+    "source_title": "OiiOii升级2.0，我终于认真做了一次 AI 视频"
   }
 }

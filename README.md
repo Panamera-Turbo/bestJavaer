@@ -17,7 +17,7 @@ This repository documents practical AI-assisted development workflows, Agent exp
 </div>
 
 <div class="home-primary-links">
-  <a href="https://crisxuan.github.io/bestJavaer/">Live Preview</a>
+  <a href="https://bestjavaer-nine.vercel.app/">Live Preview</a>
   <span>·</span>
   <a href="./en/ai-articles/README.md">AI Articles</a>
   <span>·</span>
@@ -34,24 +34,24 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Start Here
 
+* [Testing Qwen3.7-Max in a Real Agent Workflow](./en/ai-articles/02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md)
+
+  2026-06-20
+* [DeepSeek Enters Multimodal: Image Understanding Is Now Live](./en/ai-articles/02-models-and-research/deepseek-enters-multimodal-image-understanding-is-now-live.md)
+
+  2026-06-19
+* [Can AI Really Predict the World Cup? Wenxin Was the Most Accurate](./en/ai-articles/02-models-and-research/can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md)
+
+  2026-06-16
+* [OiiOii 2.0: I Finally Took AI Video Creation Seriously](./en/ai-articles/05-ai-creation-and-media/oiioii-2-0-i-finally-took-ai-video-creation-seriously.md)
+
+  2026-06-15
 * [Fable 5 Was Suddenly Banned](./en/ai-articles/02-models-and-research/fable-5-was-suddenly-banned.md)
 
   2026-06-13
 * [Fable 5's 120k-Character System Prompt Leaked](./en/ai-articles/02-models-and-research/fable-5-120k-character-system-prompt-leaked.md)
 
   2026-06-12
-* [One OpenAI Invite Reset the Quota and Pulled Prices Down](./en/ai-articles/04-industry-and-business/one-openai-invite-reset-the-quota-and-pulled-prices-down.md)
-
-  2026-06-12
-* [Luckin Released a CLI. Is This a Step Toward AGI?](./en/ai-articles/04-industry-and-business/luckin-released-a-cli-is-this-a-step-toward-agi.md)
-
-  2026-06-10
-* [Claude Fable 5 Is Here](./en/ai-articles/02-models-and-research/claude-fable-5-is-here.md)
-
-  2026-06-10
-* [What Is AGENTS.md?](./en/ai-articles/01-agent-and-coding/what-is-agents-md.md)
-
-  2026-06-09
 
 ## Main Sections
 
@@ -73,12 +73,12 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Recent Updates
 
+* 2026-06-20 · [Testing Qwen3.7-Max in a Real Agent Workflow](./en/ai-articles/02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md)
+* 2026-06-19 · [DeepSeek Enters Multimodal: Image Understanding Is Now Live](./en/ai-articles/02-models-and-research/deepseek-enters-multimodal-image-understanding-is-now-live.md)
+* 2026-06-16 · [Can AI Really Predict the World Cup? Wenxin Was the Most Accurate](./en/ai-articles/02-models-and-research/can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md)
+* 2026-06-15 · [OiiOii 2.0: I Finally Took AI Video Creation Seriously](./en/ai-articles/05-ai-creation-and-media/oiioii-2-0-i-finally-took-ai-video-creation-seriously.md)
 * 2026-06-13 · [Fable 5 Was Suddenly Banned](./en/ai-articles/02-models-and-research/fable-5-was-suddenly-banned.md)
 * 2026-06-12 · [Fable 5's 120k-Character System Prompt Leaked](./en/ai-articles/02-models-and-research/fable-5-120k-character-system-prompt-leaked.md)
-* 2026-06-12 · [One OpenAI Invite Reset the Quota and Pulled Prices Down](./en/ai-articles/04-industry-and-business/one-openai-invite-reset-the-quota-and-pulled-prices-down.md)
-* 2026-06-10 · [Luckin Released a CLI. Is This a Step Toward AGI?](./en/ai-articles/04-industry-and-business/luckin-released-a-cli-is-this-a-step-toward-agi.md)
-* 2026-06-10 · [Claude Fable 5 Is Here](./en/ai-articles/02-models-and-research/claude-fable-5-is-here.md)
-* 2026-06-09 · [What Is AGENTS.md?](./en/ai-articles/01-agent-and-coding/what-is-agents-md.md)
 
 ## Why Follow
 
