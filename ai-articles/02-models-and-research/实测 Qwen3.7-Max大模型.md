@@ -1,5 +1,7 @@
 # 实测千问大模型
 
+[English](../../en/ai-articles/02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md) | [中文](./%E5%AE%9E%E6%B5%8B%20Qwen3.7-Max%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
+
 > 日期：2026-06-20
 
 

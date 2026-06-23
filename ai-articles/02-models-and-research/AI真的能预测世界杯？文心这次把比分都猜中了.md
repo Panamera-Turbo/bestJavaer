@@ -1,5 +1,7 @@
 # AI 真能预测世界杯了？而且最准的竟然是文心一言？
 
+[English](../../en/ai-articles/02-models-and-research/can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md) | [中文](./AI%E7%9C%9F%E7%9A%84%E8%83%BD%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9F%E6%96%87%E5%BF%83%E8%BF%99%E6%AC%A1%E6%8A%8A%E6%AF%94%E5%88%86%E9%83%BD%E7%8C%9C%E4%B8%AD%E4%BA%86.md)
+
 > 日期：2026-06-16
 
 

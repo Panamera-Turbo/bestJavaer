@@ -1,5 +1,7 @@
 # OiiOii升级2.0，我终于认真做了一次 AI 视频
 
+[English](../../en/ai-articles/05-ai-creation-and-media/oiioii-2-0-i-finally-took-ai-video-creation-seriously.md) | [中文](./OiiOii%202.0%20%E5%8D%87%E7%BA%A7-%E8%A1%A5%E5%85%A8%E7%89%88.md)
+
 > 日期：2026-06-15
 
 
@@ -196,7 +198,7 @@ AI 视频现在还是会有一些细节问题。
 
 **OiiOii 的智能画布更像一个能看懂上下文的工作台。**
 
-![image-20260614232719138](https://cdn.jsdelivr.net/gh/doggaifan/picbed/image-20260614232719138.png)
+![image-20260614232719138](https://cdn.jsdelivr.net/gh/doggaifan/picbed@main/image-20260614232719138.png)
 
 它不是只知道你输入框里刚说了什么。
 

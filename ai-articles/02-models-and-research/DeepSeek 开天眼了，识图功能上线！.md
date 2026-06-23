@@ -1,5 +1,7 @@
 # DeepSeek 杀入多模态，识图功能正式上线！
 
+[English](../../en/ai-articles/02-models-and-research/deepseek-enters-multimodal-image-understanding-is-now-live.md) | [中文](./DeepSeek%20%E5%BC%80%E5%A4%A9%E7%9C%BC%E4%BA%86%EF%BC%8C%E8%AF%86%E5%9B%BE%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF%EF%BC%81.md)
+
 > 日期：2026-06-19
 
 
