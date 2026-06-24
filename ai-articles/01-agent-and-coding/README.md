@@ -2,6 +2,8 @@
 
 Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。
 
+- 2026-06-24 - [Codex 会把磁盘给烧了？完整复盘来了！](./Codex%20%E4%BC%9A%E6%8A%8A%E7%A3%81%E7%9B%98%E7%BB%99%E7%83%A7%E4%BA%86%EF%BC%9F%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%E6%9D%A5%E4%BA%86%EF%BC%81.md)
+- 2026-06-23 - [OpenAI 这份 Codex-maxxing 白皮书，别再把 Agent 当一次性 prompt 用了](./OpenAI%20%E8%BF%99%E4%BB%BD%20Codex-maxxing%20%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%8C%E5%88%AB%E5%86%8D%E6%8A%8A%20Agent%20%E5%BD%93%E4%B8%80%E6%AC%A1%E6%80%A7%20prompt%20%E7%94%A8%E4%BA%86.md)
 - 2026-06-09 - [Agents.md 是什么](./Agents.md%20%E6%98%AF%E4%BB%80%E4%B9%88.md)
 - 2026-06-09 - [我最近最常用的 10 个 Codex 技巧](./%E6%88%91%E6%9C%80%E8%BF%91%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%2010%20%E4%B8%AA%20Codex%20%E6%8A%80%E5%B7%A7.md)
 - 2026-06-05 - [Codex 一直 Reconnecting？我最后发现，常见就两个坑](./Codex%20%E4%B8%80%E7%9B%B4%20Reconnecting%EF%BC%9F%E6%88%91%E6%9C%80%E5%90%8E%E5%8F%91%E7%8E%B0%EF%BC%8C%E5%B8%B8%E8%A7%81%E5%B0%B1%E4%B8%A4%E4%B8%AA%E5%9D%91.md)
