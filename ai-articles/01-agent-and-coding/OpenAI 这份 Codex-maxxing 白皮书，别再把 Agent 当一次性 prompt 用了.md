@@ -1,5 +1,9 @@
 # OpenAI 这份 Codex-maxxing 白皮书，别再把 Agent 当一次性 prompt 用了
 
+[English](../../en/ai-articles/01-agent-and-coding/codex-maxxing-stop-using-agents-as-one-shot-prompts.md) | [中文](./OpenAI%20%E8%BF%99%E4%BB%BD%20Codex-maxxing%20%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%8C%E5%88%AB%E5%86%8D%E6%8A%8A%20Agent%20%E5%BD%93%E4%B8%80%E6%AC%A1%E6%80%A7%20prompt%20%E7%94%A8%E4%BA%86.md)
+
+> 日期：2026-06-23
+
 OpenAI 2026 年 6 月 22 日发了一份新白皮书。
 
 名字有点怪，叫 `Codex-maxxing for long-running work`。

@@ -598,5 +598,47 @@
     "english_path": "en/ai-articles/05-ai-creation-and-media/oiioii-2-0-i-finally-took-ai-video-creation-seriously.md",
     "english_title": "OiiOii 2.0: I Finally Took AI Video Creation Seriously",
     "source_title": "OiiOii升级2.0，我终于认真做了一次 AI 视频"
+  },
+  "ai-articles/01-agent-and-coding/Codex 会把磁盘给烧了？完整复盘来了！.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/can-codex-wear-out-your-ssd-a-complete-investigation.md",
+    "english_title": "Can Codex Wear Out Your SSD? A Complete Investigation",
+    "source_title": "Codex 会把磁盘给烧了？完整复盘来了！"
+  },
+  "ai-articles/01-agent-and-coding/OpenAI 这份 Codex-maxxing 白皮书，别再把 Agent 当一次性 prompt 用了.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/codex-maxxing-stop-using-agents-as-one-shot-prompts.md",
+    "english_title": "OpenAI's Codex-Maxxing White Paper: Stop Treating an Agent Like a One-Shot Prompt",
+    "source_title": "OpenAI 这份 Codex-maxxing 白皮书，别再把 Agent 当一次性 prompt 用了"
+  },
+  "ai-articles/01-agent-and-coding/Claude Code 源码分析第一篇：Claude Code 为什么不是一个聊天机器人，而是一个 Agent 系统.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/claude-code-from-source-why-it-is-an-agent-system-not-a-chatbot.md",
+    "english_title": "Claude Code From Source, Part 1: Why Claude Code Is an Agent System, Not a Chatbot",
+    "source_title": "Claude Code 源码分析第一篇：Claude Code 为什么不是一个聊天机器人，而是一个 Agent 系统"
+  },
+  "ai-articles/01-agent-and-coding/今天 Github 看到一个把 AI Agent 工作流打包成操作系统的项目：ECC.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/ecc-packages-ai-agent-workflows-into-an-operating-system.md",
+    "english_title": "A GitHub Project That Packages AI Agent Workflows Into an Operating System: ECC",
+    "source_title": "今天 Github 看到一个把 AI Agent 工作流打包成操作系统的项目：ECC"
+  },
+  "ai-articles/01-agent-and-coding/今天 AI 最值得看的 10 篇文章：Agent 开始进入真实系统.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/ten-ai-reads-agent-systems-enter-production.md",
+    "english_title": "10 AI Reads That Matter Today: Agents Are Entering Real Systems",
+    "source_title": "今天 AI 最值得看的 10 篇文章：Agent 开始进入真实系统"
+  },
+  "ai-articles/01-agent-and-coding/今天 Github 看到一个让 AI 编码 Agent 持续工作的项目：loop-engineering.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/loop-engineering-turns-ai-coding-agents-into-recurring-workers.md",
+    "english_title": "A GitHub Project That Keeps AI Coding Agents Working on a Schedule: loop-engineering",
+    "source_title": "今天 Github 看到一个让 AI 编码 Agent 持续工作的项目：loop-engineering"
+  },
+  "ai-articles/02-models-and-research/GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md",
+    "english_title": "GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday",
+    "source_title": "GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！"
   }
 }

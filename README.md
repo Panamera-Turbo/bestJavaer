@@ -34,24 +34,24 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Start Here
 
-* [Testing Qwen3.7-Max in a Real Agent Workflow](./en/ai-articles/02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md)
+* [A GitHub Project That Keeps AI Coding Agents Working on a Schedule: loop-engineering](./en/ai-articles/01-agent-and-coding/loop-engineering-turns-ai-coding-agents-into-recurring-workers.md)
 
-  2026-06-20
-* [DeepSeek Enters Multimodal: Image Understanding Is Now Live](./en/ai-articles/02-models-and-research/deepseek-enters-multimodal-image-understanding-is-now-live.md)
+  2026-07-08
+* [GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday](./en/ai-articles/02-models-and-research/gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md)
 
-  2026-06-19
-* [Can AI Really Predict the World Cup? Wenxin Was the Most Accurate](./en/ai-articles/02-models-and-research/can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md)
+  2026-07-08
+* [10 AI Reads That Matter Today: Agents Are Entering Real Systems](./en/ai-articles/01-agent-and-coding/ten-ai-reads-agent-systems-enter-production.md)
 
-  2026-06-16
-* [OiiOii 2.0: I Finally Took AI Video Creation Seriously](./en/ai-articles/05-ai-creation-and-media/oiioii-2-0-i-finally-took-ai-video-creation-seriously.md)
+  2026-07-03
+* [A GitHub Project That Packages AI Agent Workflows Into an Operating System: ECC](./en/ai-articles/01-agent-and-coding/ecc-packages-ai-agent-workflows-into-an-operating-system.md)
 
-  2026-06-15
-* [Fable 5 Was Suddenly Banned](./en/ai-articles/02-models-and-research/fable-5-was-suddenly-banned.md)
+  2026-07-01
+* [Claude Code From Source, Part 1: Why Claude Code Is an Agent System, Not a Chatbot](./en/ai-articles/01-agent-and-coding/claude-code-from-source-why-it-is-an-agent-system-not-a-chatbot.md)
 
-  2026-06-13
-* [Fable 5's 120k-Character System Prompt Leaked](./en/ai-articles/02-models-and-research/fable-5-120k-character-system-prompt-leaked.md)
+  2026-06-25
+* [Can Codex Wear Out Your SSD? A Complete Investigation](./en/ai-articles/01-agent-and-coding/can-codex-wear-out-your-ssd-a-complete-investigation.md)
 
-  2026-06-12
+  2026-06-24
 
 ## Main Sections
 
@@ -73,12 +73,12 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Recent Updates
 
-* 2026-06-20 · [Testing Qwen3.7-Max in a Real Agent Workflow](./en/ai-articles/02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md)
-* 2026-06-19 · [DeepSeek Enters Multimodal: Image Understanding Is Now Live](./en/ai-articles/02-models-and-research/deepseek-enters-multimodal-image-understanding-is-now-live.md)
-* 2026-06-16 · [Can AI Really Predict the World Cup? Wenxin Was the Most Accurate](./en/ai-articles/02-models-and-research/can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md)
-* 2026-06-15 · [OiiOii 2.0: I Finally Took AI Video Creation Seriously](./en/ai-articles/05-ai-creation-and-media/oiioii-2-0-i-finally-took-ai-video-creation-seriously.md)
-* 2026-06-13 · [Fable 5 Was Suddenly Banned](./en/ai-articles/02-models-and-research/fable-5-was-suddenly-banned.md)
-* 2026-06-12 · [Fable 5's 120k-Character System Prompt Leaked](./en/ai-articles/02-models-and-research/fable-5-120k-character-system-prompt-leaked.md)
+* 2026-07-08 · [A GitHub Project That Keeps AI Coding Agents Working on a Schedule: loop-engineering](./en/ai-articles/01-agent-and-coding/loop-engineering-turns-ai-coding-agents-into-recurring-workers.md)
+* 2026-07-08 · [GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday](./en/ai-articles/02-models-and-research/gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md)
+* 2026-07-03 · [10 AI Reads That Matter Today: Agents Are Entering Real Systems](./en/ai-articles/01-agent-and-coding/ten-ai-reads-agent-systems-enter-production.md)
+* 2026-07-01 · [A GitHub Project That Packages AI Agent Workflows Into an Operating System: ECC](./en/ai-articles/01-agent-and-coding/ecc-packages-ai-agent-workflows-into-an-operating-system.md)
+* 2026-06-25 · [Claude Code From Source, Part 1: Why Claude Code Is an Agent System, Not a Chatbot](./en/ai-articles/01-agent-and-coding/claude-code-from-source-why-it-is-an-agent-system-not-a-chatbot.md)
+* 2026-06-24 · [Can Codex Wear Out Your SSD? A Complete Investigation](./en/ai-articles/01-agent-and-coding/can-codex-wear-out-your-ssd-a-complete-investigation.md)
 
 ## Why Follow
 

@@ -2,6 +2,7 @@
 
 Model capabilities, papers and reports, prompt methods, evaluations, and LLM observations.
 
+- 2026-07-08 - [GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday](./gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md)
 - 2026-06-20 - [Testing Qwen3.7-Max in a Real Agent Workflow](./testing-qwen3-7-max-in-a-real-agent-workflow.md)
 - 2026-06-19 - [DeepSeek Enters Multimodal: Image Understanding Is Now Live](./deepseek-enters-multimodal-image-understanding-is-now-live.md)
 - 2026-06-16 - [Can AI Really Predict the World Cup? Wenxin Was the Most Accurate](./can-ai-really-predict-the-world-cup-wenxin-was-the-most-accurate.md)

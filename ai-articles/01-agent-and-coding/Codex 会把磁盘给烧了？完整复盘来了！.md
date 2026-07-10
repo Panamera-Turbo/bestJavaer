@@ -1,5 +1,9 @@
 # Codex 会把磁盘给烧了？完整复盘来了！
 
+[English](../../en/ai-articles/01-agent-and-coding/can-codex-wear-out-your-ssd-a-complete-investigation.md) | [中文](./Codex%20%E4%BC%9A%E6%8A%8A%E7%A3%81%E7%9B%98%E7%BB%99%E7%83%A7%E4%BA%86%EF%BC%9F%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%E6%9D%A5%E4%BA%86%EF%BC%81.md)
+
+> 日期：2026-06-24
+
 这两天 Codex 圈子里有个说法挺吓人：
 
 高强度用 Codex，尤其是长时间跑 Agent，`~/.codex/logs_2.sqlite` 可能会持续写盘。文件看起来只是几百 MB，SSD 实际写入量可能已经被拉高很多。

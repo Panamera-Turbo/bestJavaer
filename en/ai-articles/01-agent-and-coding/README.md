@@ -2,6 +2,12 @@
 
 Codex, Claude Code, Claw, Agent workflows, AI coding tools, and real usage notes.
 
+- 2026-07-08 - [A GitHub Project That Keeps AI Coding Agents Working on a Schedule: loop-engineering](./loop-engineering-turns-ai-coding-agents-into-recurring-workers.md)
+- 2026-07-03 - [10 AI Reads That Matter Today: Agents Are Entering Real Systems](./ten-ai-reads-agent-systems-enter-production.md)
+- 2026-07-01 - [A GitHub Project That Packages AI Agent Workflows Into an Operating System: ECC](./ecc-packages-ai-agent-workflows-into-an-operating-system.md)
+- 2026-06-25 - [Claude Code From Source, Part 1: Why Claude Code Is an Agent System, Not a Chatbot](./claude-code-from-source-why-it-is-an-agent-system-not-a-chatbot.md)
+- 2026-06-24 - [Can Codex Wear Out Your SSD? A Complete Investigation](./can-codex-wear-out-your-ssd-a-complete-investigation.md)
+- 2026-06-23 - [OpenAI's Codex-Maxxing White Paper: Stop Treating an Agent Like a One-Shot Prompt](./codex-maxxing-stop-using-agents-as-one-shot-prompts.md)
 - 2026-06-09 - [What Is AGENTS.md?](./what-is-agents-md.md)
 - 2026-06-09 - [The 10 Codex Tips I Use Most Often](./the-10-codex-tips-i-use-most-often.md)
 - 2026-06-05 - [Codex Keeps Reconnecting? The Two Common Causes I Found](./codex-keeps-reconnecting-the-two-common-causes-i-found.md)
