@@ -2,12 +2,10 @@
 
 Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。
 
-- 2026-07-08 - [今天 Github 看到一个让 AI 编码 Agent 持续工作的项目：loop-engineering](./%E4%BB%8A%E5%A4%A9%20Github%20%E7%9C%8B%E5%88%B0%E4%B8%80%E4%B8%AA%E8%AE%A9%20AI%20%E7%BC%96%E7%A0%81%20Agent%20%E6%8C%81%E7%BB%AD%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%9Aloop-engineering.md)
 - 2026-07-03 - [今天 AI 最值得看的 10 篇文章：Agent 开始进入真实系统](./%E4%BB%8A%E5%A4%A9%20AI%20%E6%9C%80%E5%80%BC%E5%BE%97%E7%9C%8B%E7%9A%84%2010%20%E7%AF%87%E6%96%87%E7%AB%A0%EF%BC%9AAgent%20%E5%BC%80%E5%A7%8B%E8%BF%9B%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F.md)
 - 2026-07-01 - [今天 Github 看到一个把 AI Agent 工作流打包成操作系统的项目：ECC](./%E4%BB%8A%E5%A4%A9%20Github%20%E7%9C%8B%E5%88%B0%E4%B8%80%E4%B8%AA%E6%8A%8A%20AI%20Agent%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%89%93%E5%8C%85%E6%88%90%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%9AECC.md)
 - 2026-06-25 - [Claude Code 源码分析第一篇：Claude Code 为什么不是一个聊天机器人，而是一个 Agent 系统](./Claude%20Code%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%9AClaude%20Code%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E8%80%8C%E6%98%AF%E4%B8%80%E4%B8%AA%20Agent%20%E7%B3%BB%E7%BB%9F.md)
 - 2026-06-24 - [Codex 会把磁盘给烧了？完整复盘来了！](./Codex%20%E4%BC%9A%E6%8A%8A%E7%A3%81%E7%9B%98%E7%BB%99%E7%83%A7%E4%BA%86%EF%BC%9F%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%E6%9D%A5%E4%BA%86%EF%BC%81.md)
-- 2026-06-23 - [OpenAI 这份 Codex-maxxing 白皮书，别再把 Agent 当一次性 prompt 用了](./OpenAI%20%E8%BF%99%E4%BB%BD%20Codex-maxxing%20%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%8C%E5%88%AB%E5%86%8D%E6%8A%8A%20Agent%20%E5%BD%93%E4%B8%80%E6%AC%A1%E6%80%A7%20prompt%20%E7%94%A8%E4%BA%86.md)
 - 2026-06-09 - [Agents.md 是什么](./Agents.md%20%E6%98%AF%E4%BB%80%E4%B9%88.md)
 - 2026-06-09 - [我最近最常用的 10 个 Codex 技巧](./%E6%88%91%E6%9C%80%E8%BF%91%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%2010%20%E4%B8%AA%20Codex%20%E6%8A%80%E5%B7%A7.md)
 - 2026-06-05 - [Codex 一直 Reconnecting？我最后发现，常见就两个坑](./Codex%20%E4%B8%80%E7%9B%B4%20Reconnecting%EF%BC%9F%E6%88%91%E6%9C%80%E5%90%8E%E5%8F%91%E7%8E%B0%EF%BC%8C%E5%B8%B8%E8%A7%81%E5%B0%B1%E4%B8%A4%E4%B8%AA%E5%9D%91.md)

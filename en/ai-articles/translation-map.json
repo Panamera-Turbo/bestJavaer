@@ -605,12 +605,6 @@
     "english_title": "Can Codex Wear Out Your SSD? A Complete Investigation",
     "source_title": "Codex 会把磁盘给烧了？完整复盘来了！"
   },
-  "ai-articles/01-agent-and-coding/OpenAI 这份 Codex-maxxing 白皮书，别再把 Agent 当一次性 prompt 用了.md": {
-    "category": "01-agent-and-coding",
-    "english_path": "en/ai-articles/01-agent-and-coding/codex-maxxing-stop-using-agents-as-one-shot-prompts.md",
-    "english_title": "OpenAI's Codex-Maxxing White Paper: Stop Treating an Agent Like a One-Shot Prompt",
-    "source_title": "OpenAI 这份 Codex-maxxing 白皮书，别再把 Agent 当一次性 prompt 用了"
-  },
   "ai-articles/01-agent-and-coding/Claude Code 源码分析第一篇：Claude Code 为什么不是一个聊天机器人，而是一个 Agent 系统.md": {
     "category": "01-agent-and-coding",
     "english_path": "en/ai-articles/01-agent-and-coding/claude-code-from-source-why-it-is-an-agent-system-not-a-chatbot.md",
@@ -628,12 +622,6 @@
     "english_path": "en/ai-articles/01-agent-and-coding/ten-ai-reads-agent-systems-enter-production.md",
     "english_title": "10 AI Reads That Matter Today: Agents Are Entering Real Systems",
     "source_title": "今天 AI 最值得看的 10 篇文章：Agent 开始进入真实系统"
-  },
-  "ai-articles/01-agent-and-coding/今天 Github 看到一个让 AI 编码 Agent 持续工作的项目：loop-engineering.md": {
-    "category": "01-agent-and-coding",
-    "english_path": "en/ai-articles/01-agent-and-coding/loop-engineering-turns-ai-coding-agents-into-recurring-workers.md",
-    "english_title": "A GitHub Project That Keeps AI Coding Agents Working on a Schedule: loop-engineering",
-    "source_title": "今天 Github 看到一个让 AI 编码 Agent 持续工作的项目：loop-engineering"
   },
   "ai-articles/02-models-and-research/GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！.md": {
     "category": "02-models-and-research",

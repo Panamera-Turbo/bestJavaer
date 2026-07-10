@@ -34,9 +34,6 @@
 
 ## 先从这几篇开始
 
-* [今天 Github 看到一个让 AI 编码 Agent 持续工作的项目：loop-engineering](./ai-articles/01-agent-and-coding/%E4%BB%8A%E5%A4%A9%20Github%20%E7%9C%8B%E5%88%B0%E4%B8%80%E4%B8%AA%E8%AE%A9%20AI%20%E7%BC%96%E7%A0%81%20Agent%20%E6%8C%81%E7%BB%AD%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%9Aloop-engineering.md)
-
-  2026-07-08
 * [GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！](./ai-articles/02-models-and-research/GPT-5.6%20%E7%BB%88%E4%BA%8E%E8%A7%A3%E7%A6%81%EF%BC%9ASol%E3%80%81Terra%E3%80%81Luna%EF%BC%8C%E6%9C%AC%E5%91%A8%E5%9B%9B%E4%B8%80%E8%B5%B7%E4%B8%8A%EF%BC%81.md)
 
   2026-07-08
@@ -52,6 +49,9 @@
 * [Codex 会把磁盘给烧了？完整复盘来了！](./ai-articles/01-agent-and-coding/Codex%20%E4%BC%9A%E6%8A%8A%E7%A3%81%E7%9B%98%E7%BB%99%E7%83%A7%E4%BA%86%EF%BC%9F%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%E6%9D%A5%E4%BA%86%EF%BC%81.md)
 
   2026-06-24
+* [实测千问大模型](./ai-articles/02-models-and-research/%E5%AE%9E%E6%B5%8B%20Qwen3.7-Max%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
+
+  2026-06-20
 
 ## 新主线
 
@@ -73,12 +73,12 @@
 
 ## 最近更新
 
-* 2026-07-08 · [今天 Github 看到一个让 AI 编码 Agent 持续工作的项目：loop-engineering](./ai-articles/01-agent-and-coding/%E4%BB%8A%E5%A4%A9%20Github%20%E7%9C%8B%E5%88%B0%E4%B8%80%E4%B8%AA%E8%AE%A9%20AI%20%E7%BC%96%E7%A0%81%20Agent%20%E6%8C%81%E7%BB%AD%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%9Aloop-engineering.md)
 * 2026-07-08 · [GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！](./ai-articles/02-models-and-research/GPT-5.6%20%E7%BB%88%E4%BA%8E%E8%A7%A3%E7%A6%81%EF%BC%9ASol%E3%80%81Terra%E3%80%81Luna%EF%BC%8C%E6%9C%AC%E5%91%A8%E5%9B%9B%E4%B8%80%E8%B5%B7%E4%B8%8A%EF%BC%81.md)
 * 2026-07-03 · [今天 AI 最值得看的 10 篇文章：Agent 开始进入真实系统](./ai-articles/01-agent-and-coding/%E4%BB%8A%E5%A4%A9%20AI%20%E6%9C%80%E5%80%BC%E5%BE%97%E7%9C%8B%E7%9A%84%2010%20%E7%AF%87%E6%96%87%E7%AB%A0%EF%BC%9AAgent%20%E5%BC%80%E5%A7%8B%E8%BF%9B%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F.md)
 * 2026-07-01 · [今天 Github 看到一个把 AI Agent 工作流打包成操作系统的项目：ECC](./ai-articles/01-agent-and-coding/%E4%BB%8A%E5%A4%A9%20Github%20%E7%9C%8B%E5%88%B0%E4%B8%80%E4%B8%AA%E6%8A%8A%20AI%20Agent%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%89%93%E5%8C%85%E6%88%90%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%9AECC.md)
 * 2026-06-25 · [Claude Code 源码分析第一篇：Claude Code 为什么不是一个聊天机器人，而是一个 Agent 系统](./ai-articles/01-agent-and-coding/Claude%20Code%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%9AClaude%20Code%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E8%80%8C%E6%98%AF%E4%B8%80%E4%B8%AA%20Agent%20%E7%B3%BB%E7%BB%9F.md)
 * 2026-06-24 · [Codex 会把磁盘给烧了？完整复盘来了！](./ai-articles/01-agent-and-coding/Codex%20%E4%BC%9A%E6%8A%8A%E7%A3%81%E7%9B%98%E7%BB%99%E7%83%A7%E4%BA%86%EF%BC%9F%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%E6%9D%A5%E4%BA%86%EF%BC%81.md)
+* 2026-06-20 · [实测千问大模型](./ai-articles/02-models-and-research/%E5%AE%9E%E6%B5%8B%20Qwen3.7-Max%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)
 
 ## 为什么值得关注
 

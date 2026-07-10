@@ -34,9 +34,6 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Start Here
 
-* [A GitHub Project That Keeps AI Coding Agents Working on a Schedule: loop-engineering](./en/ai-articles/01-agent-and-coding/loop-engineering-turns-ai-coding-agents-into-recurring-workers.md)
-
-  2026-07-08
 * [GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday](./en/ai-articles/02-models-and-research/gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md)
 
   2026-07-08
@@ -52,6 +49,9 @@ This repository documents practical AI-assisted development workflows, Agent exp
 * [Can Codex Wear Out Your SSD? A Complete Investigation](./en/ai-articles/01-agent-and-coding/can-codex-wear-out-your-ssd-a-complete-investigation.md)
 
   2026-06-24
+* [Testing Qwen3.7-Max in a Real Agent Workflow](./en/ai-articles/02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md)
+
+  2026-06-20
 
 ## Main Sections
 
@@ -73,12 +73,12 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 ## Recent Updates
 
-* 2026-07-08 · [A GitHub Project That Keeps AI Coding Agents Working on a Schedule: loop-engineering](./en/ai-articles/01-agent-and-coding/loop-engineering-turns-ai-coding-agents-into-recurring-workers.md)
 * 2026-07-08 · [GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday](./en/ai-articles/02-models-and-research/gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md)
 * 2026-07-03 · [10 AI Reads That Matter Today: Agents Are Entering Real Systems](./en/ai-articles/01-agent-and-coding/ten-ai-reads-agent-systems-enter-production.md)
 * 2026-07-01 · [A GitHub Project That Packages AI Agent Workflows Into an Operating System: ECC](./en/ai-articles/01-agent-and-coding/ecc-packages-ai-agent-workflows-into-an-operating-system.md)
 * 2026-06-25 · [Claude Code From Source, Part 1: Why Claude Code Is an Agent System, Not a Chatbot](./en/ai-articles/01-agent-and-coding/claude-code-from-source-why-it-is-an-agent-system-not-a-chatbot.md)
 * 2026-06-24 · [Can Codex Wear Out Your SSD? A Complete Investigation](./en/ai-articles/01-agent-and-coding/can-codex-wear-out-your-ssd-a-complete-investigation.md)
+* 2026-06-20 · [Testing Qwen3.7-Max in a Real Agent Workflow](./en/ai-articles/02-models-and-research/testing-qwen3-7-max-in-a-real-agent-workflow.md)
 
 ## Why Follow
 
