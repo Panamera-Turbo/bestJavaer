@@ -617,18 +617,6 @@
     "english_title": "Understanding Claude Code Architecture, Part 2: How Does Claude Code Start So Fast?",
     "source_title": "读懂 Claude Code 架构分析系列，第二篇：Claude Code 是怎样启动的？"
   },
-  "ai-articles/01-agent-and-coding/今天 Github 看到一个把 AI Agent 工作流打包成操作系统的项目：ECC.md": {
-    "category": "01-agent-and-coding",
-    "english_path": "en/ai-articles/01-agent-and-coding/ecc-packages-ai-agent-workflows-into-an-operating-system.md",
-    "english_title": "A GitHub Project That Packages AI Agent Workflows Into an Operating System: ECC",
-    "source_title": "今天 Github 看到一个把 AI Agent 工作流打包成操作系统的项目：ECC"
-  },
-  "ai-articles/01-agent-and-coding/今天 AI 最值得看的 10 篇文章：Agent 开始进入真实系统.md": {
-    "category": "01-agent-and-coding",
-    "english_path": "en/ai-articles/01-agent-and-coding/ten-ai-reads-agent-systems-enter-production.md",
-    "english_title": "10 AI Reads That Matter Today: Agents Are Entering Real Systems",
-    "source_title": "今天 AI 最值得看的 10 篇文章：Agent 开始进入真实系统"
-  },
   "ai-articles/02-models-and-research/GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！.md": {
     "category": "02-models-and-research",
     "english_path": "en/ai-articles/02-models-and-research/gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md",

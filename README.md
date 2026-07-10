@@ -40,12 +40,6 @@ This repository documents practical AI-assisted development workflows, Agent exp
 * [Understanding Claude Code Architecture, Part 2: How Does Claude Code Start So Fast?](./en/ai-articles/01-agent-and-coding/understanding-claude-code-architecture-part-2-fast-startup.md)
 
   2026-07-07
-* [10 AI Reads That Matter Today: Agents Are Entering Real Systems](./en/ai-articles/01-agent-and-coding/ten-ai-reads-agent-systems-enter-production.md)
-
-  2026-07-03
-* [A GitHub Project That Packages AI Agent Workflows Into an Operating System: ECC](./en/ai-articles/01-agent-and-coding/ecc-packages-ai-agent-workflows-into-an-operating-system.md)
-
-  2026-07-01
 * [Understanding Claude Code Architecture, Part 1: Let's Begin](./en/ai-articles/01-agent-and-coding/understanding-claude-code-architecture-part-1.md)
 
   2026-06-29
@@ -75,8 +69,6 @@ This repository documents practical AI-assisted development workflows, Agent exp
 
 * 2026-07-08 · [GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday](./en/ai-articles/02-models-and-research/gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md)
 * 2026-07-07 · [Understanding Claude Code Architecture, Part 2: How Does Claude Code Start So Fast?](./en/ai-articles/01-agent-and-coding/understanding-claude-code-architecture-part-2-fast-startup.md)
-* 2026-07-03 · [10 AI Reads That Matter Today: Agents Are Entering Real Systems](./en/ai-articles/01-agent-and-coding/ten-ai-reads-agent-systems-enter-production.md)
-* 2026-07-01 · [A GitHub Project That Packages AI Agent Workflows Into an Operating System: ECC](./en/ai-articles/01-agent-and-coding/ecc-packages-ai-agent-workflows-into-an-operating-system.md)
 * 2026-06-29 · [Understanding Claude Code Architecture, Part 1: Let's Begin](./en/ai-articles/01-agent-and-coding/understanding-claude-code-architecture-part-1.md)
 * 2026-06-24 · [Can Codex Wear Out Your SSD? A Complete Investigation](./en/ai-articles/01-agent-and-coding/can-codex-wear-out-your-ssd-a-complete-investigation.md)
 
