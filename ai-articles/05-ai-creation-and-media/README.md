@@ -2,6 +2,7 @@
 
 图像、视频、3D、创意生成和 AI 内容实验。
 
+- 2026-07-18 - [LibTV](./LibTV.md)
 - 2026-06-15 - [OiiOii升级2.0，我终于认真做了一次 AI 视频](./OiiOii%202.0%20%E5%8D%87%E7%BA%A7-%E8%A1%A5%E5%85%A8%E7%89%88.md)
 - 2026-04-30 - [不得了了，GPT-image-2 的华人下场了](./%E4%B8%8D%E5%BE%97%E4%BA%86%E4%BA%86%EF%BC%8CGPT-image-2%20%E7%9A%84%E5%8D%8E%E4%BA%BA%E4%B8%8B%E5%9C%BA%E4%BA%86.md)
 - 2026-04-23 - [GPT-image-2 来了，黑暗森林也来了](./GPT-image-2%20%E6%9D%A5%E4%BA%86%EF%BC%8C%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97%E4%B9%9F%E6%9D%A5%E4%BA%86.md)

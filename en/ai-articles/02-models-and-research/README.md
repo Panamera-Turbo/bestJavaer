@@ -2,6 +2,13 @@
 
 Model capabilities, papers and reports, prompt methods, evaluations, and LLM observations.
 
+- 2026-07-22 - [Claude Design's System Prompt Leaked: The Essential Lessons](./claude-design-system-prompt-essential-lessons.md)
+- 2026-07-22 - [Qoder + Qwen 3.8: A Hands-On Test](./qoder-qwen-3-8-hands-on-test.md)
+- 2026-07-20 - [OpenAI's Official Prompting Guide](./openai-official-prompting-guide.md)
+- 2026-07-18 - [Kimi K3 Stole the Show](./kimi-k3-stole-the-show.md)
+- 2026-07-15 - [Claude Design's 647-Line System Prompt Leaked: A Complete Walkthrough](./claude-design-647-line-system-prompt-complete-walkthrough.md)
+- 2026-07-10 - [GPT-5.6 Is Here, but the Hype Needs a Reality Check](./gpt-5-6-is-here-but-the-hype-needs-a-reality-check.md)
+- 2026-07-09 - [Cursor Flipped the Table: Is Grok 4.5 Ready to Take Off?](./cursor-grok-4-5-ready-to-take-off.md)
 - 2026-07-08 - [GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday](./gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md)
 - 2026-06-20 - [Testing Qwen3.7-Max in a Real Agent Workflow](./testing-qwen3-7-max-in-a-real-agent-workflow.md)
 - 2026-06-19 - [DeepSeek Enters Multimodal: Image Understanding Is Now Live](./deepseek-enters-multimodal-image-understanding-is-now-live.md)

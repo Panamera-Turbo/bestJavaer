@@ -2,6 +2,7 @@
 
 Images, video, 3D, creative generation, and AI content experiments.
 
+- 2026-07-18 - [LibTV Helped Me Get Past My Creative Anxiety](./libtv-helped-me-get-past-creative-anxiety.md)
 - 2026-06-15 - [OiiOii 2.0: I Finally Took AI Video Creation Seriously](./oiioii-2-0-i-finally-took-ai-video-creation-seriously.md)
 - 2026-04-30 - [Oh, my God. The Chinese of GPT-image-2 are dead.](./oh-my-god-the-chinese-of-gpt-image-2-are-dead.md)
 - 2026-04-23 - [GPT-image-2 is here, and the Dark Forest is here.](./gpt-image-2-is-here-and-the-dark-forest-is-here.md)

@@ -2,6 +2,9 @@
 
 Codex, Claude Code, Claw, Agent workflows, AI coding tools, and real usage notes.
 
+- 2026-07-22 - [Grok Build Was Widely Criticized, Then Elon Open-Sourced It](./grok-build-was-criticized-then-open-sourced.md)
+- 2026-07-21 - [Still Learning Loops? Graph Engineering Is Already Taking Off](./graph-engineering-is-already-taking-off.md)
+- 2026-07-16 - [GPT-5.6 Ran rm -rf in the Background](./gpt-5-6-ran-rm-rf-in-the-background.md)
 - 2026-07-07 - [Understanding Claude Code Architecture, Part 2: How Does Claude Code Start So Fast?](./understanding-claude-code-architecture-part-2-fast-startup.md)
 - 2026-06-29 - [Understanding Claude Code Architecture, Part 1: Let's Begin](./understanding-claude-code-architecture-part-1.md)
 - 2026-06-24 - [Can Codex Wear Out Your SSD? A Complete Investigation](./can-codex-wear-out-your-ssd-a-complete-investigation.md)

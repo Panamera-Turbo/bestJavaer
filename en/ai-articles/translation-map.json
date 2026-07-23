@@ -622,5 +622,101 @@
     "english_path": "en/ai-articles/02-models-and-research/gpt-5-6-sol-terra-and-luna-are-finally-opening-up.md",
     "english_title": "GPT-5.6 Is Finally Opening Up: Sol, Terra, and Luna Arrive This Thursday",
     "source_title": "GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！"
+  },
+  "ai-articles/02-models-and-research/Claude Design 的系统提示词被人扒出来了，精彩，确实精彩。.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/claude-design-647-line-system-prompt-complete-walkthrough.md",
+    "english_title": "Claude Design's 647-Line System Prompt Leaked: A Complete Walkthrough",
+    "source_title": "Claude Design 的系统提示词被人扒出来了，精彩，确实精彩。"
+  },
+  "ai-articles/02-models-and-research/好家伙，继 Fable 5 系统提示词被扒之后，又一个 Claude 系统提示词被扒了。.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/claude-design-system-prompt-essential-lessons.md",
+    "english_title": "Claude Design's System Prompt Leaked: The Essential Lessons",
+    "source_title": "好家伙，继 Fable 5 系统提示词被扒之后，又一个 Claude 系统提示词被扒了。"
+  },
+  "ai-articles/02-models-and-research/OpenAI 官方提示词指南.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/openai-official-prompting-guide.md",
+    "english_title": "OpenAI's Official Prompting Guide",
+    "source_title": "OpenAI 官方提示词指南"
+  },
+  "ai-articles/02-models-and-research/GPT 5.6 发布了，但我可能得泼点冷水了。.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/gpt-5-6-is-here-but-the-hype-needs-a-reality-check.md",
+    "english_title": "GPT-5.6 Is Here, but the Hype Needs a Reality Check",
+    "source_title": "GPT 5.6 发布了，但我可能得泼点冷水了。"
+  },
+  "ai-articles/01-agent-and-coding/Grok Build 被众人唾骂，结果老马把它开源了.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/grok-build-was-criticized-then-open-sourced.md",
+    "english_title": "Grok Build Was Widely Criticized, Then Elon Open-Sourced It",
+    "source_title": "Grok Build 被众人唾骂，结果老马把它开源了"
+  },
+  "ai-articles/05-ai-creation-and-media/LibTV.md": {
+    "category": "05-ai-creation-and-media",
+    "english_path": "en/ai-articles/05-ai-creation-and-media/libtv-helped-me-get-past-creative-anxiety.md",
+    "english_title": "LibTV Helped Me Get Past My Creative Anxiety",
+    "source_title": "LibTV"
+  },
+  "ai-articles/01-agent-and-coding/Loop 还没玩明白，Graph Engineering 又火了：说白了，就是给 Agent 组个团队.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/graph-engineering-is-already-taking-off.md",
+    "english_title": "Still Learning Loops? Graph Engineering Is Already Taking Off",
+    "source_title": "Loop 还没玩明白，Graph Engineering 又火了：说白了，就是给 Agent 组个团队"
+  },
+  "ai-articles/04-industry-and-business/OceanBase 为什么要做 AI 数据库？.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/why-oceanbase-is-building-an-ai-database.md",
+    "english_title": "Why Is OceanBase Building an AI Database?",
+    "source_title": "OceanBase 为什么要做 AI 数据库？"
+  },
+  "ai-articles/04-industry-and-business/OpenAI 把 HuggingFace 打穿了.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/openai-broke-through-hugging-face-infrastructure.md",
+    "english_title": "OpenAI Broke Through Hugging Face's Infrastructure",
+    "source_title": "OpenAI 把 HuggingFace 打穿了"
+  },
+  "ai-articles/02-models-and-research/Qoder + Qwen 3.8 实测.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/qoder-qwen-3-8-hands-on-test.md",
+    "english_title": "Qoder + Qwen 3.8: A Hands-On Test",
+    "source_title": "Qoder + Qwen 3.8 实测"
+  },
+  "ai-articles/02-models-and-research/Cursor 掀桌子了，Grok 4.5 这次要上天了？.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/cursor-grok-4-5-ready-to-take-off.md",
+    "english_title": "Cursor Flipped the Table: Is Grok 4.5 Ready to Take Off?",
+    "source_title": "Cursor 掀桌子了，Grok 4.5 这次要上天了？"
+  },
+  "ai-articles/04-industry-and-business/今天阿里宣布全面封禁 Claude Code 了。.md": {
+    "category": "04-industry-and-business",
+    "english_path": "en/ai-articles/04-industry-and-business/alibaba-company-wide-ban-on-claude-code.md",
+    "english_title": "Alibaba Has Announced a Company-Wide Ban on Claude Code",
+    "source_title": "今天阿里宣布全面封禁 Claude Code 了。"
+  },
+  "ai-articles/02-models-and-research/周三跟大家说的一些模型可能要发布，结果今天 Kimi 就炸场了。.md": {
+    "category": "02-models-and-research",
+    "english_path": "en/ai-articles/02-models-and-research/kimi-k3-stole-the-show.md",
+    "english_title": "Kimi K3 Stole the Show",
+    "source_title": "周三跟大家说的一些模型可能要发布，结果今天 Kimi 就炸场了。"
+  },
+  "ai-articles/06-notes-and-observations/我个人非常不理解甚至有些厌恶用 AI 写书的。.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/i-strongly-dislike-books-written-by-ai.md",
+    "english_title": "I Strongly Dislike Books Written by AI",
+    "source_title": "我个人非常不理解甚至有些厌恶用 AI 写书的。"
+  },
+  "ai-articles/06-notes-and-observations/最近发生的事情，确实太魔幻了.md": {
+    "category": "06-notes-and-observations",
+    "english_path": "en/ai-articles/06-notes-and-observations/recent-ai-events-have-been-surreal.md",
+    "english_title": "Recent AI Events Have Been Surreal",
+    "source_title": "最近发生的事情，确实太魔幻了"
+  },
+  "ai-articles/01-agent-and-coding/离谱，GPT-5.6 竟然在后台执行了 rm -rf.md": {
+    "category": "01-agent-and-coding",
+    "english_path": "en/ai-articles/01-agent-and-coding/gpt-5-6-ran-rm-rf-in-the-background.md",
+    "english_title": "GPT-5.6 Ran rm -rf in the Background",
+    "source_title": "离谱，GPT-5.6 竟然在后台执行了 rm -rf"
   }
 }

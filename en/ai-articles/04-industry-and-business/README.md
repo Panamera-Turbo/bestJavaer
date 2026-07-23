@@ -2,6 +2,9 @@
 
 Company updates, platform changes, commercialization, infrastructure, security incidents, and industry judgment.
 
+- 2026-07-22 - [OpenAI Broke Through Hugging Face's Infrastructure](./openai-broke-through-hugging-face-infrastructure.md)
+- 2026-07-08 - [Why Is OceanBase Building an AI Database?](./why-oceanbase-is-building-an-ai-database.md)
+- 2026-07-04 - [Alibaba Has Announced a Company-Wide Ban on Claude Code](./alibaba-company-wide-ban-on-claude-code.md)
 - 2026-06-12 - [One OpenAI Invite Reset the Quota and Pulled Prices Down](./one-openai-invite-reset-the-quota-and-pulled-prices-down.md)
 - 2026-06-10 - [Luckin Released a CLI. Is This a Step Toward AGI?](./luckin-released-a-cli-is-this-a-step-toward-agi.md)
 - 2026-06-07 - [Yao Shunyu's Interview Explained Tencent's Second Half of AI](./yao-shunyu-interview-explained-tencent-second-half-of-ai.md)

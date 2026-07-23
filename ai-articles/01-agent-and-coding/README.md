@@ -2,6 +2,9 @@
 
 Codex、Claude Code、Claw、Agent 工作流、AI 编程工具和真实使用体验。
 
+- 2026-07-22 - [Grok Build 被众人唾骂，结果老马把它开源了](./Grok%20Build%20%E8%A2%AB%E4%BC%97%E4%BA%BA%E5%94%BE%E9%AA%82%EF%BC%8C%E7%BB%93%E6%9E%9C%E8%80%81%E9%A9%AC%E6%8A%8A%E5%AE%83%E5%BC%80%E6%BA%90%E4%BA%86.md)
+- 2026-07-21 - [Loop 还没玩明白，Graph Engineering 又火了：说白了，就是给 Agent 组个团队](./Loop%20%E8%BF%98%E6%B2%A1%E7%8E%A9%E6%98%8E%E7%99%BD%EF%BC%8CGraph%20Engineering%20%E5%8F%88%E7%81%AB%E4%BA%86%EF%BC%9A%E8%AF%B4%E7%99%BD%E4%BA%86%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%20Agent%20%E7%BB%84%E4%B8%AA%E5%9B%A2%E9%98%9F.md)
+- 2026-07-16 - [离谱，GPT-5.6 竟然在后台执行了 rm -rf](./%E7%A6%BB%E8%B0%B1%EF%BC%8CGPT-5.6%20%E7%AB%9F%E7%84%B6%E5%9C%A8%E5%90%8E%E5%8F%B0%E6%89%A7%E8%A1%8C%E4%BA%86%20rm%20-rf.md)
 - 2026-07-07 - [读懂 Claude Code 架构分析系列，第二篇：Claude Code 是怎样启动的？](./%E8%AF%BB%E6%87%82%20Claude%20Code%20%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97%EF%BC%8C%E7%AC%AC%E4%BA%8C%E7%AF%87%EF%BC%9AClaude%20Code%20%E6%98%AF%E6%80%8E%E6%A0%B7%E5%90%AF%E5%8A%A8%E7%9A%84%EF%BC%9F.md)
 - 2026-06-29 - [读懂 Claude Code 架构分析系列，第一篇，开始！](./%E8%AF%BB%E6%87%82%20Claude%20Code%20%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97%EF%BC%8C%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%8C%E5%BC%80%E5%A7%8B%EF%BC%81.md)
 - 2026-06-24 - [Codex 会把磁盘给烧了？完整复盘来了！](./Codex%20%E4%BC%9A%E6%8A%8A%E7%A3%81%E7%9B%98%E7%BB%99%E7%83%A7%E4%BA%86%EF%BC%9F%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%E6%9D%A5%E4%BA%86%EF%BC%81.md)

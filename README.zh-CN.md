@@ -34,18 +34,24 @@
 
 ## 先从这几篇开始
 
-* [GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！](./ai-articles/02-models-and-research/GPT-5.6%20%E7%BB%88%E4%BA%8E%E8%A7%A3%E7%A6%81%EF%BC%9ASol%E3%80%81Terra%E3%80%81Luna%EF%BC%8C%E6%9C%AC%E5%91%A8%E5%9B%9B%E4%B8%80%E8%B5%B7%E4%B8%8A%EF%BC%81.md)
+* [Grok Build 被众人唾骂，结果老马把它开源了](./ai-articles/01-agent-and-coding/Grok%20Build%20%E8%A2%AB%E4%BC%97%E4%BA%BA%E5%94%BE%E9%AA%82%EF%BC%8C%E7%BB%93%E6%9E%9C%E8%80%81%E9%A9%AC%E6%8A%8A%E5%AE%83%E5%BC%80%E6%BA%90%E4%BA%86.md)
 
-  2026-07-08
-* [读懂 Claude Code 架构分析系列，第二篇：Claude Code 是怎样启动的？](./ai-articles/01-agent-and-coding/%E8%AF%BB%E6%87%82%20Claude%20Code%20%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97%EF%BC%8C%E7%AC%AC%E4%BA%8C%E7%AF%87%EF%BC%9AClaude%20Code%20%E6%98%AF%E6%80%8E%E6%A0%B7%E5%90%AF%E5%8A%A8%E7%9A%84%EF%BC%9F.md)
+  2026-07-22
+* [Qoder + Qwen 3.8 实测](./ai-articles/02-models-and-research/Qoder%20%2B%20Qwen%203.8%20%E5%AE%9E%E6%B5%8B.md)
 
-  2026-07-07
-* [读懂 Claude Code 架构分析系列，第一篇，开始！](./ai-articles/01-agent-and-coding/%E8%AF%BB%E6%87%82%20Claude%20Code%20%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97%EF%BC%8C%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%8C%E5%BC%80%E5%A7%8B%EF%BC%81.md)
+  2026-07-22
+* [好家伙，继 Fable 5 系统提示词被扒之后，又一个 Claude 系统提示词被扒了。](./ai-articles/02-models-and-research/%E5%A5%BD%E5%AE%B6%E4%BC%99%EF%BC%8C%E7%BB%A7%20Fable%205%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E6%89%92%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%8F%88%E4%B8%80%E4%B8%AA%20Claude%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E6%89%92%E4%BA%86%E3%80%82.md)
 
-  2026-06-29
-* [Codex 会把磁盘给烧了？完整复盘来了！](./ai-articles/01-agent-and-coding/Codex%20%E4%BC%9A%E6%8A%8A%E7%A3%81%E7%9B%98%E7%BB%99%E7%83%A7%E4%BA%86%EF%BC%9F%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%E6%9D%A5%E4%BA%86%EF%BC%81.md)
+  2026-07-22
+* [OpenAI 把 HuggingFace 打穿了](./ai-articles/04-industry-and-business/OpenAI%20%E6%8A%8A%20HuggingFace%20%E6%89%93%E7%A9%BF%E4%BA%86.md)
 
-  2026-06-24
+  2026-07-22
+* [我个人非常不理解甚至有些厌恶用 AI 写书的。](./ai-articles/06-notes-and-observations/%E6%88%91%E4%B8%AA%E4%BA%BA%E9%9D%9E%E5%B8%B8%E4%B8%8D%E7%90%86%E8%A7%A3%E7%94%9A%E8%87%B3%E6%9C%89%E4%BA%9B%E5%8E%8C%E6%81%B6%E7%94%A8%20AI%20%E5%86%99%E4%B9%A6%E7%9A%84%E3%80%82.md)
+
+  2026-07-22
+* [Loop 还没玩明白，Graph Engineering 又火了：说白了，就是给 Agent 组个团队](./ai-articles/01-agent-and-coding/Loop%20%E8%BF%98%E6%B2%A1%E7%8E%A9%E6%98%8E%E7%99%BD%EF%BC%8CGraph%20Engineering%20%E5%8F%88%E7%81%AB%E4%BA%86%EF%BC%9A%E8%AF%B4%E7%99%BD%E4%BA%86%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%20Agent%20%E7%BB%84%E4%B8%AA%E5%9B%A2%E9%98%9F.md)
+
+  2026-07-21
 
 ## 新主线
 
@@ -67,10 +73,16 @@
 
 ## 最近更新
 
-* 2026-07-08 · [GPT-5.6 终于解禁：Sol、Terra、Luna，本周四一起上！](./ai-articles/02-models-and-research/GPT-5.6%20%E7%BB%88%E4%BA%8E%E8%A7%A3%E7%A6%81%EF%BC%9ASol%E3%80%81Terra%E3%80%81Luna%EF%BC%8C%E6%9C%AC%E5%91%A8%E5%9B%9B%E4%B8%80%E8%B5%B7%E4%B8%8A%EF%BC%81.md)
-* 2026-07-07 · [读懂 Claude Code 架构分析系列，第二篇：Claude Code 是怎样启动的？](./ai-articles/01-agent-and-coding/%E8%AF%BB%E6%87%82%20Claude%20Code%20%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97%EF%BC%8C%E7%AC%AC%E4%BA%8C%E7%AF%87%EF%BC%9AClaude%20Code%20%E6%98%AF%E6%80%8E%E6%A0%B7%E5%90%AF%E5%8A%A8%E7%9A%84%EF%BC%9F.md)
-* 2026-06-29 · [读懂 Claude Code 架构分析系列，第一篇，开始！](./ai-articles/01-agent-and-coding/%E8%AF%BB%E6%87%82%20Claude%20Code%20%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97%EF%BC%8C%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%8C%E5%BC%80%E5%A7%8B%EF%BC%81.md)
-* 2026-06-24 · [Codex 会把磁盘给烧了？完整复盘来了！](./ai-articles/01-agent-and-coding/Codex%20%E4%BC%9A%E6%8A%8A%E7%A3%81%E7%9B%98%E7%BB%99%E7%83%A7%E4%BA%86%EF%BC%9F%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%E6%9D%A5%E4%BA%86%EF%BC%81.md)
+* 2026-07-22 · [Grok Build 被众人唾骂，结果老马把它开源了](./ai-articles/01-agent-and-coding/Grok%20Build%20%E8%A2%AB%E4%BC%97%E4%BA%BA%E5%94%BE%E9%AA%82%EF%BC%8C%E7%BB%93%E6%9E%9C%E8%80%81%E9%A9%AC%E6%8A%8A%E5%AE%83%E5%BC%80%E6%BA%90%E4%BA%86.md)
+* 2026-07-22 · [Qoder + Qwen 3.8 实测](./ai-articles/02-models-and-research/Qoder%20%2B%20Qwen%203.8%20%E5%AE%9E%E6%B5%8B.md)
+* 2026-07-22 · [好家伙，继 Fable 5 系统提示词被扒之后，又一个 Claude 系统提示词被扒了。](./ai-articles/02-models-and-research/%E5%A5%BD%E5%AE%B6%E4%BC%99%EF%BC%8C%E7%BB%A7%20Fable%205%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E6%89%92%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%8F%88%E4%B8%80%E4%B8%AA%20Claude%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%A2%AB%E6%89%92%E4%BA%86%E3%80%82.md)
+* 2026-07-22 · [OpenAI 把 HuggingFace 打穿了](./ai-articles/04-industry-and-business/OpenAI%20%E6%8A%8A%20HuggingFace%20%E6%89%93%E7%A9%BF%E4%BA%86.md)
+* 2026-07-22 · [我个人非常不理解甚至有些厌恶用 AI 写书的。](./ai-articles/06-notes-and-observations/%E6%88%91%E4%B8%AA%E4%BA%BA%E9%9D%9E%E5%B8%B8%E4%B8%8D%E7%90%86%E8%A7%A3%E7%94%9A%E8%87%B3%E6%9C%89%E4%BA%9B%E5%8E%8C%E6%81%B6%E7%94%A8%20AI%20%E5%86%99%E4%B9%A6%E7%9A%84%E3%80%82.md)
+* 2026-07-21 · [Loop 还没玩明白，Graph Engineering 又火了：说白了，就是给 Agent 组个团队](./ai-articles/01-agent-and-coding/Loop%20%E8%BF%98%E6%B2%A1%E7%8E%A9%E6%98%8E%E7%99%BD%EF%BC%8CGraph%20Engineering%20%E5%8F%88%E7%81%AB%E4%BA%86%EF%BC%9A%E8%AF%B4%E7%99%BD%E4%BA%86%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%20Agent%20%E7%BB%84%E4%B8%AA%E5%9B%A2%E9%98%9F.md)
+* 2026-07-20 · [OpenAI 官方提示词指南](./ai-articles/02-models-and-research/OpenAI%20%E5%AE%98%E6%96%B9%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E5%8D%97.md)
+* 2026-07-18 · [周三跟大家说的一些模型可能要发布，结果今天 Kimi 就炸场了。](./ai-articles/02-models-and-research/%E5%91%A8%E4%B8%89%E8%B7%9F%E5%A4%A7%E5%AE%B6%E8%AF%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%83%BD%E8%A6%81%E5%8F%91%E5%B8%83%EF%BC%8C%E7%BB%93%E6%9E%9C%E4%BB%8A%E5%A4%A9%20Kimi%20%E5%B0%B1%E7%82%B8%E5%9C%BA%E4%BA%86%E3%80%82.md)
+* 2026-07-18 · [LibTV](./ai-articles/05-ai-creation-and-media/LibTV.md)
+* 2026-07-16 · [离谱，GPT-5.6 竟然在后台执行了 rm -rf](./ai-articles/01-agent-and-coding/%E7%A6%BB%E8%B0%B1%EF%BC%8CGPT-5.6%20%E7%AB%9F%E7%84%B6%E5%9C%A8%E5%90%8E%E5%8F%B0%E6%89%A7%E8%A1%8C%E4%BA%86%20rm%20-rf.md)
 
 ## 为什么值得关注
 
